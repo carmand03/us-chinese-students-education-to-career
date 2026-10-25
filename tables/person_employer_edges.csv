@@ -1,0 +1,1574 @@
+﻿source,target,weight
+p:N00001,e:Beiyang Women’s Hospital,1
+p:N00001,e:University of Michigan,1
+p:N00003,e:Zhejiang-Jiangxi Railway Administration,1
+p:N00006,e:Northern Pacific Railroad Company,1
+p:N00006,"e:White Engineering Corporation, J.G.",1
+p:N00008,e:Vought-Sikorsky Aircraft Company,1
+p:N00010,e:University of Michigan,1
+p:N00012,e:Chinese Consulate General in New York,1
+p:N00014,e:Department of Military Training,1
+p:N00016,e:Tsinghua University,1
+p:N00016,e:Aviation Mechanics School,1
+p:N00016,e:Aeronautical Commission,1
+p:N00017,e:Department of Military Training,1
+p:N00019,e:Guangzhou Electricity Administration Office,1
+p:N00019,e:Shanghai Power Company,1
+p:N00019,e:Ziliujing Power Plant,1
+p:N00019,e:National Resources Commission,1
+p:N00020,e:University of Chicago,1
+p:N00020,e:Iowa State College,1
+p:N00022,e:Far East Religious Association,1
+p:N00024,e:Bank of China,1
+p:N00024,e:Lee Engineering Company,1
+p:N00025,e:United States Office of War Information,1
+p:N00027,e:Tsinghua University,1
+p:N00027,e:University of Illinois,1
+p:N00028,e:National Resources Commission,1
+p:N00029,e:National Resources Commission,1
+p:N00030,e:Howard Hughes Aircraft Company,1
+p:N00031,e:United States Embassy,1
+p:N00034,e:Nankou Locomotive Works,1
+p:N00034,e:Universal Trading Corporation,1
+p:N00035,e:Curtiss-Wright Aircraft Corporation,1
+p:N00036,e:Giffels & Vallet Incorporated,1
+p:N00038,e:Guomindang,1
+p:N00038,e:United States Department of Interior,1
+p:N00040,e:Syracuse University,1
+p:N00043,e:St. Francis Hospital,1
+p:N00044,e:Tsinghua University,1
+p:N00044,e:National Southwestern Associated University,1
+p:N00045,e:Firestone Tire & Rubber Corporation,1
+p:N00048,e:Ginling University,1
+p:N00048,e:Massachusetts Institute of Technology,1
+p:N00051,e:Massachusetts General Hospital,1
+p:N00052,e:Jiaotong University,1
+p:N00053,e:Peking University,1
+p:N00053,"e:Vultee Aircraft, Incorporated",1
+p:N00055,e:Sichuan Nanchong Provincial Middle School,1
+p:N00055,e:Sichuan Sanjiang County Middle School,1
+p:N00055,e:Harvard-Yenching Institute,1
+p:N00056,e:Yale University,1
+p:N00056,e:Universal Trading Corporation,1
+p:N00057,e:Beijing National Library,1
+p:N00057,e:Library of Congress,1
+p:N00059,e:Chinese Ministry of Military Administration,1
+p:N00059,e:Department of Military Training,1
+p:N00062,e:Department of Military Training,1
+p:N00063,e:Chinese Consulate General in Honolulu,1
+p:N00063,e:United States Embassy,1
+p:N00065,e:Columbia University,1
+p:N00068,e:Doctor's Hospital (Manhattan),1
+p:N00070,e:Weihaiwei Administrative Office,1
+p:N00070,e:Chinese Consulate in Boston,1
+p:N00070,e:United States Embassy,1
+p:N00071,e:Chinese Ministry of Foreign Affairs,1
+p:N00071,e:Chinese Consulate General in Chicago,1
+p:N00071,e:Chinese Consulate in New Orleans,1
+p:N00072,e:Wah Chang Trading Corporation,1
+p:N00072,e:Hudson Coal Company,1
+p:N00073,e:Guangxi Agricultural investigator to Honolulu,1
+p:N00074,e:University of Shanghai,1
+p:N00074,e:Zhejiang University,1
+p:N00074,e:University of Chicago,1
+p:N00076,"e:Kump Company, E.S.",1
+p:N00078,e:Beijing National Library,1
+p:N00078,e:Library of Congress,1
+p:N00079,e:West China Union University,1
+p:N00079,e:Merck & Company,1
+p:N00080,e:Wuhan University,1
+p:N00080,e:Chinese Ministry of Economic Affairs,1
+p:N00080,e:Hankow Commodity Inspection Bureau,1
+p:N00081,e:University of Wisconsin,1
+p:N00083,e:Chinese Legation at Panama,1
+p:N00084,e:Zhoushan Secondary School,1
+p:N00084,e:Philadelphia Public Schools,1
+p:N00085,e:Bell Telephone Laboratory,1
+p:N00086,e:Chinese Ministry of Communications,1
+p:N00086,e:Universal Trading Corporation,1
+p:N00089,e:Department of Military Training,1
+p:N00090,e:Army Mechanized School,1
+p:N00090,e:Department of Military Training,1
+p:N00093,e:Gliding Society,1
+p:N00093,e:Central Aircraft Manufacturing Factory,1
+p:N00094,e:Jiangsu Department of Reconstruction,1
+p:N00094,e:Industry Incorporated,1
+p:N00094,e:Sterling Engineering & Manufacturing Company,1
+p:N00096,e:Anhui First Girls’ Secondary School,1
+p:N00096,e:Dinghai Girls’ Secondary School,1
+p:N00096,e:Chinese Ministry of Education,1
+p:N00097,e:Department of Military Training,1
+p:N00098,e:China Development Finance Corporation,1
+p:N00098,e:Zhejiang University,1
+p:N00098,e:China Defense Supplies Corporation,1
+p:N00098,e:National Resources Commission,1
+p:N00100,e:Chinese Ministry of Military Administration,1
+p:N00100,e:Department of Military Training,1
+p:N00102,e:Federal Communication Commission,1
+p:N00103,e:Aeronautical Commission,1
+p:N00104,e:Chung Cheng University,1
+p:N00105,e:Hebei Provincial No. 17 Middle School,1
+p:N00105,e:Shandong First Provincial Middle School,1
+p:N00105,e:Princeton Institute for Advanced Study,1
+p:N00106,e:Shaanxi Department of Education,1
+p:N00106,e:Shaanxi Provincial First Vocational School,1
+p:N00106,e:Universal Trading Corporation,1
+p:N00107,e:Bank of China,1
+p:N00108,e:Chongqing University,1
+p:N00108,e:National Resources Commission,1
+p:N00108,e:Materials Testing Division,1
+p:N00108,e:Ordnance Specialized School,1
+p:N00109,e:Texas Company,1
+p:N00109,e:Ethyl Gasoline Corporation,1
+p:N00109,e:Micamold Radio Corporation,1
+p:N00110,e:Yenching University,1
+p:N00110,e:University of Michigan,1
+p:N00111,e:Bank of Canton,1
+p:N00112,e:Beiping Middle School,1
+p:N00112,e:Universal Trading Corporation,1
+p:N00114,e:United States Department of War,1
+p:N00116,e:Giffels & Vallet Incorporated,1
+p:N00116,e:Universal Trading Corporation,1
+p:N00117,e:Bank of China,1
+p:N00122,e:University of Chicago,1
+p:N00122,e:Ohio State University,1
+p:N00122,e:Ohio Division of Social Administration,1
+p:N00123,e:Fu Jen Catholic University,1
+p:N00123,e:Yenching University,1
+p:N00123,e:Library of Congress,1
+p:N00124,e:Kunming Direct Tax Bureau,1
+p:N00125,e:Socony-Vacuum Oil Company Incorporated,1
+p:N00126,e:Tsinghua University,1
+p:N00127,e:University of Nanking (Ginling University),1
+p:N00130,e:Tsinghua University,1
+p:N00132,e:Bao’an District Court,1
+p:N00135,e:Tsinghua University,1
+p:N00136,e:American Airlines Incorporated,1
+p:N00136,e:Curtiss-Wright Aircraft Corporation,1
+p:N00137,e:Howard Hughes Aircraft Company,1
+p:N00138,e:Christ Church's Orchestra,1
+p:N00139,e:Yale University,1
+p:N00143,e:General Electric Company,1
+p:N00144,e:Jiangxi Highway Bureau,1
+p:N00144,e:Yunnan–Burma Railway,1
+p:N00144,e:Department of Military Training,1
+p:N00144,e:Fifth Army,1
+p:N00147,e:Giffels & Vallet Incorporated,1
+p:N00148,e:China Defense Supplies Corporation,1
+p:N00149,e:Aeronautical Commission,1
+p:N00150,e:Utopia University (Datong University),1
+p:N00152,e:Wah Chang Trading Corporation,1
+p:N00154,e:China Motor Corporation,1
+p:N00154,e:Fifth Army,1
+p:N00155,e:Peking University,1
+p:N00155,e:Chinese Ministry of Military Administration,1
+p:N00155,e:University of Minnesota,1
+p:N00156,e:Tsinghua University,1
+p:N00157,e:United States Department of Interior,1
+p:N00159,e:Guomindang,1
+p:N00159,e:Yunnan First Provincial Middle School,1
+p:N00159,e:Chinese News Service,1
+p:N00159,e:American Bureau for Medical Aid to China,1
+p:N00160,e:Lingnan University,1
+p:N00160,e:United States Department of Interior,1
+p:N00161,e:Massachusetts Institute of Technology,1
+p:N00163,e:University of Minnesota,1
+p:N00163,e:Philco Corporation,1
+p:N00163,e:University of Pennsylvania,1
+p:N00165,e:Department of Military Training,1
+p:N00166,e:Peiyang University,1
+p:N00166,e:National Resources Commission,1
+p:N00166,e:Liuhegou Ironworks,1
+p:N00172,e:Puget Sound Navy Yard,1
+p:N00172,e:May Chemical Company,1
+p:N00173,e:Church Committee for China Relief,1
+p:N00176,e:American Gas & Electric Service Corporation,1
+p:N00177,e:United States Department of Labor,1
+p:N00180,e:Guangdong Provincial Government,1
+p:N00180,e:Military Affairs Commission,1
+p:N00180,e:Minqi Daily,1
+p:N00184,e:Crucible Steel Corporation,1
+p:N00185,e:Chinese Consulate General in New York,1
+p:N00187,"e:National Reconditioning Company, Incorporated",1
+p:N00188,e:University of Southern California,1
+p:N00189,e:Allis-Chalmers Manufacturing Company,1
+p:N00189,e:General Cable Corporation,1
+p:N00190,e:McTyeire School for Girls,1
+p:N00190,e:Shanghai Municipal Council Girls' Middle School,1
+p:N00190,e:Bank of China,1
+p:N00191,e:Soochow University,1
+p:N00192,e:University of Michigan,1
+p:N00193,e:Chinese Ministry of Military Administration,1
+p:N00193,e:China Defense Supplies Corporation,1
+p:N00194,e:Chinese Consulate in Luanda,1
+p:N00194,e:Chinese Consulate General in San Francisco,1
+p:N00194,e:Chinese Consulate General in New York,1
+p:N00194,e:Chinese Consulate in Seattle,1
+p:N00195,e:National Resources Commission,1
+p:N00195,e:Zhejiang University,1
+p:N00196,e:Farmers Bank of China,1
+p:N00196,e:Yunnan Investigation & Design Commission,1
+p:N00198,e:Harvard University,1
+p:N00198,e:Stone & Webster Engineering Corporation,1
+p:N00199,e:Boston Children's Hospital,1
+p:N00202,e:University of South California,1
+p:N00203,e:Health Demonstration Center,1
+p:N00204,e:United States Naval Liaison Staff Office,1
+p:N00205,e:Wuzhou Municipal Education Bureau,1
+p:N00205,e:Guangdong Provincial Government,1
+p:N00209,e:Harvard University,1
+p:N00211,e:Nanjing General Headquarters,1
+p:N00211,e:Army Mechanized School,1
+p:N00211,e:China Defense Supplies Corporation,1
+p:N00212,e:Huawen Secondary School,1
+p:N00215,e:Cornell University,1
+p:N00217,"e:Taishan County Secondary School, Guangdong",1
+p:N00217,e:Willamette Iron & Steel Works,1
+p:N00217,e:Seattle School of Economics,1
+p:N00217,e:Kaiser Shipbuilding Corporation,1
+p:N00218,e:New York Memorial Hospital,1
+p:N00219,e:St. Luke Hospital,1
+p:N00224,e:Department of Military Training,1
+p:N00225,e:University of Chicago,1
+p:N00226,e:Bank of China,1
+p:N00227,e:General Electric Company,1
+p:N00232,e:Kaiser Shipbuilding Corporation,1
+p:N00233,e:Sun Yat-sen University,1
+p:N00234,e:Defense Project,1
+p:N00235,e:Chongqing Municipal Government,1
+p:N00236,e:Beiping Datong Middle School,1
+p:N00236,e:Free World (Monthly),1
+p:N00238,"e:Warren Company, S.D.",1
+p:N00242,e:University of California,1
+p:N00244,e:Radio Corporation of America (RCA),1
+p:N00245,e:University of Nanking (Ginling University),1
+p:N00245,e:University of California,1
+p:N00245,e:China Food Products Company,1
+p:N00246,e:Harrison Gas Works,1
+p:N00247,e:National Central University,1
+p:N00247,e:Sichuan Secondary School Teachers' Summer Training Class,1
+p:N00248,e:Chinese Ministry of Communications,1
+p:N00249,e:Universal Trading Corporation,1
+p:N00250,"e:Bugbird & Company, H.C.",1
+p:N00250,e:Jacques Wolf & Company,1
+p:N00251,e:State of Connecticut,1
+p:N00251,e:Library of Congress,1
+p:N00252,e:National Central University,1
+p:N00252,e:Jiaotong University,1
+p:N00252,e:National Tariff Commission,1
+p:N00252,e:Commercial Counsellor for North America,1
+p:N00253,e:Chinese Consulate General in Havana,1
+p:N00253,e:Chinese Legation in Germany,1
+p:N00253,e:Chinese Consulate General in Honolulu,1
+p:N00254,e:Century Industrial Company,1
+p:N00256,e:American Accounting Systems,1
+p:N00256,e:Union Audit Bureau,1
+p:N00259,e:Curtiss-Wright Aircraft Corporation,1
+p:N00261,e:Federal Broadcasting Intelligence Service,1
+p:N00261,e:Sino-American Daily,1
+p:N00261,e:Yuantailin Transport Company,1
+p:N00262,e:China Institute in America,1
+p:N00263,e:Aeronautical Commission,1
+p:N00265,e:Western Electric Company,1
+p:N00266,e:Fukien Christian University,1
+p:N00268,e:China Institute in America,1
+p:N00269,e:Nankai Institute of Economics,1
+p:N00269,e:National Resources Commission,1
+p:N00270,e:Chinese Ministry of Economic Affairs,1
+p:N00271,e:Jianguo Secondary School,1
+p:N00278,e:Bethlehem Steel Company,1
+p:N00286,e:Giffels & Vallet Incorporated,1
+p:N00287,e:Universal Trading Corporation,1
+p:N00288,e:Grunman Aircraft Engineering Corporation,1
+p:N00288,e:Lee Engineering Company,1
+p:N00289,e:Fukien Christian University,1
+p:N00291,e:Bank of China,1
+p:N00292,e:General Electric Company,1
+p:N00296,e:Radio Corporation of America (RCA),1
+p:N00296,e:Publicker Commercial Alcohol Company,1
+p:N00298,e:Universal Trading Corporation,1
+p:N00299,e:Consulate General in Shanghai [country unspecified],1
+p:N00300,e:General Electric Company,1
+p:N00301,e:Chinese Ministry of Industry,1
+p:N00301,e:Bank of China,1
+p:N00306,e:Western Yunnan Railway,1
+p:N00307,e:American Sheet Metal Company,1
+p:N00307,e:Kaiser Shipbuilding Corporation,1
+p:N00308,e:Socony-Vacuum Oil Company Incorporated,1
+p:N00313,e:Bank of China,1
+p:N00315,"e:Ebasco Services, Incorporated",1
+p:N00316,e:Soochow University,1
+p:N00320,e:Wally Timm Company,1
+p:N00321,e:Vanderbilt University,1
+p:N00322,e:Army Mechanized School,1
+p:N00322,e:Chinese Ministry of Military Administration,1
+p:N00322,e:Department of Military Training,1
+p:N00326,e:Cheeloo University (Shandong University),1
+p:N00326,e:Northwestern University,1
+p:N00328,e:Universal Trading Corporation,1
+p:N00328,e:Acorn Wire & Cable Company,1
+p:N00331,e:Tsinghua University,1
+p:N00331,e:Central Radio Works,1
+p:N00333,e:Universal Trading Corporation,1
+p:N00334,e:Xiamen Municipal Government,1
+p:N00335,e:American Airlines Incorporated,1
+p:N00336,e:Shanghai Wuben Girls' High School,1
+p:N00337,e:Universal Trading Corporation,1
+p:N00338,"e:Xinyi Pharmaceutical Works, Shanghai",1
+p:N00338,e:Socony-Vacuum Oil Company Incorporated,1
+p:N00339,e:Universal Trading Corporation,1
+p:N00340,e:Beijing Normal University,1
+p:N00340,e:Stanford University,1
+p:N00342,e:China Defense Supplies Corporation,1
+p:N00342,e:China Joint Transportation Company,1
+p:N00343,e:Boston City Hospital,1
+p:N00343,e:Mount Morris Tuberculosis Hospital,1
+p:N00344,e:National City Bank of New York,1
+p:N00346,e:Mahony-Troast Construction Company,1
+p:N00347,e:Army Mechanized School,1
+p:N00352,e:United States Bureau of Census,1
+p:N00354,e:Gong County Arsenal,1
+p:N00354,e:Universal Trading Corporation,1
+p:N00358,e:Soochow University,1
+p:N00360,"e:Hutton & Company, E.F.",1
+p:N00360,e:New York Stock Exchange,1
+p:N00362,e:Liongsin Press,1
+p:N00362,e:American Airlines Incorporated,1
+p:N00363,e:Mutai Engineering Office,1
+p:N00363,e:Giffels & Vallet Incorporated,1
+p:N00366,e:Universal Trading Corporation,1
+p:N00368,e:Curtiss-Wright Aircraft Corporation,1
+p:N00369,e:Canton–Hankow Railway,1
+p:N00369,e:Peiping–Mukden Railway,1
+p:N00369,e:Peiping–Suiyuan Railway,1
+p:N00369,e:Chengting–Taiyuan Railways,1
+p:N00369,e:Jiaotong University,1
+p:N00369,e:Chinese Ministry of Communications,1
+p:N00370,e:Chinese Consulate General in Honolulu,1
+p:N00374,e:University of California,1
+p:N00374,e:Smith College,1
+p:N00374,e:Princeton University,1
+p:N00375,e:Tsinghua University,1
+p:N00375,e:National Southwestern Associated University,1
+p:N00378,e:Wah Chang Trading Corporation,1
+p:N00379,e:Chinese-American Weekly,1
+p:N00379,e:Minqi Daily,1
+p:N00380,"e:Carbolog Company, Incorporated",1
+p:N00386,e:Chinese Embassy in the United States,1
+p:N00386,e:United States Embassy,1
+p:N00390,e:United States Department of Interior,1
+p:N00393,e:Guangzhou Municipal Bureau of Engineering,1
+p:N00393,e:Rangqin University (SoengKen University of Canton),1
+p:N00393,e:Rust Engineering Company,1
+p:N00394,e:Chinese Consulate General in Iowa,1
+p:N00394,e:Chinese Consulate General in New York,1
+p:N00394,e:Chinese Consulate in Houston,1
+p:N00396,e:Tsinghua University,1
+p:N00397,e:Yale University,1
+p:N00398,e:Douglas Aircraft Company,1
+p:N00406,e:Wah Chang Trading Corporation,1
+p:N00408,e:Chongqing Postal Remittance and Savings Bank,1
+p:N00408,e:Pillsbury's Flour Mills Company,1
+p:N00409,e:Bank of China,1
+p:N00409,e:United States Department of Interior,1
+p:N00410,e:Willamette Iron & Steel Works,1
+p:N00410,e:Kaiser Shipbuilding Corporation,1
+p:N00413,e:Bank of China,1
+p:N00416,e:Northeastern University,1
+p:N00417,e:Douglas Aircraft Company,1
+p:N00418,e:Republic Aviation Corporation,1
+p:N00418,e:Stinson Aircraft Corporation,1
+p:N00421,e:University of California,1
+p:N00422,e:China Review Weekly,1
+p:N00422,e:Commercial Press,1
+p:N00422,e:Universal Trading Corporation,1
+p:N00424,e:Bank of China,1
+p:N00425,e:Illinois Institute of Technology,1
+p:N00425,e:University of Notre Dame,1
+p:N00426,e:University of Chicago,1
+p:N00426,e:Pullman Car Manufacturing Company,1
+p:N00426,e:United States Army,1
+p:N00429,"e:Bauschlein Company, W.L.",1
+p:N00431,e:Hermann Biggs Memorial Hospital,1
+p:N00434,e:Washington Pump & Machinery Company,1
+p:N00434,e:Oregon Shipbuilding Corporation,1
+p:N00437,e:National Resources Commission,1
+p:N00438,e:Aeronautical Commission,1
+p:N00438,e:Department of Military Training,1
+p:N00439,e:Chinese Consulate in Seattle,1
+p:N00440,e:Academia Sinica,1
+p:N00440,e:Harvard-Yenching Institute,1
+p:N00442,e:Giffels & Vallet Incorporated,1
+p:N00443,e:Massachusetts Institute of Technology,1
+p:N00444,e:Boeing Aircraft Company,1
+p:N00445,e:General Electric Company,1
+p:N00447,e:Municipal Government,1
+p:N00447,e:United States Treasury Department,1
+p:N00448,e:Academia Sinica,1
+p:N00449,e:Utah Copper Company,1
+p:N00451,e:Jiangsu Huaihe River Diversion Project Office,1
+p:N00451,e:Military Affairs Commission,1
+p:N00451,e:Chinese Consulate in New Orleans,1
+p:N00452,e:University of Michigan,1
+p:N00452,e:Mayers' Aircraft Corporation,1
+p:N00454,e:University of Michigan,1
+p:N00455,e:Tsinghua University,1
+p:N00455,e:Yunnan Provincial Economic Commission,1
+p:N00455,e:Chinese National Government,1
+p:N00457,e:New York State Department of Health,1
+p:N00458,e:Department of Military Training,1
+p:N00460,e:Publicker Commercial Alcohol Company,1
+p:N00462,e:Aeronautical Commission,1
+p:N00467,e:Luotian County Finance Bureau,1
+p:N00467,e:Jianghan Bureau,1
+p:N00467,e:Chinese Ministry of Finance,1
+p:N00467,e:China Merchants Steam Navigation Company,1
+p:N00467,e:Arthur Anderson & Company,1
+p:N00468,e:Minguo University (Beijing),1
+p:N00469,e:Songjiang Guangzheng Middle School,1
+p:N00471,e:Yenching University,1
+p:N00472,e:Ottawa Consultate,1
+p:N00476,e:Wuhan University,1
+p:N00476,e:National Central University,1
+p:N00476,e:Legislative Yuan,1
+p:N00476,e:People's Political Council,1
+p:N00478,e:Department of Military Training,1
+p:N00479,e:Chongqing Dredging and Maintenance Office,1
+p:N00481,e:University of Michigan,1
+p:N00484,e:Fujian Provincial Department of Reconstruction,1
+p:N00486,e:Bank of Canton,1
+p:N00488,e:Wah Chang Trading Corporation,1
+p:N00490,e:Yenching University,1
+p:N00490,"e:Kellogg Company, M.W.",1
+p:N00490,e:Universal Trading Corporation,1
+p:N00490,e:Ferro Enamel Corporation,1
+p:N00490,e:Mexico Refractories Company,1
+p:N00490,e:National Refractories Company,1
+p:N00491,e:Bank of China,1
+p:N00492,e:Carbon & Carbide Chemical Company,1
+p:N00495,e:Peiping–Mukden Railway,1
+p:N00495,e:Chinese Ministry of Communications,1
+p:N00495,e:Fu’an Company,1
+p:N00495,e:General Bureau of Highway Transport,1
+p:N00496,e:Huasheng Electrical Appliance Manufacturing Works,1
+p:N00496,e:Jiaotong University,1
+p:N00496,e:National Resources Commission,1
+p:N00497,e:Tsinghua University,1
+p:N00501,e:China Institute in America,1
+p:N00501,e:Chinese News Service,1
+p:N00502,e:Yale University,1
+p:N00504,e:Whampoa Military Academy,1
+p:N00504,e:Sun Yat-sen University,1
+p:N00504,e:Wuhan Daily,1
+p:N00504,e:Pacific News Agency,1
+p:N00504,e:Zhonghua News Agency,1
+p:N00507,e:United States Embassy,1
+p:N00508,e:Tsinghua University,1
+p:N00508,e:Central Aircraft Manufacturing Factory,1
+p:N00513,e:Tsinghua University,1
+p:N00513,e:National Southwestern Associated University,1
+p:N00516,e:Bank of China,1
+p:N00517,e:Kansas City Power & Light Company,1
+p:N00520,e:Tsinghua Mechanized Training School,1
+p:N00520,e:Jones & Lamson Machine Company,1
+p:N00521,e:Universal Trading Corporation,1
+p:N00522,e:Universal Trading Corporation,1
+p:N00526,e:Lingnan University,1
+p:N00526,e:Dry Food Incorporated,1
+p:N00529,e:Chinese Ministry of Communications,1
+p:N00529,e:Federal Telephone & Radio Corporation,1
+p:N00531,e:National Resources Commission,1
+p:N00531,e:Ford Motor Company,1
+p:N00531,e:Bryant Chucking Grinder Company,1
+p:N00531,e:Central Motors Corporation,1
+p:N00534,e:Yien Yieh Commercial Bank,1
+p:N00536,e:New York Central System,1
+p:N00537,e:Fifth Army,1
+p:N00537,e:Cone Automatic Machine Company,1
+p:N00537,e:Lee Engineering Company,1
+p:N00538,e:Kunming Broadcasting Station,1
+p:N00539,e:China Defense Supplies Corporation,1
+p:N00540,e:Peking University,1
+p:N00543,e:Department of Military Training,1
+p:N00546,e:University of Michigan,1
+p:N00546,e:Giffels & Vallet Incorporated,1
+p:N00551,e:Allis-Chalmers Manufacturing Company,1
+p:N00555,e:Sparks-Withington Company,1
+p:N00556,e:National Southwestern Associated University,1
+p:N00558,e:Tsinghua University,1
+p:N00559,e:National Central University,1
+p:N00559,e:Aeronautical Commission,1
+p:N00559,e:Chinese Ministry of Communications,1
+p:N00561,e:Aerojet Engineering Corporation,1
+p:N00561,e:General Electric Company,1
+p:N00561,e:Vought-Sikorsky Aircraft Company,1
+p:N00561,e:China Aircraft Corporation,1
+p:N00562,e:New York Central Railroad Company,1
+p:N00562,e:Lee Engineering Company,1
+p:N00564,e:Zhenjiang Dazhao Electric Light & Power Company,1
+p:N00564,e:National Resources Commission,1
+p:N00567,e:Universal Trading Corporation,1
+p:N00568,e:Department of Military Training,1
+p:N00568,e:Fifth Army,1
+p:N00569,e:Atlas Powder Company,1
+p:N00571,e:Great China University (Daxia University),1
+p:N00571,e:Sichuan University,1
+p:N00571,e:Universal Trading Corporation,1
+p:N00572,e:Tsinghua University,1
+p:N00573,e:Yale University,1
+p:N00574,e:Yongli Chemical Industry Co.,1
+p:N00575,e:Lingnan University,1
+p:N00578,e:National Resources Commission,1
+p:N00578,e:Chinese Ministry of Economic Affairs,1
+p:N00578,e:National Construction Commission,1
+p:N00579,e:University of Southern California,1
+p:N00580,e:Central Electrical Equipment Works,1
+p:N00580,e:General Electric Company,1
+p:N00581,e:Bank of China,1
+p:N00583,e:Chrysler Corporation,1
+p:N00584,e:Harvard University,1
+p:N00584,e:Bell Telephone Laboratory,1
+p:N00585,e:Houdalle-Hershey Corporation,1
+p:N00587,e:Tianjin Institute of Commerce and Industry,1
+p:N00587,e:National Bank of Detroit,1
+p:N00588,e:Wayland Academy (Hangzhou Huilan Middle School),1
+p:N00588,e:University of California,1
+p:N00590,e:Army Mechanized School,1
+p:N00590,e:Department of Military Training,1
+p:N00591,e:Tsinghua University,1
+p:N00596,e:Hwa Nan Academy,1
+p:N00596,e:Common Council for American Unity,1
+p:N00597,e:National Resources Commission,1
+p:N00601,e:Institute of Pacific Relations,1
+p:N00602,e:National Resources Commission,1
+p:N00602,e:Chinese Ministry of Economic Affairs,1
+p:N00604,e:National Central University,1
+p:N00604,e:University of Nanking (Ginling University),1
+p:N00604,e:United States Department of Interior,1
+p:N00607,e:National Resources Commission,1
+p:N00607,e:Aeronautical Commission,1
+p:N00607,e:China Automobile Manufacturing Company,1
+p:N00609,e:Department of Military Training,1
+p:N00609,e:Fifth Army,1
+p:N00610,e:Wenshang County Government,1
+p:N00610,e:Rural Reconstruction Association,1
+p:N00611,e:University of Nanking (Ginling University),1
+p:N00614,e:Aeronautical Commission,1
+p:N00615,e:Standard Oil Company of New York,1
+p:N00616,e:Nankai University,1
+p:N00616,e:Soochow University,1
+p:N00622,e:Lingnan University,1
+p:N00623,e:Bank of China,1
+p:N00624,e:Yenching University,1
+p:N00627,e:National Paint & Varnish Company,1
+p:N00628,e:Tsinghua University,1
+p:N00629,e:West China Union University,1
+p:N00629,e:American Resinous Chemical Corporation,1
+p:N00630,e:Republic Steel Mill,1
+p:N00630,"e:National Reconditioning Company, Incorporated",1
+p:N00631,e:Westinghouse Electric Manufacturing Company,1
+p:N00631,"e:National Reconditioning Company, Incorporated",1
+p:N00633,e:Iowa State College,1
+p:N00635,e:Southern Pacific Railway Company,1
+p:N00636,e:Tsinghua University,1
+p:N00636,e:Jiaotong University,1
+p:N00636,e:Chinese Ministry of Military Administration,1
+p:N00637,e:University of Chicago,1
+p:N00639,e:Guangzhou Hanguang Middle School,1
+p:N00641,e:Jersey City Medical Center,1
+p:N00641,e:New York Infirmary Hospital,1
+p:N00642,e:University of Colorado,1
+p:N00642,e:University of Michigan,1
+p:N00643,e:Yale University,1
+p:N00644,e:United China Relief,1
+p:N00645,e:Mississippi Valley Structural Company,1
+p:N00645,e:John B. Fischer Architect,1
+p:N00646,e:National Resources Commission,1
+p:N00646,e:China Automobile Manufacturing Company,1
+p:N00646,e:Chinese Ministry of Military Administration,1
+p:N00647,e:Sundstrand Machine Tool Company,1
+p:N00649,e:Yellow River Commission,1
+p:N00649,e:United States Waterways Experiment Station,1
+p:N00649,e:Universal Trading Corporation,1
+p:N00649,e:Tennessee Valley Authority,1
+p:N00649,e:Mississippi River Commission,1
+p:N00655,e:Huanqiu Paper Mill,1
+p:N00657,e:United States Bureau Of Mines,1
+p:N00658,e:Hunan-Guangxi Railway,1
+p:N00659,e:Chinese Consulate General in New York,1
+p:N00661,e:Kaiser Shipbuilding Corporation,1
+p:N00662,e:Yale University,1
+p:N00666,e:Central Agricultural Experiment Station,1
+p:N00666,e:Central Cotton Improvement Institute,1
+p:N00666,e:University of Minnesota,1
+p:N00668,e:National Resources Commission,1
+p:N00669,e:Universal Trading Corporation,1
+p:N00670,e:Kodak Research Laboratory,1
+p:N00671,e:Office of the United States Naval Attaché,1
+p:N00672,e:California Institute of Technology,1
+p:N00672,e:Radio Corporation of America (RCA),1
+p:N00674,e:National Resources Commission,1
+p:N00675,e:Department of Military Training,1
+p:N00676,e:Jiujiang Coal Administration Office,1
+p:N00676,e:National Resources Commission,1
+p:N00676,e:Northern Yunnan Mining Bureau,1
+p:N00676,e:Zhongfu Coal Mining Company,1
+p:N00677,e:Wuhan University,1
+p:N00677,e:University of Shanghai,1
+p:N00677,e:Northeastern (Dongbei) University,1
+p:N00679,e:University of Minnesota,1
+p:N00680,e:General Electric Company,1
+p:N00681,e:China Institute in America,1
+p:N00681,e:General Electric Company,1
+p:N00682,e:Bank of China,1
+p:N00684,e:Yenching University,1
+p:N00684,e:China Institute of Psychological Physiology,1
+p:N00686,e:National Southeastern University,1
+p:N00686,e:Chizhi University,1
+p:N00686,e:Jiaotong University,1
+p:N00686,e:Chinese Ministry of Foreign Affairs,1
+p:N00686,e:Chinese Ministry of Propaganda,1
+p:N00686,e:Conference on the Reduction of Armaments,1
+p:N00686,e:Legislative Yuan,1
+p:N00686,e:Southern University,1
+p:N00688,e:Tsinghua University,1
+p:N00688,e:Jiangsu Provincial Changzhou Middle School,1
+p:N00691,e:Richmond Gard #2,1
+p:N00693,e:National Resources Commission,1
+p:N00693,e:Canton–Hankow Railway,1
+p:N00693,e:Yunnan-Guangxi Railway,1
+p:N00693,e:Xiang-Gui Railway Assistant Engineering Office,1
+p:N00694,e:New Republic Chinese Daily,1
+p:N00694,e:Young China Morning News,1
+p:N00695,e:New England Aircraft School,1
+p:N00695,e:Stone & Webster Engineering Corporation,1
+p:N00696,e:China Institute in America,1
+p:N00696,e:Construction Company,1
+p:N00696,e:United States Department of War,1
+p:N00697,e:Institute For Juvenile Research,1
+p:N00698,e:Ministry of Posts and Communications,1
+p:N00705,e:National Central University,1
+p:N00705,e:Peking Union Medical College (PUMC),1
+p:N00706,e:Chinese Ministry of Communications,1
+p:N00707,e:Fu Jen Catholic University,1
+p:N00707,e:Kailan Mining Administration,1
+p:N00707,"e:Joseph E. Seagran & Sons, Incorporated",1
+p:N00711,e:Merrimack Manufacturing Company,1
+p:N00712,e:Inland Steel Company,1
+p:N00715,e:United States Steel Export Company,1
+p:N00716,e:Tsinghua University,1
+p:N00716,e:Chinese Ministry of Communications,1
+p:N00717,e:Peking University,1
+p:N00717,e:Tsinghua University,1
+p:N00717,e:Tianjin French-Chinese College,1
+p:N00717,e:Northeastern (Dongbei) University,1
+p:N00717,e:Universal Trading Corporation,1
+p:N00718,e:Federal Reserve Bank,1
+p:N00724,e:George Washington University,1
+p:N00725,e:Pan-American Airways System,1
+p:N00726,e:Chinese News Service,1
+p:N00727,e:Moore Dry Dock Company,1
+p:N00730,"e:R.L.A. Laboratories, Incorporated",1
+p:N00731,e:Swiss-American Gear Corporation,1
+p:N00732,e:Yenching University,1
+p:N00732,e:Sichuan University,1
+p:N00732,e:National Southwestern Associated University,1
+p:N00734,e:Yenching University,1
+p:N00734,e:Hsiangya (Hunan-Yale) Medical College,1
+p:N00735,e:Machine & Tool Design Company,1
+p:N00736,e:Universal Trading Corporation,1
+p:N00737,e:Pomona College,1
+p:N00738,e:Peking University,1
+p:N00739,e:Executive Yuan,1
+p:N00740,e:International Business Machine Corporation,1
+p:N00743,e:Chinese Consulate in Managua,1
+p:N00743,e:United China Relief,1
+p:N00746,e:New York State Agricultural Experiment Station,1
+p:N00747,e:Universal Trading Corporation,1
+p:N00748,e:Academia Sinica,1
+p:N00748,e:National Central University,1
+p:N00748,e:National Resources Commission,1
+p:N00748,e:Zhejiang University,1
+p:N00748,e:National Defense Planning Commission,1
+p:N00748,e:People's Political Council,1
+p:N00752,e:Academia Sinica,1
+p:N00752,e:Guangxi Provincial Grain Planning Commission,1
+p:N00752,e:Zhejiang University,1
+p:N00753,e:Allied Engineers Incorporated,1
+p:N00753,e:Francis Engineering Company,1
+p:N00754,e:National Geophysical Company,1
+p:N00755,e:Jiangsu Provincial Popular Education College,1
+p:N00755,e:Zhejiang Provincial Hangzhou Normal School,1
+p:N00755,e:Zhejiang University,1
+p:N00757,e:Peking University,1
+p:N00757,e:Sichuan University,1
+p:N00758,"e:Marmon-Herrington Company, Incorporated",1
+p:N00759,e:Harvard University,1
+p:N00759,e:Office of Scientific Research & Development,1
+p:N00761,e:Jiangxi Provincial Women’s Guidance Office,1
+p:N00761,e:University of Chicago,1
+p:N00762,e:Aeronautical Commission,1
+p:N00762,e:Consolidated Aircraft Corporation,1
+p:N00764,e:Chinese Embassy in Italy,1
+p:N00764,e:United States Embassy,1
+p:N00768,e:Young Women's Christian Association (YWCA),1
+p:N00769,e:Tianjin Institute of Commerce and Industry,1
+p:N00769,e:Giffels & Vallet Incorporated,1
+p:N00769,e:United States Army,1
+p:N00771,e:United States Office of War Information,1
+p:N00772,e:Steel Company of Canada,1
+p:N00772,e:Chinese Ministry of Military Administration,1
+p:N00773,e:Chrysler Corporation,1
+p:N00775,e:United States Navy,1
+p:N00776,e:Nanjing Higher Police Officers Academy,1
+p:N00776,e:University of Nanking (Ginling University),1
+p:N00778,e:Los Angeles County General Hospital,1
+p:N00779,e:Sichuan University,1
+p:N00784,e:Tsinghua University,1
+p:N00784,e:Yale University,1
+p:N00785,e:Tsinghua University,1
+p:N00785,e:Aircraft Structural Development,1
+p:N00785,e:Glenn L. Martin Company,1
+p:N00785,e:United States Plywood Corporation,1
+p:N00787,e:Chekiang Industrial Bank,1
+p:N00790,e:Tsinghua University,1
+p:N00791,e:Ginling University,1
+p:N00791,e:National Central University,1
+p:N00792,e:Central Agricultural Experiment Station,1
+p:N00792,e:National Rice and Wheat Improvement Institute,1
+p:N00794,e:Universal Trading Corporation,1
+p:N00797,e:Cook County Hospital,1
+p:N00798,e:Riskin & Feer Architect,1
+p:N00803,e:Bank of China,1
+p:N00804,e:Bank of China,1
+p:N00804,e:Wells Fargo Bank & Union Trust Company,1
+p:N00804,e:Irving Trust Company New York,1
+p:N00804,e:National Gypsim Company,1
+p:N00805,e:Tsinghua University,1
+p:N00807,e:Chinese Ministry of Social Affairs,1
+p:N00808,e:Peking University,1
+p:N00808,e:Hunan University,1
+p:N00811,e:lowa Agricultural Experiment Station,1
+p:N00813,e:Citizens' Foreign Relations Association,1
+p:N00815,e:Shantou Post Office,1
+p:N00816,e:Yuhua Enterprise Finance Company,1
+p:N00818,e:Lingnan University,1
+p:N00818,e:Harvard University,1
+p:N00824,e:Guilin Field Headquarters,1
+p:N00824,e:Department of Military Training,1
+p:N00826,e:National Resources Commission,1
+p:N00833,e:Lingnan University,1
+p:N00833,e:Peking University,1
+p:N00833,e:University of Hawaii,1
+p:N00833,e:Pomona College,1
+p:N00834,e:Trico Products Corporation,1
+p:N00835,e:Allis-Chalmers Manufacturing Company,1
+p:N00835,e:Murray Iron Works Company,1
+p:N00840,e:University of California,1
+p:N00841,e:Bank of China,1
+p:N00842,e:Universal Trading Corporation,1
+p:N00844,e:Bank of Canton,1
+p:N00851,e:United States Nitrate Plant 02,1
+p:N00853,e:Stran Steel Corporation,1
+p:N00854,e:Zhongshan Middle School,1
+p:N00854,e:Hong Kong Commercial Daily,1
+p:N00854,e:Mills College,1
+p:N00855,e:General Electric Company,1
+p:N00855,e:Oregon Shipbuilding Corporation,1
+p:N00856,e:University of California,1
+p:N00858,e:Academia Sinica,1
+p:N00858,e:Jiangnan Cement Company,1
+p:N00858,e:Qixin Foreign Trading Company,1
+p:N00859,e:Henry Street Visiting Nurse Service,1
+p:N00860,e:Beijing Normal University,1
+p:N00860,e:Hebei Provincial Fisheries Specialized School,1
+p:N00862,e:Political Critic,1
+p:N00863,e:Nankai University,1
+p:N00863,e:Tientsin–Pukow Railway,1
+p:N00863,e:National Central University,1
+p:N00863,e:Yunnan–Burma Railway,1
+p:N00863,e:Chinese Ministry of Communications,1
+p:N00864,e:Liberty Tool & Cage Incoporation,1
+p:N00865,e:Giffels & Vallet Incorporated,1
+p:N00866,e:Bank of China,1
+p:N00867,e:Burlington County Hospital,1
+p:N00869,e:Iowa State College,1
+p:N00872,e:Guangdong Provincial Government,1
+p:N00872,e:New York City Chemical Corporation,1
+p:N00872,e:Heyuan Procasa Company,1
+p:N00874,e:Qingdao Railway,1
+p:N00874,e:Primary School,1
+p:N00875,e:Fuzhou Provincial Secondary School of Home Economics,1
+p:N00878,e:National Southwestern Associated University,1
+p:N00879,e:Overseas Chinese Affairs Commission,1
+p:N00879,e:Guomin Daily,1
+p:N00879,e:National Daily Special Edition,1
+p:N00879,e:Minqi Daily,1
+p:N00879,e:People's Daily (New York),1
+p:N00879,e:Chinese Consulate in Houston,1
+p:N00879,e:Guomindang,1
+p:N00880,e:Reece Button-Hole Company,1
+p:N00881,e:Bank of China,1
+p:N00882,e:Tsinghua University,1
+p:N00883,e:Office of the United States Army Attaché,1
+p:N00884,"e:Yingguang Secondary School, Canton",1
+p:N00884,e:Yenching University,1
+p:N00885,e:Shanghai Power Company,1
+p:N00885,e:Purdue University,1
+p:N00885,e:Babcock & Wilcox Company,1
+p:N00886,e:Peking Union Medical College (PUMC),1
+p:N00886,e:University of Chicago,1
+p:N00887,e:Columbia University,1
+p:N00887,e:Rockefeller Foundation,1
+p:N00889,e:Academia Sinica,1
+p:N00889,e:Tsinghua University,1
+p:N00890,e:Madison College,1
+p:N00890,e:Atlantic Union College,1
+p:N00890,e:Michigan Agricultural Experiment Station,1
+p:N00891,e:Sun Yat-sen University,1
+p:N00891,e:University of California,1
+p:N00894,e:Lingnan University,1
+p:N00894,e:Sun Yat-sen University,1
+p:N00894,e:University of Hawaii,1
+p:N00894,e:Dartmouth College,1
+p:N00895,e:Curtiss-Wright Aircraft Corporation,1
+p:N00899,e:New York Public Library,1
+p:N00900,e:Yenching University,1
+p:N00900,e:Harvard-Yenching Institute,1
+p:N00903,e:Amoy University (Xiamen University),1
+p:N00903,e:Fujian Provincial Senior Industrial Vocational School,1
+p:N00904,e:Chase National Bank,1
+p:N00904,e:National Resources Commission,1
+p:N00905,e:Fukien Christian University,1
+p:N00905,e:University of Southern California,1
+p:N00906,e:Merck & Company,1
+p:N00906,e:Kofa American Drug Company,1
+p:N00908,e:Bank of China,1
+p:N00909,e:Harvard University,1
+p:N00909,e:Syracuse University,1
+p:N00910,e:Bristol Aircraft Corporation,1
+p:N00910,e:Vidal Research Corporation,1
+p:N00913,e:Army Mechanized School,1
+p:N00913,e:Department of Military Training,1
+p:N00915,e:New York Central System,1
+p:N00916,e:Sun Yat-sen University,1
+p:N00917,e:Western Electric Company,1
+p:N00920,e:Chinese Consulate in Portland,1
+p:N00921,e:Young Women's Christian Association (YWCA),1
+p:N00925,e:University of Oregon,1
+p:N00925,e:Zhonghua School (Seattle),1
+p:N00925,e:Kaiser Shipbuilding Corporation,1
+p:N00928,e:Peking Union Medical College (PUMC),1
+p:N00928,e:Shanghai Medical College,1
+p:N00928,e:University of Michigan,1
+p:N00931,e:Haikang County Education Bureau,1
+p:N00931,"e:Nanning District Court, Guangxi",1
+p:N00932,e:Office of Strategic Service,1
+p:N00934,e:Yenching University,1
+p:N00935,e:Qiuzhi Middle School,1
+p:N00935,e:Wah Chang Trading Corporation,1
+p:N00936,e:Rust Engineering Company,1
+p:N00936,e:Jones & Lamson Machine Company,1
+p:N00938,e:Kaiser Shipbuilding Corporation,1
+p:N00943,e:Office of Emergency Man,1
+p:N00944,e:Bank of China,1
+p:N00944,e:National Bureau of Economic Research,1
+p:N00945,e:Guilin Field Headquarters,1
+p:N00945,e:Department of Military Training,1
+p:N00945,e:Office of the Deputy Chief of the General Staff,1
+p:N00946,e:Pontiac Motor Corporation,1
+p:N00947,e:University of Nanking (Ginling University),1
+p:N00948,e:Tsinghua University,1
+p:N00951,e:Washington Pump & Machinery Company,1
+p:N00953,e:Ely Kahn & Robert Jacobs Architects,1
+p:N00953,e:Matlock & Campell Mechanical,1
+p:N00954,e:Hwa Nan Academy,1
+p:N00958,e:Carnegie-Illinois Steel,1
+p:N00958,e:Zhonghua School (Chicago),1
+p:N00958,e:Overseas Chinese School,1
+p:N00959,e:Yungli Chemical Industries Limited,1
+p:N00960,e:Young Men’s Christian Association (YMCA),1
+p:N00961,e:Lee Engineering Company,1
+p:N00964,e:Central Broadcasting Administration,1
+p:N00964,e:China National Aviation Corporation (CNAC),1
+p:N00965,e:Dadukou Iron and Steel Works,1
+p:N00965,e:Capital Power Plant,1
+p:N00965,"e:Yufeng Cotton-Spinning Mill, Henan",1
+p:N00965,e:Tianshenggang Power Plant,1
+p:N00966,e:Peiping Specialized School of Finance and Commerce,1
+p:N00966,e:Sichuan Provincial Government Planning Commission,1
+p:N00967,e:Rola Company,1
+p:N00968,e:Central Agricultural Experiment Station,1
+p:N00969,e:Soochow University,1
+p:N00970,e:University of Michigan,1
+p:N00971,e:National Resources Commission,1
+p:N00971,e:Louisiana Sugar Factory,1
+p:N00971,e:Lummus Company,1
+p:N00972,e:Radio Corporation of America (RCA),1
+p:N00973,e:Peking Union Medical College (PUMC),1
+p:N00973,e:Reed & Carnrick Company,1
+p:N00975,e:National Central University,1
+p:N00981,e:Bank of China,1
+p:N00982,e:12th Naval District,1
+p:N00983,e:Central News Agency,1
+p:N00983,e:United Nations,1
+p:N00984,e:Department of Military Training,1
+p:N00987,e:Henan Provincial Department of Reconstruction,1
+p:N00987,e:Koppers Company,1
+p:N00987,e:American Gas & Electric Service Corporation,1
+p:N00989,e:Shanghai Municipal Council,1
+p:N00989,e:Zhejiang University,1
+p:N00990,e:Franco-Chinese University,1
+p:N00990,e:Hengtong Chemical Company,1
+p:N00991,e:20th Century-Fox Studios,1
+p:N00992,e:Chinese Embassy in Cuba,1
+p:N00992,e:Chinese Consulate in Seattle,1
+p:N00993,e:Hubei Provincial Direct Tax Bureau,1
+p:N00993,e:Chongqing Direct Tax Bureau,1
+p:N00993,e:Emil S. Fischer,1
+p:N00994,e:Yenching University,1
+p:N00994,e:Chinese Ministry of Foreign Affairs,1
+p:N00994,e:Chinese Ministry of Industry,1
+p:N00994,e:Economic Commission,1
+p:N00994,e:Tacomy Engineering Company,1
+p:N00994,e:Minsheng Industrial Company,1
+p:N00996,e:Department of Military Training,1
+p:N00997,e:Huazhong University,1
+p:N00997,e:Brown University,1
+p:N00998,e:Yenching University,1
+p:N00998,e:Cornell University,1
+p:N00999,e:United States Embassy,1
+p:N00999,e:Swiss Legation,1
+p:N01001,e:University of Nanking (Ginling University),1
+p:N01002,e:Ohio Wesleyan University Library,1
+p:N01004,e:Universal Trading Corporation,1
+p:N01005,e:General Electric Company,1
+p:N01007,e:Tsinghua University,1
+p:N01007,e:Yenching University,1
+p:N01008,e:Chinese Consulate in Seattle,1
+p:N01009,e:Universal Trading Corporation,1
+p:N01009,e:Pennsylvania Railroad,1
+p:N01010,e:Foster Wheeler Corporation,1
+p:N01011,e:Aeronautical Commission,1
+p:N01011,e:Curtiss-Wright Aircraft Corporation,1
+p:N01012,e:Wuhu County Education Bureau,1
+p:N01014,e:Aeronautical Commission,1
+p:N01015,e:Sylvanin Electric Product Incorporated,1
+p:N01019,e:Bank of China,1
+p:N01022,e:Allis-Chalmers Manufacturing Company,1
+p:N01023,e:Ampco Metal Incorporated,1
+p:N01027,e:Guaranty Trust Company,1
+p:N01028,e:Chinese Ministry of Foreign Affairs,1
+p:N01028,e:Chinese Consulate General in Havana,1
+p:N01028,e:Chinese Consulate General in Honolulu,1
+p:N01030,e:Yale University,1
+p:N01031,e:Zhejiang University,1
+p:N01031,e:World Book Company,1
+p:N01036,e:Jiangsu Bureau of Entomology,1
+p:N01036,e:Zhejiang Bureau of Entomology,1
+p:N01036,e:University of Minnesota,1
+p:N01038,e:Aeronautical Commission,1
+p:N01039,"e:Harmon Foundation, William E.",1
+p:N01042,e:National Resources Commission,1
+p:N01042,e:General Electric Company,1
+p:N01043,e:Bank of China,1
+p:N01044,e:Chinese Ministry of Communications,1
+p:N01044,e:International Standard Electric Company,1
+p:N01045,e:Peking Union Medical College (PUMC),1
+p:N01046,e:Higgins Industries Incoporated,1
+p:N01047,e:Amoy University (Xiamen University),1
+p:N01047,e:Lingnan University,1
+p:N01047,e:Cheeloo University (Shandong University),1
+p:N01047,e:University of California,1
+p:N01047,e:University of Michigan,1
+p:N01051,e:United States Army,1
+p:N01052,e:Sun Yat-sen University,1
+p:N01052,e:Bruce Engineering Company,1
+p:N01052,e:Sanderson & Porter,1
+p:N01052,e:Wilputte Coke Oven Company,1
+p:N01053,e:Bank of China,1
+p:N01054,e:Hebei University,1
+p:N01054,e:Hebei Provincial Agricultural College,1
+p:N01054,e:University of Illinois,1
+p:N01054,e:United States Department of Agriculture,1
+p:N01055,e:Oregon State College,1
+p:N01056,e:National Central University,1
+p:N01056,e:Office of the United States Army Attaché,1
+p:N01056,e:United States Military Mission,1
+p:N01057,e:Executive Yuan,1
+p:N01057,e:United States Embassy,1
+p:N01058,e:China Aircraft Corporation,1
+p:N01059,e:American Airlines Incorporated,1
+p:N01060,e:China Defense Supplies Corporation,1
+p:N01061,e:University of Michigan,1
+p:N01062,e:Guangzhou Pui Ching Middle School,1
+p:N01062,e:Hong Kong Pui Ching Middle School,1
+p:N01064,e:Kaiser Shipbuilding Corporation,1
+p:N01065,e:International Red Cross,1
+p:N01067,e:Lingnan University,1
+p:N01067,e:Harvard University,1
+p:N01068,e:Guangzhou University,1
+p:N01068,e:Sun Yat-sen University,1
+p:N01068,e:United States Department of War,1
+p:N01069,e:Sun Yat-sen University,1
+p:N01069,e:University of Pittsburgh,1
+p:N01071,e:Grace Hospital,1
+p:N01074,e:Nankai University,1
+p:N01074,e:Chinese Ministry of Industry,1
+p:N01074,"e:Sin Hua Trust, Savings & Commercial Bank",1
+p:N01075,e:Aeronautical Commission,1
+p:N01076,e:Publicker Commercial Alcohol Company,1
+p:N01077,e:Chinese Ministry of Military Administration,1
+p:N01078,"e:Perdon Wright Law Office, J.",1
+p:N01079,e:United States Embassy,1
+p:N01080,e:Tsinghua University,1
+p:N01081,e:Yunnan University,1
+p:N01082,e:Amoy University (Xiamen University),1
+p:N01082,e:Chinese Ministry of Finance,1
+p:N01082,e:Jiaotong University,1
+p:N01082,e:Central Trust of China,1
+p:N01082,e:Chinese Consulate in Portland,1
+p:N01083,e:Bank of Canton,1
+p:N01084,e:Amoy University (Xiamen University),1
+p:N01084,e:Kwang Hua University,1
+p:N01084,e:Specialized School of Taxation,1
+p:N01087,e:National Resources Commission,1
+p:N01087,e:Federal Telephone & Radio Corporation,1
+p:N01088,e:Carco Products Incorporated,1
+p:N01090,e:Peking Union Medical College (PUMC),1
+p:N01090,e:John Hopkins University,1
+p:N01092,e:Jing River Commission,1
+p:N01092,e:North China River Conservancy Commission,1
+p:N01093,e:Guangxi Electric Power Plant,1
+p:N01093,e:Army Mechanized School,1
+p:N01093,e:Chinese Ministry of Military Administration,1
+p:N01093,e:Department of Military Training,1
+p:N01094,e:National Central University,1
+p:N01094,e:United States Educational Mission,1
+p:N01096,e:National Resources Commission,1
+p:N01097,e:Giffels & Vallet Incorporated,1
+p:N01097,e:United States Army,1
+p:N01099,e:Third Fleet,1
+p:N01099,e:Military Operations Department,1
+p:N01100,e:United States Embassy,1
+p:N01102,e:Soochow University,1
+p:N01102,e:Chinese News Service,1
+p:N01105,"e:Taohua Datong Company, Amoy",1
+p:N01105,e:Oregon State College,1
+p:N01106,e:Jiangsu Wuxian Red Cross Society,1
+p:N01106,e:Opium Suppression Commissioner,1
+p:N01106,e:Wu County Hospital,1
+p:N01106,e:Wu County Opium Rehabilitation Centre,1
+p:N01106,e:25th International Labour Conference,1
+p:N01106,e:Lederle Laboratories Incorporated,1
+p:N01108,e:Department of Military Training,1
+p:N01108,e:Fifth Army,1
+p:N01112,e:Denver Chemical Manufacturing Company,1
+p:N01116,e:Chinese Consulate General in Chicago,1
+p:N01116,e:Chinese Consulate in Seattle,1
+p:N01117,e:Aeronautical Commission,1
+p:N01118,e:United States Department of Agriculture,1
+p:N01121,e:Giffels & Vallet Incorporated,1
+p:N01122,e:United States Agriculture Western Regional Laboratory,1
+p:N01122,e:California Spray Chemical Company,1
+p:N01124,e:Office of Censorship,1
+p:N01127,e:Bank of China,1
+p:N01128,e:Aeronautical Commission,1
+p:N01128,"e:Louis Allis Company, The",1
+p:N01129,e:Cheeloo University (Shandong University),1
+p:N01129,e:Rural Financial Society,1
+p:N01129,e:Columbia University,1
+p:N01131,e:Aeronautical Commission,1
+p:N01131,e:United States Office of War Information,1
+p:N01131,e:British Embassy,1
+p:N01134,e:Mary's Hospital,1
+p:N01136,e:Standard Oil Development Company,1
+p:N01137,e:Park College,1
+p:N01137,e:United States Embassy,1
+p:N01138,e:National Resources Commission,1
+p:N01138,e:Beijing Coal Depot,1
+p:N01138,e:Heilongjiang Gold Mine Prospecting Team,1
+p:N01138,e:Sichuan Oil Works,1
+p:N01140,e:United States Steel Export Company,1
+p:N01143,e:Federal Telephone & Radio Corporation,1
+p:N01144,e:Guangzhou Municipal Telephone Administration,1
+p:N01144,e:Guangdong Department of Reconstruction,1
+p:N01144,e:Dongbin Railway Administration,1
+p:N01144,e:Universal Trading Corporation,1
+p:N01145,e:China Oriental Trading & Engineering Company,1
+p:N01145,e:Stanford University,1
+p:N01146,e:Guizhou Aviation Office,1
+p:N01146,e:Guizhou Reconstruction Office,1
+p:N01148,e:Sperry Gyroscope Research Laboratory,1
+p:N01150,e:Merck & Company,1
+p:N01150,e:Professional Pharmacy,1
+p:N01150,e:Sacred Heart Hospital,1
+p:N01151,e:Socony-Vacuum Oil Company Incorporated,1
+p:N01153,e:Zhengtai Railway Engineering Office,1
+p:N01153,e:National Resources Commission,1
+p:N01154,e:National Conservatory of Music,1
+p:N01154,e:Zhejiang University,1
+p:N01155,e:Xi’an Field Headquarters,1
+p:N01155,e:Xinjiang Provincial Capital,1
+p:N01155,e:Iowa State College,1
+p:N01155,e:Committee on Wartime Planning for Chinese Students in the United States,1
+p:N01156,e:State of California Division of Highway,1
+p:N01156,e:San Francisco Baptist Secondary School,1
+p:N01156,e:Puget Sound Navy Yard,1
+p:N01157,e:Oregon State College,1
+p:N01157,e:Westinghouse Electric Manufacturing Company,1
+p:N01160,e:University of Michigan,1
+p:N01160,e:University of Pennsylvania,1
+p:N01161,e:University of Michigan,1
+p:N01162,e:Curtiss-Wright Aircraft Corporation,1
+p:N01167,"e:Longhua Cement Works, Shanghai",1
+p:N01167,e:Kunming Central Electrical Equipment Factory,1
+p:N01167,e:Mingda Company,1
+p:N01168,e:Soochow University,1
+p:N01168,e:Yenching University,1
+p:N01168,e:Amherst College,1
+p:N01169,e:University of Chicago,1
+p:N01169,e:Harvard University,1
+p:N01171,e:New York Central System,1
+p:N01172,e:Yenching University,1
+p:N01172,e:National Southwestern Associated University,1
+p:N01172,e:Massachusetts Institute of Technology,1
+p:N01172,e:University of California,1
+p:N01173,e:National Resources Commission,1
+p:N01175,e:David H. Horn Architect,1
+p:N01175,e:Hermans & Simon Architecture,1
+p:N01176,e:Glenn L. Martin Company,1
+p:N01179,e:Sanbei Company,1
+p:N01179,e:Royal Netherlands Navy,1
+p:N01180,e:Gansu Petroleum Bureau,1
+p:N01180,e:Southern Gansu Petroleum Bureau,1
+p:N01180,e:National Resources Commission,1
+p:N01180,e:Address Investigation Bureau,1
+p:N01180,e:Power Fuel Plant,1
+p:N01182,e:Chinese Ministry of Industry,1
+p:N01182,e:Bank of China,1
+p:N01186,e:Jiangxi Provincial Popular Education Center,1
+p:N01186,e:Jiangxi Provincial Travelling Educational Film Unit,1
+p:N01187,e:Huacheng Electric Motor Manufacturing Works,1
+p:N01187,e:Jiaotong University,1
+p:N01187,e:National Resources Commission,1
+p:N01187,e:National Construction Commission,1
+p:N01188,"e:Euston Architect, A.F.",1
+p:N01188,"e:Lorec Architect, D.D.",1
+p:N01189,e:Wah Chang Trading Corporation,1
+p:N01193,e:Standard Oil Development Company,1
+p:N01194,e:Illinois Institute of Technology,1
+p:N01194,e:Conrad O. Hersan Company,1
+p:N01194,e:Fred J. Ryan Company,1
+p:N01195,e:Kaiser Shipbuilding Corporation,1
+p:N01195,e:Gongliang School,1
+p:N01196,"e:Antone Brothers Company, Incorporated",1
+p:N01198,e:Shanghai Huahua Middle School,1
+p:N01198,e:University of Shanghai,1
+p:N01199,e:University of Michigan,1
+p:N01202,e:Tsinghua University,1
+p:N01203,e:Academia Sinica,1
+p:N01203,e:Tsinghua University,1
+p:N01203,e:Harvard University,1
+p:N01205,e:China Defense Supplies Corporation,1
+p:N01205,e:Duke University,1
+p:N01212,e:Department of Military Training,1
+p:N01218,e:Massachusetts Institute of Technology,1
+p:N01218,e:Bacon Laboratory,1
+p:N01219,e:Aeronautical Commission,1
+p:N01219,e:American Volunteer Group (Flying Tigers),1
+p:N01221,e:Jiangsu Provincial College of Education,1
+p:N01221,e:China Rural Reconstruction Talent Training Institute,1
+p:N01221,e:China Social Education Association,1
+p:N01223,e:Kaiser Shipbuilding Corporation,1
+p:N01224,e:Fujian-Zhejiang Highway Transport Office,1
+p:N01224,e:Tientsin–Pukow Railway,1
+p:N01224,e:Chinese Ministry of Communications,1
+p:N01224,e:General Transport Headquarters,1
+p:N01226,e:Guangzhou Pui Ching Middle School,1
+p:N01227,e:National Resources Commission,1
+p:N01227,e:Chinese Ministry of Industry,1
+p:N01227,e:Lummus Company,1
+p:N01229,e:Central Bank of China,1
+p:N01229,e:China Association for Promotion of Commerce & Industry,1
+p:N01229,e:China Tea Company,1
+p:N01229,e:Chinese Ministry of Economic Affairs,1
+p:N01229,e:China Film Enterprise Company,1
+p:N01229,e:Sino-American Cultural Association,1
+p:N01230,e:Baldwin Locomotive Works,1
+p:N01231,e:American Airlines Incorporated,1
+p:N01232,e:National Resources Commission,1
+p:N01232,e:Geological Survey,1
+p:N01233,e:Home Insurance Company,1
+p:N01235,e:Chinese Ministry of Military Administration,1
+p:N01236,e:Zhongxiao Bank,1
+p:N01236,e:Bank of China,1
+p:N01237,"e:Bechtel Company, W.A.",1
+p:N01238,e:Office of the United States Commercial Counsellor,1
+p:N01242,e:United States Office of War Information,1
+p:N01243,e:Food & Drug Laboratory of Costa Rica,1
+p:N01245,e:Shunde Sugar Refinery,1
+p:N01246,e:Guangzhou Pui Ching Middle School,1
+p:N01246,e:Lingnan University,1
+p:N01248,e:Sino-French Foundation Commission,1
+p:N01248,e:Chinese Delegation for World Cultural Cooperation,1
+p:N01249,e:Detroit Edison Company,1
+p:N01249,e:Giffels & Vallet Incorporated,1
+p:N01249,e:Drury & McNamee Shoecraft,1
+p:N01250,e:Guangzhou Daily,1
+p:N01250,e:Guangzhou Municipal First Middle School,1
+p:N01250,e:Sun Yat-sen University,1
+p:N01250,e:Guomin Daily,1
+p:N01252,e:Beijing-Shanghai Railway,1
+p:N01252,e:Shanghai-Hangzhou-Ningbo Railway,1
+p:N01253,e:Huai'an Middle School,1
+p:N01253,e:China Defense Supplies Corporation,1
+p:N01253,e:Massachusetts Institute of Technology,1
+p:N01255,e:China National Aviation Corporation (CNAC),1
+p:N01255,e:National Resources Commission,1
+p:N01258,e:China Institute in America,1
+p:N01258,e:Chinese News Service,1
+p:N01258,e:Columbia University,1
+p:N01260,e:China Defense Supplies Corporation,1
+p:N01263,e:China Development Finance Corporation,1
+p:N01263,e:Chinese Ministry of Communications,1
+p:N01263,e:China Defense Supplies Corporation,1
+p:N01264,e:Chase National Bank,1
+p:N01270,e:Cheeloo University (Shandong University),1
+p:N01270,e:Central Political Department,1
+p:N01270,e:University of Arkansas,1
+p:N01270,e:Oregon State College,1
+p:N01272,e:Houde Engineering Company,1
+p:N01275,e:Lingnan University,1
+p:N01275,e:Bank of China,1
+p:N01276,e:Legislative Yuan,1
+p:N01276,e:United States Embassy,1
+p:N01276,e:British Embassy,1
+p:N01277,e:Tsinghua University,1
+p:N01277,e:Yunnan University,1
+p:N01280,e:Ambassador Wei Daoming,1
+p:N01280,e:Central News Agency,1
+p:N01283,e:Chinese Ministry of Communications,1
+p:N01283,e:China Defense Supplies Corporation,1
+p:N01283,e:Harvard University,1
+p:N01283,e:Universal Trading Corporation,1
+p:N01284,e:Academia Sinica,1
+p:N01284,e:Harvard University,1
+p:N01284,e:Massachusetts Institute of Technology,1
+p:N01286,e:National Resources Commission,1
+p:N01286,e:National Construction Commission,1
+p:N01287,e:Georgetown University,1
+p:N01287,e:Providence College,1
+p:N01288,e:Sichuan Provincial Geological Survey,1
+p:N01288,e:Jing River Commission,1
+p:N01291,e:Thunderbird Field,1
+p:N01291,e:American Airlines Incorporated,1
+p:N01293,e:Huaying Girls’ Secondary School,1
+p:N01295,e:United States Army,1
+p:N01297,e:Fukien Christian University,1
+p:N01298,e:Irvington Varnish Insolator Company,1
+p:N01298,e:United States Steel Export Company,1
+p:N01304,e:Garod Radio Corporation,1
+p:N01306,e:Fukien Christian University,1
+p:N01306,e:Lingnan University,1
+p:N01307,e:Young Men’s Christian Association (YMCA),1
+p:N01310,e:Oregon Shipbuilding Corporation,1
+p:N01311,e:Huanghai Chemical Industry Research Institute,1
+p:N01314,e:Citizens' Foreign Relations Association,1
+p:N01314,e:Pacification Commissioner of Mangshi,1
+p:N01316,e:Frank Wyckoop Company,1
+p:N01316,e:United States Department of War,1
+p:N01317,e:Military Affairs Commission,1
+p:N01317,e:Twelfth Infantry Division,1
+p:N01317,e:United States Military Mission,1
+p:N01318,e:United States Department of War,1
+p:N01320,e:National Resources Commission,1
+p:N01321,e:Victor Chemical Works,1
+p:N01322,e:Social Welfare (Yishibao),1
+p:N01322,e:Social Welfare Service Department,1
+p:N01322,e:China Monthly,1
+p:N01327,e:Garry & Shaffey Company,1
+p:N01329,e:China Defense Supplies Corporation,1
+p:N01329,e:Chinese Embassy in the United States,1
+p:N01334,e:Ford Motor Company,1
+p:N01334,e:Cone Automatic Machine Company,1
+p:N01334,e:Holley Carburetor Company,1
+p:N01336,e:Zhejiang Provincial Senior High School,1
+p:N01336,e:Chinese Ministry of Communications,1
+p:N01336,e:Universal Trading Corporation,1
+p:N01338,e:Bendix Aviation Corporation,1
+p:N01338,e:Delisser Machine & Tool Company,1
+p:N01338,e:Universal Camera Corporation,1
+p:N01339,e:Northeast Air Lines,1
+p:N01339,e:United States Air Corporation,1
+p:N01341,e:Library of Congress,1
+p:N01341,e:University of Chicago,1
+p:N01341,e:Historical Annal,1
+p:N01346,e:Armored Corps Factory,1
+p:N01346,e:Department of Military Training,1
+p:N01346,e:Fifth Army,1
+p:N01347,e:United States Military Mission,1
+p:N01350,e:Peking University,1
+p:N01351,e:Central Agricultural Experiment Station,1
+p:N01351,e:University of Minnesota,1
+p:N01351,e:Minnesota Agricultural Experiment Station,1
+p:N01352,e:Shanghai Girls' Middle School,1
+p:N01354,e:National Resources Commission,1
+p:N01356,e:Central Political School,1
+p:N01356,e:China Tea Company,1
+p:N01356,e:Chinese Ministry of Economic Affairs,1
+p:N01356,e:Chinese Consulate in London,1
+p:N01357,e:University of Nanking (Ginling University),1
+p:N01357,e:University of Minnesota,1
+p:N01358,e:Hangzhou Girls' Middle School,1
+p:N01360,e:Academia Sinica,1
+p:N01361,e:Guangdong Guomin University,1
+p:N01362,e:Radio Corporation of America (RCA),1
+p:N01362,e:Universal Radio,1
+p:N01368,e:Harvard University,1
+p:N01369,e:Chinese Ministry of Industry,1
+p:N01369,e:Fuhua Trading Company,1
+p:N01371,e:Massachusetts Institute of Technology,1
+p:N01371,e:United States Department of War,1
+p:N01372,e:University of Washington,1
+p:N01373,e:Qiuzhi Middle School,1
+p:N01373,e:Riverside Nursery School,1
+p:N01374,e:Lingnan University,1
+p:N01374,e:Peking University,1
+p:N01377,e:Tsinghua University,1
+p:N01379,e:Nankai University,1
+p:N01379,e:National Resources Commission,1
+p:N01379,e:Chinese Ministry of Communications,1
+p:N01379,e:United States Navy,1
+p:N01382,e:McQuay Norris Manufacturing Company,1
+p:N01386,e:Universal Trading Corporation,1
+p:N01388,e:Amoy University (Xiamen University),1
+p:N01389,e:Guangzhou District Court,1
+p:N01389,e:Lingnan University,1
+p:N01389,e:National Guangdong College of Law,1
+p:N01389,e:Committee on Wartime Planning for Chinese Students in the United States,1
+p:N01389,e:Zhonghua News Agency,1
+p:N01390,e:Peiping Municipal Psychiatric Hospital,1
+p:N01390,e:Peking Union Medical College (PUMC),1
+p:N01391,e:University of Minnesota,1
+p:N01391,e:Curtiss-Wright Aircraft Corporation,1
+p:N01391,e:Republic Aviation Corporation,1
+p:N01391,e:York Aircraft Corporation,1
+p:N01392,e:Harvard University,1
+p:N01395,e:Cornell University,1
+p:N01397,e:Bank of China,1
+p:N01397,e:China Institute in America,1
+p:N01398,e:California Institute of Technology,1
+p:N01399,e:Jiaotong University,1
+p:N01399,e:Universal Trading Corporation,1
+p:N01400,"e:Harmon Foundation, William E.",1
+p:N01401,e:Chinese Ministry of Foreign Affairs,1
+p:N01401,e:Chinese Consulate in New Orleans,1
+p:N01402,e:Yunnan–Burma Railway,1
+p:N01404,e:United Arts Dental Laboratory,1
+p:N01405,e:Aeronautical Commission,1
+p:N01406,e:Gong County Arsenal,1
+p:N01406,e:Jiaotong University,1
+p:N01406,e:Chinese Ministry of Military Administration,1
+p:N01407,e:National Resources Commission,1
+p:N01407,e:Army Mechanized School,1
+p:N01409,e:Air Force Mechanics School,1
+p:N01409,e:Aviation Mechanics Monthly,1
+p:N01409,e:Aeronautical Commission,1
+p:N01410,e:University of Chicago,1
+p:N01416,e:Guangzhou Pui Ching Middle School,1
+p:N01416,e:University of Chicago,1
+p:N01417,e:Oregon State College,1
+p:N01417,e:United States Navy,1
+p:N01420,e:Peking Union Medical College (PUMC),1
+p:N01421,"e:National Reconditioning Company, Incorporated",1
+p:N01421,e:United States Steel Export Company,1
+p:N01422,e:Peiping Academy,1
+p:N01422,e:Cheeloo University (Shandong University),1
+p:N01422,e:California Institute of Technology,1
+p:N01424,e:Virginia Hospital Medical College,1
+p:N01425,e:National Resources Commission,1
+p:N01427,e:St. Louis Ordnance Plant,1
+p:N01428,e:Tsinghua University,1
+p:N01430,e:Tsinghua University,1
+p:N01431,e:Studebaker Corporation,1
+p:N01431,e:University of Notre Dame,1
+p:N01431,e:Jones & Lamson Machine Company,1
+p:N01435,e:National Southwestern Associated University,1
+p:N01436,e:Giffels & Vallet Incorporated,1
+p:N01439,e:Tsinghua University,1
+p:N01440,e:Holabird & Root Company,1
+p:N01440,e:James Stewart Corporation,1
+p:N01441,e:National Central University,1
+p:N01442,e:Bank of China,1
+p:N01442,e:National Diplomacy Association,1
+p:N01442,e:National Diplomacy Monthly,1
+p:N01443,e:Grand Central Airport,1
+p:N01444,e:Guangxi Student Army,1
+p:N01444,e:Central Military Academy,1
+p:N01444,e:Military Affairs Commission,1
+p:N01446,e:Lanzhou Power Plant,1
+p:N01446,e:Capital Power Plant,1
+p:N01446,e:National Resources Commission,1
+p:N01447,e:United States Embassy,1
+p:N01448,e:Wah Chang Trading Corporation,1
+p:N01449,e:Baldwin Locomotive Works,1
+p:N01454,e:St. Paul's College,1
+p:N01455,e:Three Principles of the People Youth Corps,1
+p:N01455,e:Bank of China,1
+p:N01456,e:Bank of Canton,1
+p:N01459,e:Aircraft Screw Brod Company,1
+p:N01459,e:Deal Electric Company,1
+p:N01459,e:Models & Patents Corporation,1
+p:N01465,e:Dorr Company,1
+p:N01465,e:James Stewart Corporation,1
+p:N01466,e:University of Michigan,1
+p:N01466,e:Chrysler Corporation,1
+p:N01466,e:Stinson Aircraft Corporation,1
+p:N01467,e:Anaconda Copper Mining Company,1
+p:N01468,e:National Southwestern Associated University,1
+p:N01469,e:General Electric Company,1
+p:N01470,e:Chinese Embassy in the United States,1
+p:N01473,e:Kiaochow–Tsinan Railway Administration,1
+p:N01473,e:Dachang Industrial Company,1
+p:N01473,e:Yongtai Company,1
+p:N01473,e:Baldwin Locomotive Works,1
+p:N01474,e:National Resources Commission,1
+p:N01475,e:Standard Oil Development Company,1
+p:N01477,e:Chinese Consulate in Los Angeles,1
+p:N01479,e:China Automobile Manufacturing Company,1
+p:N01479,e:Chinese Ministry of Military Administration,1
+p:N01479,e:Department of Military Training,1
+p:N01480,e:United States Embassy,1
+p:N01482,e:Beijing Normal University,1
+p:N01482,e:Institute for the Ideological Education of Overseas Chinese,1
+p:N01482,e:The City College of New York,1
+p:N01482,e:Chinese Delegation for World Cultural Cooperation,1
+p:N01483,e:Chinese Consulate General in San Francisco,1
+p:N01483,e:United States Embassy,1
+p:N01484,"e:Imco Company, The",1
+p:N01488,e:Universal Trading Corporation,1
+p:N01491,e:National Resources Commission,1
+p:N01491,e:Chinese Ministry of Military Administration,1
+p:N01491,e:Carnegie Corporation,1
+p:N01492,e:National Central University,1
+p:N01493,e:Aeronautical Commission,1
+p:N01493,e:Central Industrial Research Institute,1
+p:N01493,e:Merck & Company,1
+p:N01493,e:Universal Trading Corporation,1
+p:N01494,e:Chinese News Service,1
+p:N01496,e:Luke Field,1
+p:N01498,e:Peking Union Medical College (PUMC),1
+p:N01502,e:Office of Strategic Service,1
+p:N01503,"e:Yumei Secondary School, Taishan",1
+p:N01503,e:Bank of China,1
+p:N01507,e:Peizhi Middle School,1
+p:N01507,e:Zhonghua School [Provincial],1
+p:N01510,e:Chinese school in San Mateo,1
+p:N01510,e:K.C.F. Food Products Laboratory,1
+p:N01511,e:Peking University,1
+p:N01511,e:Tsinghua University,1
+p:N01512,e:Tsinghua University,1
+p:N01514,e:Department of Machinery Division,1
+p:N01514,e:Department of Military Training,1
+p:N01514,e:Fifth Army,1
+p:N01516,e:Department of Military Training,1
+p:N01516,e:Fifth Army,1
+p:N01518,e:China Defense Supplies Corporation,1
+p:N01519,e:Jiaotong University,1
+p:N01519,"e:Finkel & Finkel, C.P.A.",1
+p:N01519,e:University of Southern California,1
+p:N01520,e:Academia Sinica,1
+p:N01520,e:University of Minnesota,1
+p:N01521,e:Aiguang Secondary School,1
+p:N01522,e:Bank of China,1
+p:N01523,e:Zhonghua Girls' Middle School,1
+p:N01524,e:Zhonghua Middle School (San Francisco),1
+p:N01524,e:United States Office of War Information,1
+p:N01525,e:Curtiss-Wright Aircraft Corporation,1
+p:N01526,e:China Film Studio,1
+p:N01526,e:Jinjiang Daily,1
+p:N01526,e:Chongqing New Society Daily,1
+p:N01526,e:Military Affairs Commission,1
+p:N01527,e:Bank of China,1
+p:N01528,e:Aeronautical Commission,1
+p:N01529,e:Tsinghua University,1
+p:N01529,e:Economic Commission,1
+p:N01529,e:Institute for National Survey Research,1
+p:N01530,e:Guangxi University,1
+p:N01531,e:Bianhe Road Rolling Stock Division,1
+p:N01531,e:Chinese Ministry of Communications,1
+p:N01531,e:Southwestern Highway,1
+p:N01532,e:Tsinghua University,1
+p:N01532,e:St. John’s University,1
+p:N01532,e:Chinese Consulate in Portland,1
+p:N01533,e:Radio Corporation of America (RCA),1
+p:N01534,e:China Institute in America,1
+p:N01535,e:Academia Sinica,1
+p:N01535,e:Chinese Consulate General in Seoul,1
+p:N01535,e:University of Pittsburgh,1
+p:N01536,e:Academia Sinica,1
+p:N01537,e:Nankai University,1
+p:N01537,e:Nankai University Journal,1
+p:N01537,e:Shanghai Ta Kung Pao,1
+p:N01537,e:China Institute in America,1
+p:N01538,e:Archer-Danials-Midland Vegetable Oil Company,1
+p:N01538,e:Commander-Larabee Milling Company,1
+p:N01539,e:Massachusetts Institute of Technology,1
+p:N01540,e:Chongqing Minkang Industrial Company,1
+p:N01540,e:National Resources Commission,1
+p:N01540,e:Zhejiang University,1
+p:N01541,e:Rust Engineering Company,1
+p:N01546,e:China Defense Supplies Corporation,1
+p:N01546,"e:Kellogg Company, M.W.",1
+p:N01547,e:National Resources Commission,1
+p:N01548,e:League of Nations,1
+p:N01550,e:Beijing Normal University,1
+p:N01550,e:West China Union University,1
+p:N01552,e:Nankai University,1
+p:N01552,e:National Southwestern Associated University,1
+p:N01553,e:Tsinghua University,1
+p:N01553,e:National Southwestern Associated University,1
+p:N01554,e:Jiangsu Provincial Farmers Bank,1
+p:N01554,e:China Institute in America,1
+p:N01555,e:Chinese Ministry of Agriculture and Forestry,1
+p:N01556,e:Wuhan University,1
+p:N01560,e:University of Shanghai,1
+p:N01560,e:American Bureau for Medical Aid to China,1
+p:N01562,e:Chongqing Sheshu Newspaper,1
+p:N01563,e:Chinese Ministry of Economic Affairs,1
+p:N01566,e:Chinese Ministry of Foreign Affairs,1
+p:N01569,e:China Institute in America,1
+p:N01569,e:Overseas Chinese School,1
+p:N01573,e:Wah Chang Trading Corporation,1
+p:N01574,e:Chinese Ministry of Foreign Affairs,1
+p:N01575,e:China Tea Company,1
+p:N01577,e:Chinese Consulate in Luanda,1
+p:N01578,e:Sun Yat-sen University,1
+p:N01578,e:Universal Trading Corporation,1
+p:N01579,e:Chinese Ministry of Education,1
+p:N01580,e:Chinese Consulate in Los Angeles,1
+p:N01581,e:Fukien Christian University,1
+p:N01581,e:Methodist Church,1
+p:N01582,e:Bank of China,1
+p:N01583,e:China Transport Company,1
+p:N01583,e:Kunming Huayi Trading Company,1
+p:N01583,e:High Standard Manufacturing Company,1
+p:N01583,e:Republic Aviation Corporation,1
+p:N01585,e:United Nations Relief and Rehabilitation Administration,1
+p:N01587,e:China Industrial Company,1
+p:N01589,e:Aeronautical Commission,1
+p:N01590,e:Central News Agency,1
+p:N01591,e:Rural Reconstruction Talent Training Institute,1
+p:N01592,e:Aeronautical Commission,1
+p:N01594,e:New York Commercial News,1
+p:N01594,e:United States Military Mission,1
+p:N01595,e:Wuhan University,1
+p:N01597,e:Chongqing Girls' Normal High School,1
+p:N01601,e:United China Relief,1
+p:N01608,e:Duke University,1
+p:N01610,e:Central News Agency,1
+p:N01612,e:Chongqing Physical Education Promotion Association,1
+p:N01612,e:Tax Police Corps,1
+p:N01613,e:Executive Yuan,1
+p:N01613,e:National General Mobilization Council,1

@@ -1,0 +1,18 @@
+﻿NameID,university,university_country,discipline,degree,education_level,year,city,province,lat,lon,education_id,university_label_source,valid_coordinates
+N00114,Ilegible,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,,,ED00061,University,False
+N00515,Ilegible,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,,,ED00226,University,False
+N00827,Ilegible,Unknown,Unknown,Unknown,Unknown,1933.0,Unknown,Unknown,,,ED00350,University,False
+N01149,Ilegible,Unknown,Economics,Unknown,Unknown,,Unknown,Unknown,,,ED00472,University,False
+N00125,Ilegible,Unknown,Unknown,B.A.,Bachelor,1929.0,Unknown,Unknown,,,ED00831,University,False
+N00244,Ilegible,Unknown,Unknown,Unknown,Unknown,1941.0,Unknown,Unknown,,,ED01015,University,False
+N00245,Ilegible,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,,,ED01018,University,False
+N00358,Unknown,Unknown,Unknown,Unknown,Unknown,1941.0,Unknown,Unknown,,,ED01211,missing,False
+N00465,Ilegible,Unknown,Chemical Engineering,Unknown,Unknown,1943.0,Unknown,Unknown,,,ED01348,University,False
+N00516,Ilegible,Unknown,Unknown,Unknown,Unknown,,Unknown,Unknown,,,ED01424,University,False
+N00619,Unknown,Unknown,Unknown,Unknown,Unknown,1940.0,Unknown,Unknown,,,ED01604,missing,False
+N00759,Ilegible,Unknown,Unknown,Unknown,Unknown,1936.0,Unknown,Unknown,,,ED01845,University,False
+N00968,Ilegible,Unknown,Unknown,Unknown,Unknown,1936.0,Unknown,Unknown,,,ED02178,University,False
+N00969,Ilegible,Unknown,Physiology,M.S.,Master,1943.0,Unknown,Unknown,,,ED02180,University,False
+N00969,Ilegible,Unknown,Unknown,Unknown,Unknown,1931.0,Unknown,Unknown,,,ED02181,University,False
+N01025,Ilegible,Unknown,Unknown,Unknown,Unknown,1940.0,Unknown,Unknown,,,ED02267,University,False
+N01038,Ilegible,Unknown,Unknown,Unknown,Unknown,1934.0,Unknown,Unknown,,,ED02284,University,False

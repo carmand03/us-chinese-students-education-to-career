@@ -1,0 +1,1971 @@
+﻿id,kind,degree,centrality
+e:12th Naval District,employer,1,0.0010964912280701754
+e:20th Century-Fox Studios,employer,1,0.0010964912280701754
+e:25th International Labour Conference,employer,1,0.0010964912280701754
+e:Academia Sinica,employer,12,0.013157894736842105
+e:Acorn Wire & Cable Company,employer,1,0.0010964912280701754
+e:Address Investigation Bureau,employer,1,0.0010964912280701754
+e:Aerojet Engineering Corporation,employer,1,0.0010964912280701754
+e:Aeronautical Commission,employer,24,0.02631578947368421
+e:Aiguang Secondary School,employer,1,0.0010964912280701754
+e:Air Force Mechanics School,employer,1,0.0010964912280701754
+e:Aircraft Screw Brod Company,employer,1,0.0010964912280701754
+e:Aircraft Structural Development,employer,1,0.0010964912280701754
+e:Allied Engineers Incorporated,employer,1,0.0010964912280701754
+e:Allis-Chalmers Manufacturing Company,employer,4,0.0043859649122807015
+e:Ambassador Wei Daoming,employer,1,0.0010964912280701754
+e:American Accounting Systems,employer,1,0.0010964912280701754
+e:American Airlines Incorporated,employer,6,0.006578947368421052
+e:American Bureau for Medical Aid to China,employer,2,0.0021929824561403508
+e:American Gas & Electric Service Corporation,employer,2,0.0021929824561403508
+e:American Resinous Chemical Corporation,employer,1,0.0010964912280701754
+e:American Sheet Metal Company,employer,1,0.0010964912280701754
+e:American Volunteer Group (Flying Tigers),employer,1,0.0010964912280701754
+e:Amherst College,employer,1,0.0010964912280701754
+e:Amoy University (Xiamen University),employer,5,0.005482456140350877
+e:Ampco Metal Incorporated,employer,1,0.0010964912280701754
+e:Anaconda Copper Mining Company,employer,1,0.0010964912280701754
+e:Anhui First Girls’ Secondary School,employer,1,0.0010964912280701754
+"e:Antone Brothers Company, Incorporated",employer,1,0.0010964912280701754
+e:Archer-Danials-Midland Vegetable Oil Company,employer,1,0.0010964912280701754
+e:Armored Corps Factory,employer,1,0.0010964912280701754
+e:Army Mechanized School,employer,8,0.008771929824561403
+e:Arthur Anderson & Company,employer,1,0.0010964912280701754
+e:Atlantic Union College,employer,1,0.0010964912280701754
+e:Atlas Powder Company,employer,1,0.0010964912280701754
+e:Aviation Mechanics Monthly,employer,1,0.0010964912280701754
+e:Aviation Mechanics School,employer,1,0.0010964912280701754
+e:Babcock & Wilcox Company,employer,1,0.0010964912280701754
+e:Bacon Laboratory,employer,1,0.0010964912280701754
+e:Baldwin Locomotive Works,employer,3,0.003289473684210526
+e:Bank of Canton,employer,5,0.005482456140350877
+e:Bank of China,employer,38,0.041666666666666664
+e:Bao’an District Court,employer,1,0.0010964912280701754
+"e:Bauschlein Company, W.L.",employer,1,0.0010964912280701754
+"e:Bechtel Company, W.A.",employer,1,0.0010964912280701754
+e:Beijing Coal Depot,employer,1,0.0010964912280701754
+e:Beijing National Library,employer,2,0.0021929824561403508
+e:Beijing Normal University,employer,4,0.0043859649122807015
+e:Beijing-Shanghai Railway,employer,1,0.0010964912280701754
+e:Beiping Datong Middle School,employer,1,0.0010964912280701754
+e:Beiping Middle School,employer,1,0.0010964912280701754
+e:Beiyang Women’s Hospital,employer,1,0.0010964912280701754
+e:Bell Telephone Laboratory,employer,2,0.0021929824561403508
+e:Bendix Aviation Corporation,employer,1,0.0010964912280701754
+e:Bethlehem Steel Company,employer,1,0.0010964912280701754
+e:Bianhe Road Rolling Stock Division,employer,1,0.0010964912280701754
+e:Boeing Aircraft Company,employer,1,0.0010964912280701754
+e:Boston Children's Hospital,employer,1,0.0010964912280701754
+e:Boston City Hospital,employer,1,0.0010964912280701754
+e:Bristol Aircraft Corporation,employer,1,0.0010964912280701754
+e:British Embassy,employer,2,0.0021929824561403508
+e:Brown University,employer,1,0.0010964912280701754
+e:Bruce Engineering Company,employer,1,0.0010964912280701754
+e:Bryant Chucking Grinder Company,employer,1,0.0010964912280701754
+"e:Bugbird & Company, H.C.",employer,1,0.0010964912280701754
+e:Burlington County Hospital,employer,1,0.0010964912280701754
+e:California Institute of Technology,employer,3,0.003289473684210526
+e:California Spray Chemical Company,employer,1,0.0010964912280701754
+e:Canton–Hankow Railway,employer,2,0.0021929824561403508
+e:Capital Power Plant,employer,2,0.0021929824561403508
+"e:Carbolog Company, Incorporated",employer,1,0.0010964912280701754
+e:Carbon & Carbide Chemical Company,employer,1,0.0010964912280701754
+e:Carco Products Incorporated,employer,1,0.0010964912280701754
+e:Carnegie Corporation,employer,1,0.0010964912280701754
+e:Carnegie-Illinois Steel,employer,1,0.0010964912280701754
+e:Central Agricultural Experiment Station,employer,4,0.0043859649122807015
+e:Central Aircraft Manufacturing Factory,employer,2,0.0021929824561403508
+e:Central Bank of China,employer,1,0.0010964912280701754
+e:Central Broadcasting Administration,employer,1,0.0010964912280701754
+e:Central Cotton Improvement Institute,employer,1,0.0010964912280701754
+e:Central Electrical Equipment Works,employer,1,0.0010964912280701754
+e:Central Industrial Research Institute,employer,1,0.0010964912280701754
+e:Central Military Academy,employer,1,0.0010964912280701754
+e:Central Motors Corporation,employer,1,0.0010964912280701754
+e:Central News Agency,employer,4,0.0043859649122807015
+e:Central Political Department,employer,1,0.0010964912280701754
+e:Central Political School,employer,1,0.0010964912280701754
+e:Central Radio Works,employer,1,0.0010964912280701754
+e:Central Trust of China,employer,1,0.0010964912280701754
+e:Century Industrial Company,employer,1,0.0010964912280701754
+e:Chase National Bank,employer,2,0.0021929824561403508
+e:Cheeloo University (Shandong University),employer,5,0.005482456140350877
+e:Chekiang Industrial Bank,employer,1,0.0010964912280701754
+e:Chengting–Taiyuan Railways,employer,1,0.0010964912280701754
+e:China Aircraft Corporation,employer,2,0.0021929824561403508
+e:China Association for Promotion of Commerce & Industry,employer,1,0.0010964912280701754
+e:China Automobile Manufacturing Company,employer,3,0.003289473684210526
+e:China Defense Supplies Corporation,employer,15,0.01644736842105263
+e:China Development Finance Corporation,employer,2,0.0021929824561403508
+e:China Film Enterprise Company,employer,1,0.0010964912280701754
+e:China Film Studio,employer,1,0.0010964912280701754
+e:China Food Products Company,employer,1,0.0010964912280701754
+e:China Industrial Company,employer,1,0.0010964912280701754
+e:China Institute in America,employer,11,0.01206140350877193
+e:China Institute of Psychological Physiology,employer,1,0.0010964912280701754
+e:China Joint Transportation Company,employer,1,0.0010964912280701754
+e:China Merchants Steam Navigation Company,employer,1,0.0010964912280701754
+e:China Monthly,employer,1,0.0010964912280701754
+e:China Motor Corporation,employer,1,0.0010964912280701754
+e:China National Aviation Corporation (CNAC),employer,2,0.0021929824561403508
+e:China Oriental Trading & Engineering Company,employer,1,0.0010964912280701754
+e:China Review Weekly,employer,1,0.0010964912280701754
+e:China Rural Reconstruction Talent Training Institute,employer,1,0.0010964912280701754
+e:China Social Education Association,employer,1,0.0010964912280701754
+e:China Tea Company,employer,3,0.003289473684210526
+e:China Transport Company,employer,1,0.0010964912280701754
+e:Chinese Consulate General in Chicago,employer,2,0.0021929824561403508
+e:Chinese Consulate General in Havana,employer,2,0.0021929824561403508
+e:Chinese Consulate General in Honolulu,employer,4,0.0043859649122807015
+e:Chinese Consulate General in Iowa,employer,1,0.0010964912280701754
+e:Chinese Consulate General in New York,employer,5,0.005482456140350877
+e:Chinese Consulate General in San Francisco,employer,2,0.0021929824561403508
+e:Chinese Consulate General in Seoul,employer,1,0.0010964912280701754
+e:Chinese Consulate in Boston,employer,1,0.0010964912280701754
+e:Chinese Consulate in Houston,employer,2,0.0021929824561403508
+e:Chinese Consulate in London,employer,1,0.0010964912280701754
+e:Chinese Consulate in Los Angeles,employer,2,0.0021929824561403508
+e:Chinese Consulate in Luanda,employer,2,0.0021929824561403508
+e:Chinese Consulate in Managua,employer,1,0.0010964912280701754
+e:Chinese Consulate in New Orleans,employer,3,0.003289473684210526
+e:Chinese Consulate in Portland,employer,3,0.003289473684210526
+e:Chinese Consulate in Seattle,employer,5,0.005482456140350877
+e:Chinese Delegation for World Cultural Cooperation,employer,2,0.0021929824561403508
+e:Chinese Embassy in Cuba,employer,1,0.0010964912280701754
+e:Chinese Embassy in Italy,employer,1,0.0010964912280701754
+e:Chinese Embassy in the United States,employer,3,0.003289473684210526
+e:Chinese Legation at Panama,employer,1,0.0010964912280701754
+e:Chinese Legation in Germany,employer,1,0.0010964912280701754
+e:Chinese Ministry of Agriculture and Forestry,employer,1,0.0010964912280701754
+e:Chinese Ministry of Communications,employer,16,0.017543859649122806
+e:Chinese Ministry of Economic Affairs,employer,7,0.007675438596491228
+e:Chinese Ministry of Education,employer,2,0.0021929824561403508
+e:Chinese Ministry of Finance,employer,2,0.0021929824561403508
+e:Chinese Ministry of Foreign Affairs,employer,7,0.007675438596491228
+e:Chinese Ministry of Industry,employer,6,0.006578947368421052
+e:Chinese Ministry of Military Administration,employer,14,0.015350877192982455
+e:Chinese Ministry of Propaganda,employer,1,0.0010964912280701754
+e:Chinese Ministry of Social Affairs,employer,1,0.0010964912280701754
+e:Chinese National Government,employer,1,0.0010964912280701754
+e:Chinese News Service,employer,6,0.006578947368421052
+e:Chinese school in San Mateo,employer,1,0.0010964912280701754
+e:Chinese-American Weekly,employer,1,0.0010964912280701754
+e:Chizhi University,employer,1,0.0010964912280701754
+e:Chongqing Direct Tax Bureau,employer,1,0.0010964912280701754
+e:Chongqing Dredging and Maintenance Office,employer,1,0.0010964912280701754
+e:Chongqing Girls' Normal High School,employer,1,0.0010964912280701754
+e:Chongqing Minkang Industrial Company,employer,1,0.0010964912280701754
+e:Chongqing Municipal Government,employer,1,0.0010964912280701754
+e:Chongqing New Society Daily,employer,1,0.0010964912280701754
+e:Chongqing Physical Education Promotion Association,employer,1,0.0010964912280701754
+e:Chongqing Postal Remittance and Savings Bank,employer,1,0.0010964912280701754
+e:Chongqing Sheshu Newspaper,employer,1,0.0010964912280701754
+e:Chongqing University,employer,1,0.0010964912280701754
+e:Christ Church's Orchestra,employer,1,0.0010964912280701754
+e:Chrysler Corporation,employer,3,0.003289473684210526
+e:Chung Cheng University,employer,1,0.0010964912280701754
+e:Church Committee for China Relief,employer,1,0.0010964912280701754
+e:Citizens' Foreign Relations Association,employer,2,0.0021929824561403508
+e:Columbia University,employer,4,0.0043859649122807015
+e:Commander-Larabee Milling Company,employer,1,0.0010964912280701754
+e:Commercial Counsellor for North America,employer,1,0.0010964912280701754
+e:Commercial Press,employer,1,0.0010964912280701754
+e:Committee on Wartime Planning for Chinese Students in the United States,employer,2,0.0021929824561403508
+e:Common Council for American Unity,employer,1,0.0010964912280701754
+e:Cone Automatic Machine Company,employer,2,0.0021929824561403508
+e:Conference on the Reduction of Armaments,employer,1,0.0010964912280701754
+e:Conrad O. Hersan Company,employer,1,0.0010964912280701754
+e:Consolidated Aircraft Corporation,employer,1,0.0010964912280701754
+e:Construction Company,employer,1,0.0010964912280701754
+e:Consulate General in Shanghai [country unspecified],employer,1,0.0010964912280701754
+e:Cook County Hospital,employer,1,0.0010964912280701754
+e:Cornell University,employer,3,0.003289473684210526
+e:Crucible Steel Corporation,employer,1,0.0010964912280701754
+e:Curtiss-Wright Aircraft Corporation,employer,9,0.009868421052631578
+e:Dachang Industrial Company,employer,1,0.0010964912280701754
+e:Dadukou Iron and Steel Works,employer,1,0.0010964912280701754
+e:Dartmouth College,employer,1,0.0010964912280701754
+e:David H. Horn Architect,employer,1,0.0010964912280701754
+e:Deal Electric Company,employer,1,0.0010964912280701754
+e:Defense Project,employer,1,0.0010964912280701754
+e:Delisser Machine & Tool Company,employer,1,0.0010964912280701754
+e:Denver Chemical Manufacturing Company,employer,1,0.0010964912280701754
+e:Department of Machinery Division,employer,1,0.0010964912280701754
+e:Department of Military Training,employer,32,0.03508771929824561
+e:Detroit Edison Company,employer,1,0.0010964912280701754
+e:Dinghai Girls’ Secondary School,employer,1,0.0010964912280701754
+e:Doctor's Hospital (Manhattan),employer,1,0.0010964912280701754
+e:Dongbin Railway Administration,employer,1,0.0010964912280701754
+e:Dorr Company,employer,1,0.0010964912280701754
+e:Douglas Aircraft Company,employer,2,0.0021929824561403508
+e:Drury & McNamee Shoecraft,employer,1,0.0010964912280701754
+e:Dry Food Incorporated,employer,1,0.0010964912280701754
+e:Duke University,employer,2,0.0021929824561403508
+"e:Ebasco Services, Incorporated",employer,1,0.0010964912280701754
+e:Economic Commission,employer,2,0.0021929824561403508
+e:Ely Kahn & Robert Jacobs Architects,employer,1,0.0010964912280701754
+e:Emil S. Fischer,employer,1,0.0010964912280701754
+e:Ethyl Gasoline Corporation,employer,1,0.0010964912280701754
+"e:Euston Architect, A.F.",employer,1,0.0010964912280701754
+e:Executive Yuan,employer,3,0.003289473684210526
+e:Far East Religious Association,employer,1,0.0010964912280701754
+e:Farmers Bank of China,employer,1,0.0010964912280701754
+e:Federal Broadcasting Intelligence Service,employer,1,0.0010964912280701754
+e:Federal Communication Commission,employer,1,0.0010964912280701754
+e:Federal Reserve Bank,employer,1,0.0010964912280701754
+e:Federal Telephone & Radio Corporation,employer,3,0.003289473684210526
+e:Ferro Enamel Corporation,employer,1,0.0010964912280701754
+e:Fifth Army,employer,9,0.009868421052631578
+"e:Finkel & Finkel, C.P.A.",employer,1,0.0010964912280701754
+e:Firestone Tire & Rubber Corporation,employer,1,0.0010964912280701754
+e:Food & Drug Laboratory of Costa Rica,employer,1,0.0010964912280701754
+e:Ford Motor Company,employer,2,0.0021929824561403508
+e:Foster Wheeler Corporation,employer,1,0.0010964912280701754
+e:Francis Engineering Company,employer,1,0.0010964912280701754
+e:Franco-Chinese University,employer,1,0.0010964912280701754
+e:Frank Wyckoop Company,employer,1,0.0010964912280701754
+e:Fred J. Ryan Company,employer,1,0.0010964912280701754
+e:Free World (Monthly),employer,1,0.0010964912280701754
+e:Fu Jen Catholic University,employer,2,0.0021929824561403508
+e:Fuhua Trading Company,employer,1,0.0010964912280701754
+e:Fujian Provincial Department of Reconstruction,employer,1,0.0010964912280701754
+e:Fujian Provincial Senior Industrial Vocational School,employer,1,0.0010964912280701754
+e:Fujian-Zhejiang Highway Transport Office,employer,1,0.0010964912280701754
+e:Fukien Christian University,employer,6,0.006578947368421052
+e:Fuzhou Provincial Secondary School of Home Economics,employer,1,0.0010964912280701754
+e:Fu’an Company,employer,1,0.0010964912280701754
+e:Gansu Petroleum Bureau,employer,1,0.0010964912280701754
+e:Garod Radio Corporation,employer,1,0.0010964912280701754
+e:Garry & Shaffey Company,employer,1,0.0010964912280701754
+e:General Bureau of Highway Transport,employer,1,0.0010964912280701754
+e:General Cable Corporation,employer,1,0.0010964912280701754
+e:General Electric Company,employer,13,0.01425438596491228
+e:General Transport Headquarters,employer,1,0.0010964912280701754
+e:Geological Survey,employer,1,0.0010964912280701754
+e:George Washington University,employer,1,0.0010964912280701754
+e:Georgetown University,employer,1,0.0010964912280701754
+e:Giffels & Vallet Incorporated,employer,13,0.01425438596491228
+e:Ginling University,employer,2,0.0021929824561403508
+e:Glenn L. Martin Company,employer,2,0.0021929824561403508
+e:Gliding Society,employer,1,0.0010964912280701754
+e:Gong County Arsenal,employer,2,0.0021929824561403508
+e:Gongliang School,employer,1,0.0010964912280701754
+e:Grace Hospital,employer,1,0.0010964912280701754
+e:Grand Central Airport,employer,1,0.0010964912280701754
+e:Great China University (Daxia University),employer,1,0.0010964912280701754
+e:Grunman Aircraft Engineering Corporation,employer,1,0.0010964912280701754
+e:Guangdong Department of Reconstruction,employer,1,0.0010964912280701754
+e:Guangdong Guomin University,employer,1,0.0010964912280701754
+e:Guangdong Provincial Government,employer,3,0.003289473684210526
+e:Guangxi Agricultural investigator to Honolulu,employer,1,0.0010964912280701754
+e:Guangxi Electric Power Plant,employer,1,0.0010964912280701754
+e:Guangxi Provincial Grain Planning Commission,employer,1,0.0010964912280701754
+e:Guangxi Student Army,employer,1,0.0010964912280701754
+e:Guangxi University,employer,1,0.0010964912280701754
+e:Guangzhou Daily,employer,1,0.0010964912280701754
+e:Guangzhou District Court,employer,1,0.0010964912280701754
+e:Guangzhou Electricity Administration Office,employer,1,0.0010964912280701754
+e:Guangzhou Hanguang Middle School,employer,1,0.0010964912280701754
+e:Guangzhou Municipal Bureau of Engineering,employer,1,0.0010964912280701754
+e:Guangzhou Municipal First Middle School,employer,1,0.0010964912280701754
+e:Guangzhou Municipal Telephone Administration,employer,1,0.0010964912280701754
+e:Guangzhou Pui Ching Middle School,employer,4,0.0043859649122807015
+e:Guangzhou University,employer,1,0.0010964912280701754
+e:Guaranty Trust Company,employer,1,0.0010964912280701754
+e:Guilin Field Headquarters,employer,2,0.0021929824561403508
+e:Guizhou Aviation Office,employer,1,0.0010964912280701754
+e:Guizhou Reconstruction Office,employer,1,0.0010964912280701754
+e:Guomin Daily,employer,2,0.0021929824561403508
+e:Guomindang,employer,3,0.003289473684210526
+e:Haikang County Education Bureau,employer,1,0.0010964912280701754
+e:Hangzhou Girls' Middle School,employer,1,0.0010964912280701754
+e:Hankow Commodity Inspection Bureau,employer,1,0.0010964912280701754
+"e:Harmon Foundation, William E.",employer,2,0.0021929824561403508
+e:Harrison Gas Works,employer,1,0.0010964912280701754
+e:Harvard University,employer,13,0.01425438596491228
+e:Harvard-Yenching Institute,employer,3,0.003289473684210526
+e:Health Demonstration Center,employer,1,0.0010964912280701754
+e:Hebei Provincial Agricultural College,employer,1,0.0010964912280701754
+e:Hebei Provincial Fisheries Specialized School,employer,1,0.0010964912280701754
+e:Hebei Provincial No. 17 Middle School,employer,1,0.0010964912280701754
+e:Hebei University,employer,1,0.0010964912280701754
+e:Heilongjiang Gold Mine Prospecting Team,employer,1,0.0010964912280701754
+e:Henan Provincial Department of Reconstruction,employer,1,0.0010964912280701754
+e:Hengtong Chemical Company,employer,1,0.0010964912280701754
+e:Henry Street Visiting Nurse Service,employer,1,0.0010964912280701754
+e:Hermann Biggs Memorial Hospital,employer,1,0.0010964912280701754
+e:Hermans & Simon Architecture,employer,1,0.0010964912280701754
+e:Heyuan Procasa Company,employer,1,0.0010964912280701754
+e:Higgins Industries Incoporated,employer,1,0.0010964912280701754
+e:High Standard Manufacturing Company,employer,1,0.0010964912280701754
+e:Historical Annal,employer,1,0.0010964912280701754
+e:Holabird & Root Company,employer,1,0.0010964912280701754
+e:Holley Carburetor Company,employer,1,0.0010964912280701754
+e:Home Insurance Company,employer,1,0.0010964912280701754
+e:Hong Kong Commercial Daily,employer,1,0.0010964912280701754
+e:Hong Kong Pui Ching Middle School,employer,1,0.0010964912280701754
+e:Houdalle-Hershey Corporation,employer,1,0.0010964912280701754
+e:Houde Engineering Company,employer,1,0.0010964912280701754
+e:Howard Hughes Aircraft Company,employer,2,0.0021929824561403508
+e:Hsiangya (Hunan-Yale) Medical College,employer,1,0.0010964912280701754
+e:Huacheng Electric Motor Manufacturing Works,employer,1,0.0010964912280701754
+e:Huai'an Middle School,employer,1,0.0010964912280701754
+e:Huanghai Chemical Industry Research Institute,employer,1,0.0010964912280701754
+e:Huanqiu Paper Mill,employer,1,0.0010964912280701754
+e:Huasheng Electrical Appliance Manufacturing Works,employer,1,0.0010964912280701754
+e:Huawen Secondary School,employer,1,0.0010964912280701754
+e:Huaying Girls’ Secondary School,employer,1,0.0010964912280701754
+e:Huazhong University,employer,1,0.0010964912280701754
+e:Hubei Provincial Direct Tax Bureau,employer,1,0.0010964912280701754
+e:Hudson Coal Company,employer,1,0.0010964912280701754
+e:Hunan University,employer,1,0.0010964912280701754
+e:Hunan-Guangxi Railway,employer,1,0.0010964912280701754
+"e:Hutton & Company, E.F.",employer,1,0.0010964912280701754
+e:Hwa Nan Academy,employer,2,0.0021929824561403508
+e:Illinois Institute of Technology,employer,2,0.0021929824561403508
+"e:Imco Company, The",employer,1,0.0010964912280701754
+e:Industry Incorporated,employer,1,0.0010964912280701754
+e:Inland Steel Company,employer,1,0.0010964912280701754
+e:Institute For Juvenile Research,employer,1,0.0010964912280701754
+e:Institute for National Survey Research,employer,1,0.0010964912280701754
+e:Institute for the Ideological Education of Overseas Chinese,employer,1,0.0010964912280701754
+e:Institute of Pacific Relations,employer,1,0.0010964912280701754
+e:International Business Machine Corporation,employer,1,0.0010964912280701754
+e:International Red Cross,employer,1,0.0010964912280701754
+e:International Standard Electric Company,employer,1,0.0010964912280701754
+e:Iowa State College,employer,4,0.0043859649122807015
+e:Irving Trust Company New York,employer,1,0.0010964912280701754
+e:Irvington Varnish Insolator Company,employer,1,0.0010964912280701754
+e:Jacques Wolf & Company,employer,1,0.0010964912280701754
+e:James Stewart Corporation,employer,2,0.0021929824561403508
+e:Jersey City Medical Center,employer,1,0.0010964912280701754
+e:Jianghan Bureau,employer,1,0.0010964912280701754
+e:Jiangnan Cement Company,employer,1,0.0010964912280701754
+e:Jiangsu Bureau of Entomology,employer,1,0.0010964912280701754
+e:Jiangsu Department of Reconstruction,employer,1,0.0010964912280701754
+e:Jiangsu Huaihe River Diversion Project Office,employer,1,0.0010964912280701754
+e:Jiangsu Provincial Changzhou Middle School,employer,1,0.0010964912280701754
+e:Jiangsu Provincial College of Education,employer,1,0.0010964912280701754
+e:Jiangsu Provincial Farmers Bank,employer,1,0.0010964912280701754
+e:Jiangsu Provincial Popular Education College,employer,1,0.0010964912280701754
+e:Jiangsu Wuxian Red Cross Society,employer,1,0.0010964912280701754
+e:Jianguo Secondary School,employer,1,0.0010964912280701754
+e:Jiangxi Highway Bureau,employer,1,0.0010964912280701754
+e:Jiangxi Provincial Popular Education Center,employer,1,0.0010964912280701754
+e:Jiangxi Provincial Travelling Educational Film Unit,employer,1,0.0010964912280701754
+e:Jiangxi Provincial Women’s Guidance Office,employer,1,0.0010964912280701754
+e:Jiaotong University,employer,11,0.01206140350877193
+e:Jing River Commission,employer,2,0.0021929824561403508
+e:Jinjiang Daily,employer,1,0.0010964912280701754
+e:Jiujiang Coal Administration Office,employer,1,0.0010964912280701754
+e:John B. Fischer Architect,employer,1,0.0010964912280701754
+e:John Hopkins University,employer,1,0.0010964912280701754
+e:Jones & Lamson Machine Company,employer,3,0.003289473684210526
+"e:Joseph E. Seagran & Sons, Incorporated",employer,1,0.0010964912280701754
+e:K.C.F. Food Products Laboratory,employer,1,0.0010964912280701754
+e:Kailan Mining Administration,employer,1,0.0010964912280701754
+e:Kaiser Shipbuilding Corporation,employer,10,0.010964912280701754
+e:Kansas City Power & Light Company,employer,1,0.0010964912280701754
+"e:Kellogg Company, M.W.",employer,2,0.0021929824561403508
+e:Kiaochow–Tsinan Railway Administration,employer,1,0.0010964912280701754
+e:Kodak Research Laboratory,employer,1,0.0010964912280701754
+e:Kofa American Drug Company,employer,1,0.0010964912280701754
+e:Koppers Company,employer,1,0.0010964912280701754
+"e:Kump Company, E.S.",employer,1,0.0010964912280701754
+e:Kunming Broadcasting Station,employer,1,0.0010964912280701754
+e:Kunming Central Electrical Equipment Factory,employer,1,0.0010964912280701754
+e:Kunming Direct Tax Bureau,employer,1,0.0010964912280701754
+e:Kunming Huayi Trading Company,employer,1,0.0010964912280701754
+e:Kwang Hua University,employer,1,0.0010964912280701754
+e:Lanzhou Power Plant,employer,1,0.0010964912280701754
+e:League of Nations,employer,1,0.0010964912280701754
+e:Lederle Laboratories Incorporated,employer,1,0.0010964912280701754
+e:Lee Engineering Company,employer,5,0.005482456140350877
+e:Legislative Yuan,employer,3,0.003289473684210526
+e:Liberty Tool & Cage Incoporation,employer,1,0.0010964912280701754
+e:Library of Congress,employer,5,0.005482456140350877
+e:Lingnan University,employer,14,0.015350877192982455
+e:Liongsin Press,employer,1,0.0010964912280701754
+e:Liuhegou Ironworks,employer,1,0.0010964912280701754
+"e:Longhua Cement Works, Shanghai",employer,1,0.0010964912280701754
+"e:Lorec Architect, D.D.",employer,1,0.0010964912280701754
+e:Los Angeles County General Hospital,employer,1,0.0010964912280701754
+"e:Louis Allis Company, The",employer,1,0.0010964912280701754
+e:Louisiana Sugar Factory,employer,1,0.0010964912280701754
+e:Luke Field,employer,1,0.0010964912280701754
+e:Lummus Company,employer,2,0.0021929824561403508
+e:Luotian County Finance Bureau,employer,1,0.0010964912280701754
+e:Machine & Tool Design Company,employer,1,0.0010964912280701754
+e:Madison College,employer,1,0.0010964912280701754
+e:Mahony-Troast Construction Company,employer,1,0.0010964912280701754
+"e:Marmon-Herrington Company, Incorporated",employer,1,0.0010964912280701754
+e:Mary's Hospital,employer,1,0.0010964912280701754
+e:Massachusetts General Hospital,employer,1,0.0010964912280701754
+e:Massachusetts Institute of Technology,employer,9,0.009868421052631578
+e:Materials Testing Division,employer,1,0.0010964912280701754
+e:Matlock & Campell Mechanical,employer,1,0.0010964912280701754
+e:May Chemical Company,employer,1,0.0010964912280701754
+e:Mayers' Aircraft Corporation,employer,1,0.0010964912280701754
+e:McQuay Norris Manufacturing Company,employer,1,0.0010964912280701754
+e:McTyeire School for Girls,employer,1,0.0010964912280701754
+e:Merck & Company,employer,4,0.0043859649122807015
+e:Merrimack Manufacturing Company,employer,1,0.0010964912280701754
+e:Methodist Church,employer,1,0.0010964912280701754
+e:Mexico Refractories Company,employer,1,0.0010964912280701754
+e:Micamold Radio Corporation,employer,1,0.0010964912280701754
+e:Michigan Agricultural Experiment Station,employer,1,0.0010964912280701754
+e:Military Affairs Commission,employer,5,0.005482456140350877
+e:Military Operations Department,employer,1,0.0010964912280701754
+e:Mills College,employer,1,0.0010964912280701754
+e:Mingda Company,employer,1,0.0010964912280701754
+e:Minguo University (Beijing),employer,1,0.0010964912280701754
+e:Ministry of Posts and Communications,employer,1,0.0010964912280701754
+e:Minnesota Agricultural Experiment Station,employer,1,0.0010964912280701754
+e:Minqi Daily,employer,3,0.003289473684210526
+e:Minsheng Industrial Company,employer,1,0.0010964912280701754
+e:Mississippi River Commission,employer,1,0.0010964912280701754
+e:Mississippi Valley Structural Company,employer,1,0.0010964912280701754
+e:Models & Patents Corporation,employer,1,0.0010964912280701754
+e:Moore Dry Dock Company,employer,1,0.0010964912280701754
+e:Mount Morris Tuberculosis Hospital,employer,1,0.0010964912280701754
+e:Municipal Government,employer,1,0.0010964912280701754
+e:Murray Iron Works Company,employer,1,0.0010964912280701754
+e:Mutai Engineering Office,employer,1,0.0010964912280701754
+e:Nanjing General Headquarters,employer,1,0.0010964912280701754
+e:Nanjing Higher Police Officers Academy,employer,1,0.0010964912280701754
+e:Nankai Institute of Economics,employer,1,0.0010964912280701754
+e:Nankai University,employer,6,0.006578947368421052
+e:Nankai University Journal,employer,1,0.0010964912280701754
+e:Nankou Locomotive Works,employer,1,0.0010964912280701754
+"e:Nanning District Court, Guangxi",employer,1,0.0010964912280701754
+e:National Bank of Detroit,employer,1,0.0010964912280701754
+e:National Bureau of Economic Research,employer,1,0.0010964912280701754
+e:National Central University,employer,14,0.015350877192982455
+e:National City Bank of New York,employer,1,0.0010964912280701754
+e:National Conservatory of Music,employer,1,0.0010964912280701754
+e:National Construction Commission,employer,3,0.003289473684210526
+e:National Daily Special Edition,employer,1,0.0010964912280701754
+e:National Defense Planning Commission,employer,1,0.0010964912280701754
+e:National Diplomacy Association,employer,1,0.0010964912280701754
+e:National Diplomacy Monthly,employer,1,0.0010964912280701754
+e:National General Mobilization Council,employer,1,0.0010964912280701754
+e:National Geophysical Company,employer,1,0.0010964912280701754
+e:National Guangdong College of Law,employer,1,0.0010964912280701754
+e:National Gypsim Company,employer,1,0.0010964912280701754
+e:National Paint & Varnish Company,employer,1,0.0010964912280701754
+"e:National Reconditioning Company, Incorporated",employer,4,0.0043859649122807015
+e:National Refractories Company,employer,1,0.0010964912280701754
+e:National Resources Commission,employer,47,0.051535087719298246
+e:National Rice and Wheat Improvement Institute,employer,1,0.0010964912280701754
+e:National Southeastern University,employer,1,0.0010964912280701754
+e:National Southwestern Associated University,employer,11,0.01206140350877193
+e:National Tariff Commission,employer,1,0.0010964912280701754
+e:New England Aircraft School,employer,1,0.0010964912280701754
+e:New Republic Chinese Daily,employer,1,0.0010964912280701754
+e:New York Central Railroad Company,employer,1,0.0010964912280701754
+e:New York Central System,employer,3,0.003289473684210526
+e:New York City Chemical Corporation,employer,1,0.0010964912280701754
+e:New York Commercial News,employer,1,0.0010964912280701754
+e:New York Infirmary Hospital,employer,1,0.0010964912280701754
+e:New York Memorial Hospital,employer,1,0.0010964912280701754
+e:New York Public Library,employer,1,0.0010964912280701754
+e:New York State Agricultural Experiment Station,employer,1,0.0010964912280701754
+e:New York State Department of Health,employer,1,0.0010964912280701754
+e:New York Stock Exchange,employer,1,0.0010964912280701754
+e:North China River Conservancy Commission,employer,1,0.0010964912280701754
+e:Northeast Air Lines,employer,1,0.0010964912280701754
+e:Northeastern (Dongbei) University,employer,2,0.0021929824561403508
+e:Northeastern University,employer,1,0.0010964912280701754
+e:Northern Pacific Railroad Company,employer,1,0.0010964912280701754
+e:Northern Yunnan Mining Bureau,employer,1,0.0010964912280701754
+e:Northwestern University,employer,1,0.0010964912280701754
+e:Office of Censorship,employer,1,0.0010964912280701754
+e:Office of Emergency Man,employer,1,0.0010964912280701754
+e:Office of Scientific Research & Development,employer,1,0.0010964912280701754
+e:Office of Strategic Service,employer,2,0.0021929824561403508
+e:Office of the Deputy Chief of the General Staff,employer,1,0.0010964912280701754
+e:Office of the United States Army Attaché,employer,2,0.0021929824561403508
+e:Office of the United States Commercial Counsellor,employer,1,0.0010964912280701754
+e:Office of the United States Naval Attaché,employer,1,0.0010964912280701754
+e:Ohio Division of Social Administration,employer,1,0.0010964912280701754
+e:Ohio State University,employer,1,0.0010964912280701754
+e:Ohio Wesleyan University Library,employer,1,0.0010964912280701754
+e:Opium Suppression Commissioner,employer,1,0.0010964912280701754
+e:Ordnance Specialized School,employer,1,0.0010964912280701754
+e:Oregon Shipbuilding Corporation,employer,3,0.003289473684210526
+e:Oregon State College,employer,5,0.005482456140350877
+e:Ottawa Consultate,employer,1,0.0010964912280701754
+e:Overseas Chinese Affairs Commission,employer,1,0.0010964912280701754
+e:Overseas Chinese School,employer,2,0.0021929824561403508
+e:Pacific News Agency,employer,1,0.0010964912280701754
+e:Pacification Commissioner of Mangshi,employer,1,0.0010964912280701754
+e:Pan-American Airways System,employer,1,0.0010964912280701754
+e:Park College,employer,1,0.0010964912280701754
+e:Peiping Academy,employer,1,0.0010964912280701754
+e:Peiping Municipal Psychiatric Hospital,employer,1,0.0010964912280701754
+e:Peiping Specialized School of Finance and Commerce,employer,1,0.0010964912280701754
+e:Peiping–Mukden Railway,employer,2,0.0021929824561403508
+e:Peiping–Suiyuan Railway,employer,1,0.0010964912280701754
+e:Peiyang University,employer,1,0.0010964912280701754
+e:Peizhi Middle School,employer,1,0.0010964912280701754
+e:Peking Union Medical College (PUMC),employer,9,0.009868421052631578
+e:Peking University,employer,11,0.01206140350877193
+e:Pennsylvania Railroad,employer,1,0.0010964912280701754
+e:People's Daily (New York),employer,1,0.0010964912280701754
+e:People's Political Council,employer,2,0.0021929824561403508
+"e:Perdon Wright Law Office, J.",employer,1,0.0010964912280701754
+e:Philadelphia Public Schools,employer,1,0.0010964912280701754
+e:Philco Corporation,employer,1,0.0010964912280701754
+e:Pillsbury's Flour Mills Company,employer,1,0.0010964912280701754
+e:Political Critic,employer,1,0.0010964912280701754
+e:Pomona College,employer,2,0.0021929824561403508
+e:Pontiac Motor Corporation,employer,1,0.0010964912280701754
+e:Power Fuel Plant,employer,1,0.0010964912280701754
+e:Primary School,employer,1,0.0010964912280701754
+e:Princeton Institute for Advanced Study,employer,1,0.0010964912280701754
+e:Princeton University,employer,1,0.0010964912280701754
+e:Professional Pharmacy,employer,1,0.0010964912280701754
+e:Providence College,employer,1,0.0010964912280701754
+e:Publicker Commercial Alcohol Company,employer,3,0.003289473684210526
+e:Puget Sound Navy Yard,employer,2,0.0021929824561403508
+e:Pullman Car Manufacturing Company,employer,1,0.0010964912280701754
+e:Purdue University,employer,1,0.0010964912280701754
+e:Qingdao Railway,employer,1,0.0010964912280701754
+e:Qiuzhi Middle School,employer,2,0.0021929824561403508
+e:Qixin Foreign Trading Company,employer,1,0.0010964912280701754
+"e:R.L.A. Laboratories, Incorporated",employer,1,0.0010964912280701754
+e:Radio Corporation of America (RCA),employer,6,0.006578947368421052
+e:Rangqin University (SoengKen University of Canton),employer,1,0.0010964912280701754
+e:Reece Button-Hole Company,employer,1,0.0010964912280701754
+e:Reed & Carnrick Company,employer,1,0.0010964912280701754
+e:Republic Aviation Corporation,employer,3,0.003289473684210526
+e:Republic Steel Mill,employer,1,0.0010964912280701754
+e:Richmond Gard #2,employer,1,0.0010964912280701754
+e:Riskin & Feer Architect,employer,1,0.0010964912280701754
+e:Riverside Nursery School,employer,1,0.0010964912280701754
+e:Rockefeller Foundation,employer,1,0.0010964912280701754
+e:Rola Company,employer,1,0.0010964912280701754
+e:Royal Netherlands Navy,employer,1,0.0010964912280701754
+e:Rural Financial Society,employer,1,0.0010964912280701754
+e:Rural Reconstruction Association,employer,1,0.0010964912280701754
+e:Rural Reconstruction Talent Training Institute,employer,1,0.0010964912280701754
+e:Rust Engineering Company,employer,3,0.003289473684210526
+e:Sacred Heart Hospital,employer,1,0.0010964912280701754
+e:San Francisco Baptist Secondary School,employer,1,0.0010964912280701754
+e:Sanbei Company,employer,1,0.0010964912280701754
+e:Sanderson & Porter,employer,1,0.0010964912280701754
+e:Seattle School of Economics,employer,1,0.0010964912280701754
+e:Shaanxi Department of Education,employer,1,0.0010964912280701754
+e:Shaanxi Provincial First Vocational School,employer,1,0.0010964912280701754
+e:Shandong First Provincial Middle School,employer,1,0.0010964912280701754
+e:Shanghai Girls' Middle School,employer,1,0.0010964912280701754
+e:Shanghai Huahua Middle School,employer,1,0.0010964912280701754
+e:Shanghai Medical College,employer,1,0.0010964912280701754
+e:Shanghai Municipal Council,employer,1,0.0010964912280701754
+e:Shanghai Municipal Council Girls' Middle School,employer,1,0.0010964912280701754
+e:Shanghai Power Company,employer,2,0.0021929824561403508
+e:Shanghai Ta Kung Pao,employer,1,0.0010964912280701754
+e:Shanghai Wuben Girls' High School,employer,1,0.0010964912280701754
+e:Shanghai-Hangzhou-Ningbo Railway,employer,1,0.0010964912280701754
+e:Shantou Post Office,employer,1,0.0010964912280701754
+e:Shunde Sugar Refinery,employer,1,0.0010964912280701754
+e:Sichuan Nanchong Provincial Middle School,employer,1,0.0010964912280701754
+e:Sichuan Oil Works,employer,1,0.0010964912280701754
+e:Sichuan Provincial Geological Survey,employer,1,0.0010964912280701754
+e:Sichuan Provincial Government Planning Commission,employer,1,0.0010964912280701754
+e:Sichuan Sanjiang County Middle School,employer,1,0.0010964912280701754
+e:Sichuan Secondary School Teachers' Summer Training Class,employer,1,0.0010964912280701754
+e:Sichuan University,employer,4,0.0043859649122807015
+"e:Sin Hua Trust, Savings & Commercial Bank",employer,1,0.0010964912280701754
+e:Sino-American Cultural Association,employer,1,0.0010964912280701754
+e:Sino-American Daily,employer,1,0.0010964912280701754
+e:Sino-French Foundation Commission,employer,1,0.0010964912280701754
+e:Smith College,employer,1,0.0010964912280701754
+e:Social Welfare (Yishibao),employer,1,0.0010964912280701754
+e:Social Welfare Service Department,employer,1,0.0010964912280701754
+e:Socony-Vacuum Oil Company Incorporated,employer,4,0.0043859649122807015
+e:Songjiang Guangzheng Middle School,employer,1,0.0010964912280701754
+e:Soochow University,employer,7,0.007675438596491228
+e:Southern Gansu Petroleum Bureau,employer,1,0.0010964912280701754
+e:Southern Pacific Railway Company,employer,1,0.0010964912280701754
+e:Southern University,employer,1,0.0010964912280701754
+e:Southwestern Highway,employer,1,0.0010964912280701754
+e:Sparks-Withington Company,employer,1,0.0010964912280701754
+e:Specialized School of Taxation,employer,1,0.0010964912280701754
+e:Sperry Gyroscope Research Laboratory,employer,1,0.0010964912280701754
+e:St. Francis Hospital,employer,1,0.0010964912280701754
+e:St. John’s University,employer,1,0.0010964912280701754
+e:St. Louis Ordnance Plant,employer,1,0.0010964912280701754
+e:St. Luke Hospital,employer,1,0.0010964912280701754
+e:St. Paul's College,employer,1,0.0010964912280701754
+e:Standard Oil Company of New York,employer,1,0.0010964912280701754
+e:Standard Oil Development Company,employer,3,0.003289473684210526
+e:Stanford University,employer,2,0.0021929824561403508
+e:State of California Division of Highway,employer,1,0.0010964912280701754
+e:State of Connecticut,employer,1,0.0010964912280701754
+e:Steel Company of Canada,employer,1,0.0010964912280701754
+e:Sterling Engineering & Manufacturing Company,employer,1,0.0010964912280701754
+e:Stinson Aircraft Corporation,employer,2,0.0021929824561403508
+e:Stone & Webster Engineering Corporation,employer,2,0.0021929824561403508
+e:Stran Steel Corporation,employer,1,0.0010964912280701754
+e:Studebaker Corporation,employer,1,0.0010964912280701754
+e:Sun Yat-sen University,employer,10,0.010964912280701754
+e:Sundstrand Machine Tool Company,employer,1,0.0010964912280701754
+e:Swiss Legation,employer,1,0.0010964912280701754
+e:Swiss-American Gear Corporation,employer,1,0.0010964912280701754
+e:Sylvanin Electric Product Incorporated,employer,1,0.0010964912280701754
+e:Syracuse University,employer,2,0.0021929824561403508
+e:Tacomy Engineering Company,employer,1,0.0010964912280701754
+"e:Taishan County Secondary School, Guangdong",employer,1,0.0010964912280701754
+"e:Taohua Datong Company, Amoy",employer,1,0.0010964912280701754
+e:Tax Police Corps,employer,1,0.0010964912280701754
+e:Tennessee Valley Authority,employer,1,0.0010964912280701754
+e:Texas Company,employer,1,0.0010964912280701754
+e:The City College of New York,employer,1,0.0010964912280701754
+e:Third Fleet,employer,1,0.0010964912280701754
+e:Three Principles of the People Youth Corps,employer,1,0.0010964912280701754
+e:Thunderbird Field,employer,1,0.0010964912280701754
+e:Tianjin French-Chinese College,employer,1,0.0010964912280701754
+e:Tianjin Institute of Commerce and Industry,employer,2,0.0021929824561403508
+e:Tianshenggang Power Plant,employer,1,0.0010964912280701754
+e:Tientsin–Pukow Railway,employer,2,0.0021929824561403508
+e:Trico Products Corporation,employer,1,0.0010964912280701754
+e:Tsinghua Mechanized Training School,employer,1,0.0010964912280701754
+e:Tsinghua University,employer,43,0.047149122807017545
+e:Twelfth Infantry Division,employer,1,0.0010964912280701754
+e:Union Audit Bureau,employer,1,0.0010964912280701754
+e:United Arts Dental Laboratory,employer,1,0.0010964912280701754
+e:United China Relief,employer,3,0.003289473684210526
+e:United Nations,employer,1,0.0010964912280701754
+e:United Nations Relief and Rehabilitation Administration,employer,1,0.0010964912280701754
+e:United States Agriculture Western Regional Laboratory,employer,1,0.0010964912280701754
+e:United States Air Corporation,employer,1,0.0010964912280701754
+e:United States Army,employer,5,0.005482456140350877
+e:United States Bureau Of Mines,employer,1,0.0010964912280701754
+e:United States Bureau of Census,employer,1,0.0010964912280701754
+e:United States Department of Agriculture,employer,2,0.0021929824561403508
+e:United States Department of Interior,employer,6,0.006578947368421052
+e:United States Department of Labor,employer,1,0.0010964912280701754
+e:United States Department of War,employer,6,0.006578947368421052
+e:United States Educational Mission,employer,1,0.0010964912280701754
+e:United States Embassy,employer,15,0.01644736842105263
+e:United States Military Mission,employer,4,0.0043859649122807015
+e:United States Naval Liaison Staff Office,employer,1,0.0010964912280701754
+e:United States Navy,employer,3,0.003289473684210526
+e:United States Nitrate Plant 02,employer,1,0.0010964912280701754
+e:United States Office of War Information,employer,5,0.005482456140350877
+e:United States Plywood Corporation,employer,1,0.0010964912280701754
+e:United States Steel Export Company,employer,4,0.0043859649122807015
+e:United States Treasury Department,employer,1,0.0010964912280701754
+e:United States Waterways Experiment Station,employer,1,0.0010964912280701754
+e:Universal Camera Corporation,employer,1,0.0010964912280701754
+e:Universal Radio,employer,1,0.0010964912280701754
+e:Universal Trading Corporation,employer,38,0.041666666666666664
+e:University of Arkansas,employer,1,0.0010964912280701754
+e:University of California,employer,10,0.010964912280701754
+e:University of Chicago,employer,12,0.013157894736842105
+e:University of Colorado,employer,1,0.0010964912280701754
+e:University of Hawaii,employer,2,0.0021929824561403508
+e:University of Illinois,employer,2,0.0021929824561403508
+e:University of Michigan,employer,17,0.01864035087719298
+e:University of Minnesota,employer,9,0.009868421052631578
+e:University of Nanking (Ginling University),employer,8,0.008771929824561403
+e:University of Notre Dame,employer,2,0.0021929824561403508
+e:University of Oregon,employer,1,0.0010964912280701754
+e:University of Pennsylvania,employer,2,0.0021929824561403508
+e:University of Pittsburgh,employer,2,0.0021929824561403508
+e:University of Shanghai,employer,4,0.0043859649122807015
+e:University of South California,employer,1,0.0010964912280701754
+e:University of Southern California,employer,4,0.0043859649122807015
+e:University of Washington,employer,1,0.0010964912280701754
+e:University of Wisconsin,employer,1,0.0010964912280701754
+e:Utah Copper Company,employer,1,0.0010964912280701754
+e:Utopia University (Datong University),employer,1,0.0010964912280701754
+e:Vanderbilt University,employer,1,0.0010964912280701754
+e:Victor Chemical Works,employer,1,0.0010964912280701754
+e:Vidal Research Corporation,employer,1,0.0010964912280701754
+e:Virginia Hospital Medical College,employer,1,0.0010964912280701754
+e:Vought-Sikorsky Aircraft Company,employer,2,0.0021929824561403508
+"e:Vultee Aircraft, Incorporated",employer,1,0.0010964912280701754
+e:Wah Chang Trading Corporation,employer,9,0.009868421052631578
+e:Wally Timm Company,employer,1,0.0010964912280701754
+"e:Warren Company, S.D.",employer,1,0.0010964912280701754
+e:Washington Pump & Machinery Company,employer,2,0.0021929824561403508
+e:Wayland Academy (Hangzhou Huilan Middle School),employer,1,0.0010964912280701754
+e:Weihaiwei Administrative Office,employer,1,0.0010964912280701754
+e:Wells Fargo Bank & Union Trust Company,employer,1,0.0010964912280701754
+e:Wenshang County Government,employer,1,0.0010964912280701754
+e:West China Union University,employer,3,0.003289473684210526
+e:Western Electric Company,employer,2,0.0021929824561403508
+e:Western Yunnan Railway,employer,1,0.0010964912280701754
+e:Westinghouse Electric Manufacturing Company,employer,2,0.0021929824561403508
+e:Whampoa Military Academy,employer,1,0.0010964912280701754
+"e:White Engineering Corporation, J.G.",employer,1,0.0010964912280701754
+e:Willamette Iron & Steel Works,employer,2,0.0021929824561403508
+e:Wilputte Coke Oven Company,employer,1,0.0010964912280701754
+e:World Book Company,employer,1,0.0010964912280701754
+e:Wu County Hospital,employer,1,0.0010964912280701754
+e:Wu County Opium Rehabilitation Centre,employer,1,0.0010964912280701754
+e:Wuhan Daily,employer,1,0.0010964912280701754
+e:Wuhan University,employer,5,0.005482456140350877
+e:Wuhu County Education Bureau,employer,1,0.0010964912280701754
+e:Wuzhou Municipal Education Bureau,employer,1,0.0010964912280701754
+e:Xiamen Municipal Government,employer,1,0.0010964912280701754
+e:Xiang-Gui Railway Assistant Engineering Office,employer,1,0.0010964912280701754
+e:Xinjiang Provincial Capital,employer,1,0.0010964912280701754
+"e:Xinyi Pharmaceutical Works, Shanghai",employer,1,0.0010964912280701754
+e:Xi’an Field Headquarters,employer,1,0.0010964912280701754
+e:Yale University,employer,9,0.009868421052631578
+e:Yellow River Commission,employer,1,0.0010964912280701754
+e:Yenching University,employer,16,0.017543859649122806
+e:Yien Yieh Commercial Bank,employer,1,0.0010964912280701754
+"e:Yingguang Secondary School, Canton",employer,1,0.0010964912280701754
+e:Yongli Chemical Industry Co.,employer,1,0.0010964912280701754
+e:Yongtai Company,employer,1,0.0010964912280701754
+e:York Aircraft Corporation,employer,1,0.0010964912280701754
+e:Young China Morning News,employer,1,0.0010964912280701754
+e:Young Men’s Christian Association (YMCA),employer,2,0.0021929824561403508
+e:Young Women's Christian Association (YWCA),employer,2,0.0021929824561403508
+e:Yuantailin Transport Company,employer,1,0.0010964912280701754
+"e:Yufeng Cotton-Spinning Mill, Henan",employer,1,0.0010964912280701754
+e:Yuhua Enterprise Finance Company,employer,1,0.0010964912280701754
+"e:Yumei Secondary School, Taishan",employer,1,0.0010964912280701754
+e:Yungli Chemical Industries Limited,employer,1,0.0010964912280701754
+e:Yunnan First Provincial Middle School,employer,1,0.0010964912280701754
+e:Yunnan Investigation & Design Commission,employer,1,0.0010964912280701754
+e:Yunnan Provincial Economic Commission,employer,1,0.0010964912280701754
+e:Yunnan University,employer,2,0.0021929824561403508
+e:Yunnan-Guangxi Railway,employer,1,0.0010964912280701754
+e:Yunnan–Burma Railway,employer,3,0.003289473684210526
+e:Zhejiang Bureau of Entomology,employer,1,0.0010964912280701754
+e:Zhejiang Provincial Hangzhou Normal School,employer,1,0.0010964912280701754
+e:Zhejiang Provincial Senior High School,employer,1,0.0010964912280701754
+e:Zhejiang University,employer,10,0.010964912280701754
+e:Zhejiang-Jiangxi Railway Administration,employer,1,0.0010964912280701754
+e:Zhengtai Railway Engineering Office,employer,1,0.0010964912280701754
+e:Zhenjiang Dazhao Electric Light & Power Company,employer,1,0.0010964912280701754
+e:Zhongfu Coal Mining Company,employer,1,0.0010964912280701754
+e:Zhonghua Girls' Middle School,employer,1,0.0010964912280701754
+e:Zhonghua Middle School (San Francisco),employer,1,0.0010964912280701754
+e:Zhonghua News Agency,employer,2,0.0021929824561403508
+e:Zhonghua School (Chicago),employer,1,0.0010964912280701754
+e:Zhonghua School (Seattle),employer,1,0.0010964912280701754
+e:Zhonghua School [Provincial],employer,1,0.0010964912280701754
+e:Zhongshan Middle School,employer,1,0.0010964912280701754
+e:Zhongxiao Bank,employer,1,0.0010964912280701754
+e:Zhoushan Secondary School,employer,1,0.0010964912280701754
+e:Ziliujing Power Plant,employer,1,0.0010964912280701754
+e:lowa Agricultural Experiment Station,employer,1,0.0010964912280701754
+p:N00001,person,3,0.002835538752362949
+p:N00003,person,4,0.003780718336483932
+p:N00006,person,3,0.002835538752362949
+p:N00008,person,2,0.001890359168241966
+p:N00010,person,3,0.002835538752362949
+p:N00012,person,4,0.003780718336483932
+p:N00014,person,3,0.002835538752362949
+p:N00016,person,4,0.003780718336483932
+p:N00017,person,2,0.001890359168241966
+p:N00019,person,5,0.004725897920604915
+p:N00020,person,6,0.005671077504725898
+p:N00022,person,2,0.001890359168241966
+p:N00024,person,4,0.003780718336483932
+p:N00025,person,4,0.003780718336483932
+p:N00027,person,4,0.003780718336483932
+p:N00028,person,4,0.003780718336483932
+p:N00029,person,3,0.002835538752362949
+p:N00030,person,3,0.002835538752362949
+p:N00031,person,4,0.003780718336483932
+p:N00034,person,4,0.003780718336483932
+p:N00035,person,2,0.001890359168241966
+p:N00036,person,3,0.002835538752362949
+p:N00038,person,3,0.002835538752362949
+p:N00040,person,4,0.003780718336483932
+p:N00043,person,2,0.001890359168241966
+p:N00044,person,4,0.003780718336483932
+p:N00045,person,3,0.002835538752362949
+p:N00048,person,5,0.004725897920604915
+p:N00051,person,3,0.002835538752362949
+p:N00052,person,5,0.004725897920604915
+p:N00053,person,5,0.004725897920604915
+p:N00055,person,5,0.004725897920604915
+p:N00056,person,4,0.003780718336483932
+p:N00057,person,3,0.002835538752362949
+p:N00059,person,3,0.002835538752362949
+p:N00062,person,2,0.001890359168241966
+p:N00063,person,4,0.003780718336483932
+p:N00065,person,4,0.003780718336483932
+p:N00068,person,3,0.002835538752362949
+p:N00070,person,5,0.004725897920604915
+p:N00071,person,7,0.006616257088846881
+p:N00072,person,5,0.004725897920604915
+p:N00073,person,4,0.003780718336483932
+p:N00074,person,5,0.004725897920604915
+p:N00076,person,3,0.002835538752362949
+p:N00078,person,4,0.003780718336483932
+p:N00079,person,4,0.003780718336483932
+p:N00080,person,5,0.004725897920604915
+p:N00081,person,2,0.001890359168241966
+p:N00083,person,3,0.002835538752362949
+p:N00084,person,4,0.003780718336483932
+p:N00085,person,2,0.001890359168241966
+p:N00086,person,4,0.003780718336483932
+p:N00089,person,2,0.001890359168241966
+p:N00090,person,3,0.002835538752362949
+p:N00093,person,4,0.003780718336483932
+p:N00094,person,5,0.004725897920604915
+p:N00096,person,5,0.004725897920604915
+p:N00097,person,2,0.001890359168241966
+p:N00098,person,5,0.004725897920604915
+p:N00100,person,3,0.002835538752362949
+p:N00102,person,3,0.002835538752362949
+p:N00103,person,2,0.001890359168241966
+p:N00104,person,3,0.002835538752362949
+p:N00105,person,6,0.005671077504725898
+p:N00106,person,5,0.004725897920604915
+p:N00107,person,4,0.003780718336483932
+p:N00108,person,7,0.006616257088846881
+p:N00109,person,5,0.004725897920604915
+p:N00110,person,4,0.003780718336483932
+p:N00111,person,3,0.002835538752362949
+p:N00112,person,4,0.003780718336483932
+p:N00114,person,3,0.002835538752362949
+p:N00116,person,4,0.003780718336483932
+p:N00117,person,4,0.003780718336483932
+p:N00122,person,4,0.003780718336483932
+p:N00123,person,5,0.004725897920604915
+p:N00124,person,3,0.002835538752362949
+p:N00125,person,3,0.002835538752362949
+p:N00126,person,3,0.002835538752362949
+p:N00127,person,4,0.003780718336483932
+p:N00130,person,3,0.002835538752362949
+p:N00132,person,3,0.002835538752362949
+p:N00135,person,3,0.002835538752362949
+p:N00136,person,4,0.003780718336483932
+p:N00137,person,3,0.002835538752362949
+p:N00138,person,4,0.003780718336483932
+p:N00139,person,3,0.002835538752362949
+p:N00143,person,3,0.002835538752362949
+p:N00144,person,5,0.004725897920604915
+p:N00147,person,3,0.002835538752362949
+p:N00148,person,4,0.003780718336483932
+p:N00149,person,2,0.001890359168241966
+p:N00150,person,3,0.002835538752362949
+p:N00152,person,2,0.001890359168241966
+p:N00154,person,3,0.002835538752362949
+p:N00155,person,5,0.004725897920604915
+p:N00156,person,3,0.002835538752362949
+p:N00157,person,3,0.002835538752362949
+p:N00159,person,8,0.007561436672967864
+p:N00160,person,4,0.003780718336483932
+p:N00161,person,3,0.002835538752362949
+p:N00163,person,6,0.005671077504725898
+p:N00165,person,2,0.001890359168241966
+p:N00166,person,4,0.003780718336483932
+p:N00172,person,3,0.002835538752362949
+p:N00173,person,2,0.001890359168241966
+p:N00176,person,2,0.001890359168241966
+p:N00177,person,2,0.001890359168241966
+p:N00180,person,5,0.004725897920604915
+p:N00184,person,2,0.001890359168241966
+p:N00185,person,3,0.002835538752362949
+p:N00187,person,3,0.002835538752362949
+p:N00188,person,2,0.001890359168241966
+p:N00189,person,4,0.003780718336483932
+p:N00190,person,4,0.003780718336483932
+p:N00191,person,3,0.002835538752362949
+p:N00192,person,3,0.002835538752362949
+p:N00193,person,3,0.002835538752362949
+p:N00194,person,5,0.004725897920604915
+p:N00195,person,3,0.002835538752362949
+p:N00196,person,4,0.003780718336483932
+p:N00198,person,3,0.002835538752362949
+p:N00199,person,3,0.002835538752362949
+p:N00202,person,3,0.002835538752362949
+p:N00203,person,3,0.002835538752362949
+p:N00204,person,4,0.003780718336483932
+p:N00205,person,5,0.004725897920604915
+p:N00209,person,3,0.002835538752362949
+p:N00211,person,5,0.004725897920604915
+p:N00212,person,3,0.002835538752362949
+p:N00215,person,2,0.001890359168241966
+p:N00217,person,6,0.005671077504725898
+p:N00218,person,4,0.003780718336483932
+p:N00219,person,3,0.002835538752362949
+p:N00224,person,2,0.001890359168241966
+p:N00225,person,4,0.003780718336483932
+p:N00226,person,3,0.002835538752362949
+p:N00227,person,3,0.002835538752362949
+p:N00232,person,3,0.002835538752362949
+p:N00233,person,3,0.002835538752362949
+p:N00234,person,2,0.001890359168241966
+p:N00235,person,3,0.002835538752362949
+p:N00236,person,4,0.003780718336483932
+p:N00238,person,3,0.002835538752362949
+p:N00242,person,2,0.001890359168241966
+p:N00244,person,4,0.003780718336483932
+p:N00245,person,5,0.004725897920604915
+p:N00246,person,2,0.001890359168241966
+p:N00247,person,5,0.004725897920604915
+p:N00248,person,3,0.002835538752362949
+p:N00249,person,4,0.003780718336483932
+p:N00250,person,4,0.003780718336483932
+p:N00251,person,5,0.004725897920604915
+p:N00252,person,7,0.006616257088846881
+p:N00253,person,4,0.003780718336483932
+p:N00254,person,2,0.001890359168241966
+p:N00256,person,4,0.003780718336483932
+p:N00259,person,3,0.002835538752362949
+p:N00261,person,4,0.003780718336483932
+p:N00262,person,4,0.003780718336483932
+p:N00263,person,4,0.003780718336483932
+p:N00265,person,4,0.003780718336483932
+p:N00266,person,4,0.003780718336483932
+p:N00268,person,2,0.001890359168241966
+p:N00269,person,3,0.002835538752362949
+p:N00270,person,4,0.003780718336483932
+p:N00271,person,3,0.002835538752362949
+p:N00278,person,3,0.002835538752362949
+p:N00286,person,3,0.002835538752362949
+p:N00287,person,3,0.002835538752362949
+p:N00288,person,5,0.004725897920604915
+p:N00289,person,3,0.002835538752362949
+p:N00291,person,2,0.001890359168241966
+p:N00292,person,2,0.001890359168241966
+p:N00296,person,4,0.003780718336483932
+p:N00298,person,2,0.001890359168241966
+p:N00299,person,3,0.002835538752362949
+p:N00300,person,3,0.002835538752362949
+p:N00301,person,3,0.002835538752362949
+p:N00306,person,2,0.001890359168241966
+p:N00307,person,3,0.002835538752362949
+p:N00308,person,2,0.001890359168241966
+p:N00313,person,3,0.002835538752362949
+p:N00315,person,2,0.001890359168241966
+p:N00316,person,3,0.002835538752362949
+p:N00320,person,3,0.002835538752362949
+p:N00321,person,3,0.002835538752362949
+p:N00322,person,4,0.003780718336483932
+p:N00326,person,5,0.004725897920604915
+p:N00328,person,4,0.003780718336483932
+p:N00331,person,4,0.003780718336483932
+p:N00333,person,3,0.002835538752362949
+p:N00334,person,2,0.001890359168241966
+p:N00335,person,2,0.001890359168241966
+p:N00336,person,4,0.003780718336483932
+p:N00337,person,3,0.002835538752362949
+p:N00338,person,4,0.003780718336483932
+p:N00339,person,4,0.003780718336483932
+p:N00340,person,4,0.003780718336483932
+p:N00342,person,3,0.002835538752362949
+p:N00343,person,4,0.003780718336483932
+p:N00344,person,3,0.002835538752362949
+p:N00346,person,3,0.002835538752362949
+p:N00347,person,2,0.001890359168241966
+p:N00352,person,3,0.002835538752362949
+p:N00354,person,4,0.003780718336483932
+p:N00358,person,3,0.002835538752362949
+p:N00360,person,4,0.003780718336483932
+p:N00362,person,5,0.004725897920604915
+p:N00363,person,4,0.003780718336483932
+p:N00366,person,3,0.002835538752362949
+p:N00368,person,2,0.001890359168241966
+p:N00369,person,8,0.007561436672967864
+p:N00370,person,3,0.002835538752362949
+p:N00374,person,5,0.004725897920604915
+p:N00375,person,5,0.004725897920604915
+p:N00378,person,2,0.001890359168241966
+p:N00379,person,4,0.003780718336483932
+p:N00380,person,3,0.002835538752362949
+p:N00386,person,3,0.002835538752362949
+p:N00390,person,3,0.002835538752362949
+p:N00393,person,6,0.005671077504725898
+p:N00394,person,4,0.003780718336483932
+p:N00396,person,3,0.002835538752362949
+p:N00397,person,3,0.002835538752362949
+p:N00398,person,2,0.001890359168241966
+p:N00406,person,2,0.001890359168241966
+p:N00408,person,4,0.003780718336483932
+p:N00409,person,4,0.003780718336483932
+p:N00410,person,4,0.003780718336483932
+p:N00413,person,4,0.003780718336483932
+p:N00416,person,2,0.001890359168241966
+p:N00417,person,4,0.003780718336483932
+p:N00418,person,4,0.003780718336483932
+p:N00421,person,3,0.002835538752362949
+p:N00422,person,5,0.004725897920604915
+p:N00424,person,4,0.003780718336483932
+p:N00425,person,3,0.002835538752362949
+p:N00426,person,5,0.004725897920604915
+p:N00429,person,2,0.001890359168241966
+p:N00431,person,4,0.003780718336483932
+p:N00434,person,5,0.004725897920604915
+p:N00437,person,4,0.003780718336483932
+p:N00438,person,3,0.002835538752362949
+p:N00439,person,3,0.002835538752362949
+p:N00440,person,4,0.003780718336483932
+p:N00442,person,3,0.002835538752362949
+p:N00443,person,3,0.002835538752362949
+p:N00444,person,3,0.002835538752362949
+p:N00445,person,3,0.002835538752362949
+p:N00447,person,5,0.004725897920604915
+p:N00448,person,2,0.001890359168241966
+p:N00449,person,2,0.001890359168241966
+p:N00451,person,5,0.004725897920604915
+p:N00452,person,4,0.003780718336483932
+p:N00454,person,3,0.002835538752362949
+p:N00455,person,5,0.004725897920604915
+p:N00457,person,3,0.002835538752362949
+p:N00458,person,2,0.001890359168241966
+p:N00460,person,2,0.001890359168241966
+p:N00462,person,2,0.001890359168241966
+p:N00467,person,7,0.006616257088846881
+p:N00468,person,3,0.002835538752362949
+p:N00469,person,4,0.003780718336483932
+p:N00471,person,4,0.003780718336483932
+p:N00472,person,3,0.002835538752362949
+p:N00476,person,6,0.005671077504725898
+p:N00478,person,2,0.001890359168241966
+p:N00479,person,2,0.001890359168241966
+p:N00481,person,4,0.003780718336483932
+p:N00484,person,3,0.002835538752362949
+p:N00486,person,3,0.002835538752362949
+p:N00488,person,3,0.002835538752362949
+p:N00490,person,8,0.007561436672967864
+p:N00491,person,2,0.001890359168241966
+p:N00492,person,3,0.002835538752362949
+p:N00495,person,6,0.005671077504725898
+p:N00496,person,4,0.003780718336483932
+p:N00497,person,4,0.003780718336483932
+p:N00501,person,6,0.005671077504725898
+p:N00502,person,2,0.001890359168241966
+p:N00504,person,7,0.006616257088846881
+p:N00507,person,5,0.004725897920604915
+p:N00508,person,4,0.003780718336483932
+p:N00513,person,3,0.002835538752362949
+p:N00516,person,3,0.002835538752362949
+p:N00517,person,2,0.001890359168241966
+p:N00520,person,4,0.003780718336483932
+p:N00521,person,3,0.002835538752362949
+p:N00522,person,3,0.002835538752362949
+p:N00526,person,3,0.002835538752362949
+p:N00529,person,4,0.003780718336483932
+p:N00531,person,6,0.005671077504725898
+p:N00534,person,3,0.002835538752362949
+p:N00536,person,3,0.002835538752362949
+p:N00537,person,5,0.004725897920604915
+p:N00538,person,3,0.002835538752362949
+p:N00539,person,4,0.003780718336483932
+p:N00540,person,3,0.002835538752362949
+p:N00543,person,2,0.001890359168241966
+p:N00546,person,4,0.003780718336483932
+p:N00551,person,2,0.001890359168241966
+p:N00555,person,3,0.002835538752362949
+p:N00556,person,4,0.003780718336483932
+p:N00558,person,4,0.003780718336483932
+p:N00559,person,4,0.003780718336483932
+p:N00561,person,8,0.007561436672967864
+p:N00562,person,5,0.004725897920604915
+p:N00564,person,3,0.002835538752362949
+p:N00567,person,3,0.002835538752362949
+p:N00568,person,3,0.002835538752362949
+p:N00569,person,3,0.002835538752362949
+p:N00571,person,5,0.004725897920604915
+p:N00572,person,3,0.002835538752362949
+p:N00573,person,2,0.001890359168241966
+p:N00574,person,4,0.003780718336483932
+p:N00575,person,4,0.003780718336483932
+p:N00578,person,4,0.003780718336483932
+p:N00579,person,3,0.002835538752362949
+p:N00580,person,4,0.003780718336483932
+p:N00581,person,4,0.003780718336483932
+p:N00583,person,4,0.003780718336483932
+p:N00584,person,4,0.003780718336483932
+p:N00585,person,3,0.002835538752362949
+p:N00587,person,4,0.003780718336483932
+p:N00588,person,4,0.003780718336483932
+p:N00590,person,3,0.002835538752362949
+p:N00591,person,4,0.003780718336483932
+p:N00596,person,4,0.003780718336483932
+p:N00597,person,2,0.001890359168241966
+p:N00601,person,3,0.002835538752362949
+p:N00602,person,4,0.003780718336483932
+p:N00604,person,6,0.005671077504725898
+p:N00607,person,5,0.004725897920604915
+p:N00609,person,3,0.002835538752362949
+p:N00610,person,5,0.004725897920604915
+p:N00611,person,4,0.003780718336483932
+p:N00614,person,2,0.001890359168241966
+p:N00615,person,5,0.004725897920604915
+p:N00616,person,3,0.002835538752362949
+p:N00622,person,3,0.002835538752362949
+p:N00623,person,4,0.003780718336483932
+p:N00624,person,4,0.003780718336483932
+p:N00627,person,4,0.003780718336483932
+p:N00628,person,3,0.002835538752362949
+p:N00629,person,5,0.004725897920604915
+p:N00630,person,4,0.003780718336483932
+p:N00631,person,6,0.005671077504725898
+p:N00633,person,2,0.001890359168241966
+p:N00635,person,4,0.003780718336483932
+p:N00636,person,6,0.005671077504725898
+p:N00637,person,3,0.002835538752362949
+p:N00639,person,4,0.003780718336483932
+p:N00641,person,3,0.002835538752362949
+p:N00642,person,5,0.004725897920604915
+p:N00643,person,3,0.002835538752362949
+p:N00644,person,3,0.002835538752362949
+p:N00645,person,4,0.003780718336483932
+p:N00646,person,4,0.003780718336483932
+p:N00647,person,4,0.003780718336483932
+p:N00649,person,8,0.007561436672967864
+p:N00655,person,3,0.002835538752362949
+p:N00657,person,3,0.002835538752362949
+p:N00658,person,3,0.002835538752362949
+p:N00659,person,4,0.003780718336483932
+p:N00661,person,2,0.001890359168241966
+p:N00662,person,3,0.002835538752362949
+p:N00666,person,5,0.004725897920604915
+p:N00668,person,2,0.001890359168241966
+p:N00669,person,3,0.002835538752362949
+p:N00670,person,3,0.002835538752362949
+p:N00671,person,2,0.001890359168241966
+p:N00672,person,4,0.003780718336483932
+p:N00674,person,3,0.002835538752362949
+p:N00675,person,3,0.002835538752362949
+p:N00676,person,5,0.004725897920604915
+p:N00677,person,6,0.005671077504725898
+p:N00679,person,3,0.002835538752362949
+p:N00680,person,3,0.002835538752362949
+p:N00681,person,3,0.002835538752362949
+p:N00682,person,3,0.002835538752362949
+p:N00684,person,4,0.003780718336483932
+p:N00686,person,10,0.00945179584120983
+p:N00688,person,5,0.004725897920604915
+p:N00691,person,3,0.002835538752362949
+p:N00693,person,5,0.004725897920604915
+p:N00694,person,3,0.002835538752362949
+p:N00695,person,4,0.003780718336483932
+p:N00696,person,5,0.004725897920604915
+p:N00697,person,3,0.002835538752362949
+p:N00698,person,2,0.001890359168241966
+p:N00705,person,4,0.003780718336483932
+p:N00706,person,3,0.002835538752362949
+p:N00707,person,5,0.004725897920604915
+p:N00711,person,4,0.003780718336483932
+p:N00712,person,2,0.001890359168241966
+p:N00715,person,4,0.003780718336483932
+p:N00716,person,4,0.003780718336483932
+p:N00717,person,8,0.007561436672967864
+p:N00718,person,4,0.003780718336483932
+p:N00724,person,3,0.002835538752362949
+p:N00725,person,3,0.002835538752362949
+p:N00726,person,3,0.002835538752362949
+p:N00727,person,2,0.001890359168241966
+p:N00730,person,3,0.002835538752362949
+p:N00731,person,3,0.002835538752362949
+p:N00732,person,5,0.004725897920604915
+p:N00734,person,4,0.003780718336483932
+p:N00735,person,2,0.001890359168241966
+p:N00736,person,3,0.002835538752362949
+p:N00737,person,5,0.004725897920604915
+p:N00738,person,3,0.002835538752362949
+p:N00739,person,2,0.001890359168241966
+p:N00740,person,3,0.002835538752362949
+p:N00743,person,6,0.005671077504725898
+p:N00746,person,3,0.002835538752362949
+p:N00747,person,3,0.002835538752362949
+p:N00748,person,7,0.006616257088846881
+p:N00752,person,5,0.004725897920604915
+p:N00753,person,4,0.003780718336483932
+p:N00754,person,2,0.001890359168241966
+p:N00755,person,6,0.005671077504725898
+p:N00757,person,5,0.004725897920604915
+p:N00758,person,4,0.003780718336483932
+p:N00759,person,5,0.004725897920604915
+p:N00761,person,5,0.004725897920604915
+p:N00762,person,3,0.002835538752362949
+p:N00764,person,4,0.003780718336483932
+p:N00768,person,3,0.002835538752362949
+p:N00769,person,5,0.004725897920604915
+p:N00771,person,4,0.003780718336483932
+p:N00772,person,5,0.004725897920604915
+p:N00773,person,3,0.002835538752362949
+p:N00775,person,2,0.001890359168241966
+p:N00776,person,4,0.003780718336483932
+p:N00778,person,4,0.003780718336483932
+p:N00779,person,3,0.002835538752362949
+p:N00784,person,4,0.003780718336483932
+p:N00785,person,6,0.005671077504725898
+p:N00787,person,3,0.002835538752362949
+p:N00790,person,3,0.002835538752362949
+p:N00791,person,6,0.005671077504725898
+p:N00792,person,5,0.004725897920604915
+p:N00794,person,3,0.002835538752362949
+p:N00797,person,3,0.002835538752362949
+p:N00798,person,3,0.002835538752362949
+p:N00803,person,4,0.003780718336483932
+p:N00804,person,6,0.005671077504725898
+p:N00805,person,3,0.002835538752362949
+p:N00807,person,4,0.003780718336483932
+p:N00808,person,3,0.002835538752362949
+p:N00811,person,3,0.002835538752362949
+p:N00813,person,4,0.003780718336483932
+p:N00815,person,4,0.003780718336483932
+p:N00816,person,4,0.003780718336483932
+p:N00818,person,5,0.004725897920604915
+p:N00824,person,3,0.002835538752362949
+p:N00826,person,3,0.002835538752362949
+p:N00833,person,6,0.005671077504725898
+p:N00834,person,3,0.002835538752362949
+p:N00835,person,3,0.002835538752362949
+p:N00840,person,4,0.003780718336483932
+p:N00841,person,3,0.002835538752362949
+p:N00842,person,3,0.002835538752362949
+p:N00844,person,2,0.001890359168241966
+p:N00851,person,2,0.001890359168241966
+p:N00853,person,2,0.001890359168241966
+p:N00854,person,5,0.004725897920604915
+p:N00855,person,3,0.002835538752362949
+p:N00856,person,3,0.002835538752362949
+p:N00858,person,5,0.004725897920604915
+p:N00859,person,3,0.002835538752362949
+p:N00860,person,4,0.003780718336483932
+p:N00862,person,4,0.003780718336483932
+p:N00863,person,7,0.006616257088846881
+p:N00864,person,2,0.001890359168241966
+p:N00865,person,2,0.001890359168241966
+p:N00866,person,3,0.002835538752362949
+p:N00867,person,2,0.001890359168241966
+p:N00869,person,2,0.001890359168241966
+p:N00872,person,5,0.004725897920604915
+p:N00874,person,4,0.003780718336483932
+p:N00875,person,3,0.002835538752362949
+p:N00878,person,3,0.002835538752362949
+p:N00879,person,8,0.007561436672967864
+p:N00880,person,2,0.001890359168241966
+p:N00881,person,3,0.002835538752362949
+p:N00882,person,3,0.002835538752362949
+p:N00883,person,2,0.001890359168241966
+p:N00884,person,3,0.002835538752362949
+p:N00885,person,5,0.004725897920604915
+p:N00886,person,5,0.004725897920604915
+p:N00887,person,4,0.003780718336483932
+p:N00889,person,4,0.003780718336483932
+p:N00890,person,6,0.005671077504725898
+p:N00891,person,4,0.003780718336483932
+p:N00894,person,6,0.005671077504725898
+p:N00895,person,3,0.002835538752362949
+p:N00899,person,3,0.002835538752362949
+p:N00900,person,5,0.004725897920604915
+p:N00903,person,4,0.003780718336483932
+p:N00904,person,5,0.004725897920604915
+p:N00905,person,5,0.004725897920604915
+p:N00906,person,4,0.003780718336483932
+p:N00908,person,4,0.003780718336483932
+p:N00909,person,5,0.004725897920604915
+p:N00910,person,4,0.003780718336483932
+p:N00913,person,3,0.002835538752362949
+p:N00915,person,4,0.003780718336483932
+p:N00916,person,4,0.003780718336483932
+p:N00917,person,3,0.002835538752362949
+p:N00920,person,2,0.001890359168241966
+p:N00921,person,4,0.003780718336483932
+p:N00925,person,6,0.005671077504725898
+p:N00928,person,6,0.005671077504725898
+p:N00931,person,5,0.004725897920604915
+p:N00932,person,4,0.003780718336483932
+p:N00934,person,3,0.002835538752362949
+p:N00935,person,4,0.003780718336483932
+p:N00936,person,4,0.003780718336483932
+p:N00938,person,2,0.001890359168241966
+p:N00943,person,3,0.002835538752362949
+p:N00944,person,3,0.002835538752362949
+p:N00945,person,6,0.005671077504725898
+p:N00946,person,2,0.001890359168241966
+p:N00947,person,3,0.002835538752362949
+p:N00948,person,3,0.002835538752362949
+p:N00951,person,2,0.001890359168241966
+p:N00953,person,4,0.003780718336483932
+p:N00954,person,3,0.002835538752362949
+p:N00958,person,6,0.005671077504725898
+p:N00959,person,3,0.002835538752362949
+p:N00960,person,5,0.004725897920604915
+p:N00961,person,4,0.003780718336483932
+p:N00964,person,4,0.003780718336483932
+p:N00965,person,5,0.004725897920604915
+p:N00966,person,4,0.003780718336483932
+p:N00967,person,3,0.002835538752362949
+p:N00968,person,3,0.002835538752362949
+p:N00969,person,3,0.002835538752362949
+p:N00970,person,3,0.002835538752362949
+p:N00971,person,5,0.004725897920604915
+p:N00972,person,2,0.001890359168241966
+p:N00973,person,6,0.005671077504725898
+p:N00975,person,3,0.002835538752362949
+p:N00981,person,3,0.002835538752362949
+p:N00982,person,2,0.001890359168241966
+p:N00983,person,4,0.003780718336483932
+p:N00984,person,2,0.001890359168241966
+p:N00987,person,6,0.005671077504725898
+p:N00989,person,4,0.003780718336483932
+p:N00990,person,4,0.003780718336483932
+p:N00991,person,2,0.001890359168241966
+p:N00992,person,4,0.003780718336483932
+p:N00993,person,5,0.004725897920604915
+p:N00994,person,8,0.007561436672967864
+p:N00996,person,2,0.001890359168241966
+p:N00997,person,5,0.004725897920604915
+p:N00998,person,4,0.003780718336483932
+p:N00999,person,4,0.003780718336483932
+p:N01001,person,3,0.002835538752362949
+p:N01002,person,3,0.002835538752362949
+p:N01004,person,2,0.001890359168241966
+p:N01005,person,4,0.003780718336483932
+p:N01007,person,4,0.003780718336483932
+p:N01008,person,3,0.002835538752362949
+p:N01009,person,4,0.003780718336483932
+p:N01010,person,4,0.003780718336483932
+p:N01011,person,4,0.003780718336483932
+p:N01012,person,4,0.003780718336483932
+p:N01014,person,2,0.001890359168241966
+p:N01015,person,3,0.002835538752362949
+p:N01019,person,3,0.002835538752362949
+p:N01022,person,2,0.001890359168241966
+p:N01023,person,2,0.001890359168241966
+p:N01027,person,2,0.001890359168241966
+p:N01028,person,4,0.003780718336483932
+p:N01030,person,2,0.001890359168241966
+p:N01031,person,5,0.004725897920604915
+p:N01036,person,5,0.004725897920604915
+p:N01038,person,3,0.002835538752362949
+p:N01039,person,3,0.002835538752362949
+p:N01042,person,3,0.002835538752362949
+p:N01043,person,2,0.001890359168241966
+p:N01044,person,4,0.003780718336483932
+p:N01045,person,4,0.003780718336483932
+p:N01046,person,2,0.001890359168241966
+p:N01047,person,8,0.007561436672967864
+p:N01051,person,2,0.001890359168241966
+p:N01052,person,5,0.004725897920604915
+p:N01053,person,2,0.001890359168241966
+p:N01054,person,6,0.005671077504725898
+p:N01055,person,4,0.003780718336483932
+p:N01056,person,5,0.004725897920604915
+p:N01057,person,3,0.002835538752362949
+p:N01058,person,4,0.003780718336483932
+p:N01059,person,4,0.003780718336483932
+p:N01060,person,2,0.001890359168241966
+p:N01061,person,2,0.001890359168241966
+p:N01062,person,5,0.004725897920604915
+p:N01064,person,2,0.001890359168241966
+p:N01065,person,3,0.002835538752362949
+p:N01067,person,5,0.004725897920604915
+p:N01068,person,5,0.004725897920604915
+p:N01069,person,5,0.004725897920604915
+p:N01071,person,4,0.003780718336483932
+p:N01074,person,6,0.005671077504725898
+p:N01075,person,2,0.001890359168241966
+p:N01076,person,3,0.002835538752362949
+p:N01077,person,2,0.001890359168241966
+p:N01078,person,4,0.003780718336483932
+p:N01079,person,3,0.002835538752362949
+p:N01080,person,5,0.004725897920604915
+p:N01081,person,4,0.003780718336483932
+p:N01082,person,6,0.005671077504725898
+p:N01083,person,2,0.001890359168241966
+p:N01084,person,4,0.003780718336483932
+p:N01087,person,3,0.002835538752362949
+p:N01088,person,4,0.003780718336483932
+p:N01090,person,5,0.004725897920604915
+p:N01092,person,5,0.004725897920604915
+p:N01093,person,5,0.004725897920604915
+p:N01094,person,5,0.004725897920604915
+p:N01096,person,3,0.002835538752362949
+p:N01097,person,4,0.003780718336483932
+p:N01099,person,3,0.002835538752362949
+p:N01100,person,3,0.002835538752362949
+p:N01102,person,5,0.004725897920604915
+p:N01105,person,4,0.003780718336483932
+p:N01106,person,9,0.008506616257088847
+p:N01108,person,3,0.002835538752362949
+p:N01112,person,4,0.003780718336483932
+p:N01116,person,4,0.003780718336483932
+p:N01117,person,2,0.001890359168241966
+p:N01118,person,4,0.003780718336483932
+p:N01121,person,2,0.001890359168241966
+p:N01122,person,3,0.002835538752362949
+p:N01124,person,3,0.002835538752362949
+p:N01127,person,3,0.002835538752362949
+p:N01128,person,4,0.003780718336483932
+p:N01129,person,6,0.005671077504725898
+p:N01131,person,5,0.004725897920604915
+p:N01134,person,3,0.002835538752362949
+p:N01136,person,4,0.003780718336483932
+p:N01137,person,5,0.004725897920604915
+p:N01138,person,5,0.004725897920604915
+p:N01140,person,2,0.001890359168241966
+p:N01143,person,3,0.002835538752362949
+p:N01144,person,6,0.005671077504725898
+p:N01145,person,4,0.003780718336483932
+p:N01146,person,3,0.002835538752362949
+p:N01148,person,3,0.002835538752362949
+p:N01150,person,6,0.005671077504725898
+p:N01151,person,2,0.001890359168241966
+p:N01153,person,3,0.002835538752362949
+p:N01154,person,4,0.003780718336483932
+p:N01155,person,6,0.005671077504725898
+p:N01156,person,5,0.004725897920604915
+p:N01157,person,4,0.003780718336483932
+p:N01160,person,3,0.002835538752362949
+p:N01161,person,3,0.002835538752362949
+p:N01162,person,2,0.001890359168241966
+p:N01167,person,4,0.003780718336483932
+p:N01168,person,6,0.005671077504725898
+p:N01169,person,5,0.004725897920604915
+p:N01171,person,3,0.002835538752362949
+p:N01172,person,7,0.006616257088846881
+p:N01173,person,3,0.002835538752362949
+p:N01175,person,6,0.005671077504725898
+p:N01176,person,2,0.001890359168241966
+p:N01179,person,4,0.003780718336483932
+p:N01180,person,6,0.005671077504725898
+p:N01182,person,5,0.004725897920604915
+p:N01186,person,4,0.003780718336483932
+p:N01187,person,5,0.004725897920604915
+p:N01188,person,5,0.004725897920604915
+p:N01189,person,3,0.002835538752362949
+p:N01193,person,3,0.002835538752362949
+p:N01194,person,6,0.005671077504725898
+p:N01195,person,3,0.002835538752362949
+p:N01196,person,4,0.003780718336483932
+p:N01198,person,4,0.003780718336483932
+p:N01199,person,3,0.002835538752362949
+p:N01202,person,3,0.002835538752362949
+p:N01203,person,5,0.004725897920604915
+p:N01205,person,4,0.003780718336483932
+p:N01212,person,2,0.001890359168241966
+p:N01218,person,4,0.003780718336483932
+p:N01219,person,3,0.002835538752362949
+p:N01221,person,6,0.005671077504725898
+p:N01223,person,2,0.001890359168241966
+p:N01224,person,5,0.004725897920604915
+p:N01226,person,4,0.003780718336483932
+p:N01227,person,5,0.004725897920604915
+p:N01229,person,7,0.006616257088846881
+p:N01230,person,4,0.003780718336483932
+p:N01231,person,3,0.002835538752362949
+p:N01232,person,3,0.002835538752362949
+p:N01233,person,3,0.002835538752362949
+p:N01235,person,2,0.001890359168241966
+p:N01236,person,4,0.003780718336483932
+p:N01237,person,2,0.001890359168241966
+p:N01238,person,3,0.002835538752362949
+p:N01242,person,3,0.002835538752362949
+p:N01243,person,3,0.002835538752362949
+p:N01245,person,3,0.002835538752362949
+p:N01246,person,4,0.003780718336483932
+p:N01248,person,4,0.003780718336483932
+p:N01249,person,5,0.004725897920604915
+p:N01250,person,6,0.005671077504725898
+p:N01252,person,4,0.003780718336483932
+p:N01253,person,5,0.004725897920604915
+p:N01255,person,3,0.002835538752362949
+p:N01258,person,5,0.004725897920604915
+p:N01260,person,3,0.002835538752362949
+p:N01263,person,5,0.004725897920604915
+p:N01264,person,2,0.001890359168241966
+p:N01270,person,6,0.005671077504725898
+p:N01272,person,2,0.001890359168241966
+p:N01275,person,4,0.003780718336483932
+p:N01276,person,5,0.004725897920604915
+p:N01277,person,4,0.003780718336483932
+p:N01280,person,4,0.003780718336483932
+p:N01283,person,6,0.005671077504725898
+p:N01284,person,5,0.004725897920604915
+p:N01286,person,3,0.002835538752362949
+p:N01287,person,4,0.003780718336483932
+p:N01288,person,5,0.004725897920604915
+p:N01291,person,4,0.003780718336483932
+p:N01293,person,4,0.003780718336483932
+p:N01295,person,2,0.001890359168241966
+p:N01297,person,4,0.003780718336483932
+p:N01298,person,4,0.003780718336483932
+p:N01304,person,3,0.002835538752362949
+p:N01306,person,5,0.004725897920604915
+p:N01307,person,4,0.003780718336483932
+p:N01310,person,2,0.001890359168241966
+p:N01311,person,3,0.002835538752362949
+p:N01314,person,4,0.003780718336483932
+p:N01316,person,3,0.002835538752362949
+p:N01317,person,5,0.004725897920604915
+p:N01318,person,2,0.001890359168241966
+p:N01320,person,2,0.001890359168241966
+p:N01321,person,2,0.001890359168241966
+p:N01322,person,6,0.005671077504725898
+p:N01327,person,2,0.001890359168241966
+p:N01329,person,4,0.003780718336483932
+p:N01334,person,4,0.003780718336483932
+p:N01336,person,4,0.003780718336483932
+p:N01338,person,4,0.003780718336483932
+p:N01339,person,4,0.003780718336483932
+p:N01341,person,5,0.004725897920604915
+p:N01346,person,4,0.003780718336483932
+p:N01347,person,4,0.003780718336483932
+p:N01350,person,4,0.003780718336483932
+p:N01351,person,5,0.004725897920604915
+p:N01352,person,3,0.002835538752362949
+p:N01354,person,2,0.001890359168241966
+p:N01356,person,6,0.005671077504725898
+p:N01357,person,4,0.003780718336483932
+p:N01358,person,3,0.002835538752362949
+p:N01360,person,3,0.002835538752362949
+p:N01361,person,4,0.003780718336483932
+p:N01362,person,4,0.003780718336483932
+p:N01368,person,3,0.002835538752362949
+p:N01369,person,4,0.003780718336483932
+p:N01371,person,4,0.003780718336483932
+p:N01372,person,3,0.002835538752362949
+p:N01373,person,4,0.003780718336483932
+p:N01374,person,4,0.003780718336483932
+p:N01377,person,3,0.002835538752362949
+p:N01379,person,5,0.004725897920604915
+p:N01382,person,2,0.001890359168241966
+p:N01386,person,3,0.002835538752362949
+p:N01388,person,4,0.003780718336483932
+p:N01389,person,7,0.006616257088846881
+p:N01390,person,4,0.003780718336483932
+p:N01391,person,6,0.005671077504725898
+p:N01392,person,2,0.001890359168241966
+p:N01395,person,2,0.001890359168241966
+p:N01397,person,4,0.003780718336483932
+p:N01398,person,3,0.002835538752362949
+p:N01399,person,4,0.003780718336483932
+p:N01400,person,3,0.002835538752362949
+p:N01401,person,4,0.003780718336483932
+p:N01402,person,3,0.002835538752362949
+p:N01404,person,2,0.001890359168241966
+p:N01405,person,3,0.002835538752362949
+p:N01406,person,6,0.005671077504725898
+p:N01407,person,4,0.003780718336483932
+p:N01409,person,5,0.004725897920604915
+p:N01410,person,3,0.002835538752362949
+p:N01416,person,3,0.002835538752362949
+p:N01417,person,5,0.004725897920604915
+p:N01420,person,3,0.002835538752362949
+p:N01421,person,4,0.003780718336483932
+p:N01422,person,5,0.004725897920604915
+p:N01424,person,3,0.002835538752362949
+p:N01425,person,3,0.002835538752362949
+p:N01427,person,3,0.002835538752362949
+p:N01428,person,3,0.002835538752362949
+p:N01430,person,3,0.002835538752362949
+p:N01431,person,4,0.003780718336483932
+p:N01435,person,3,0.002835538752362949
+p:N01436,person,3,0.002835538752362949
+p:N01439,person,3,0.002835538752362949
+p:N01440,person,5,0.004725897920604915
+p:N01441,person,5,0.004725897920604915
+p:N01442,person,6,0.005671077504725898
+p:N01443,person,2,0.001890359168241966
+p:N01444,person,5,0.004725897920604915
+p:N01446,person,4,0.003780718336483932
+p:N01447,person,2,0.001890359168241966
+p:N01448,person,2,0.001890359168241966
+p:N01449,person,3,0.002835538752362949
+p:N01454,person,3,0.002835538752362949
+p:N01455,person,4,0.003780718336483932
+p:N01456,person,2,0.001890359168241966
+p:N01459,person,4,0.003780718336483932
+p:N01465,person,6,0.005671077504725898
+p:N01466,person,6,0.005671077504725898
+p:N01467,person,3,0.002835538752362949
+p:N01468,person,3,0.002835538752362949
+p:N01469,person,3,0.002835538752362949
+p:N01470,person,3,0.002835538752362949
+p:N01473,person,6,0.005671077504725898
+p:N01474,person,2,0.001890359168241966
+p:N01475,person,3,0.002835538752362949
+p:N01477,person,2,0.001890359168241966
+p:N01479,person,4,0.003780718336483932
+p:N01480,person,3,0.002835538752362949
+p:N01482,person,6,0.005671077504725898
+p:N01483,person,5,0.004725897920604915
+p:N01484,person,2,0.001890359168241966
+p:N01488,person,2,0.001890359168241966
+p:N01491,person,4,0.003780718336483932
+p:N01492,person,4,0.003780718336483932
+p:N01493,person,6,0.005671077504725898
+p:N01494,person,3,0.002835538752362949
+p:N01496,person,4,0.003780718336483932
+p:N01498,person,4,0.003780718336483932
+p:N01502,person,3,0.002835538752362949
+p:N01503,person,4,0.003780718336483932
+p:N01507,person,4,0.003780718336483932
+p:N01510,person,3,0.002835538752362949
+p:N01511,person,3,0.002835538752362949
+p:N01512,person,3,0.002835538752362949
+p:N01514,person,4,0.003780718336483932
+p:N01516,person,3,0.002835538752362949
+p:N01518,person,3,0.002835538752362949
+p:N01519,person,5,0.004725897920604915
+p:N01520,person,3,0.002835538752362949
+p:N01521,person,3,0.002835538752362949
+p:N01522,person,3,0.002835538752362949
+p:N01523,person,3,0.002835538752362949
+p:N01524,person,4,0.003780718336483932
+p:N01525,person,2,0.001890359168241966
+p:N01526,person,5,0.004725897920604915
+p:N01527,person,3,0.002835538752362949
+p:N01528,person,3,0.002835538752362949
+p:N01529,person,6,0.005671077504725898
+p:N01530,person,3,0.002835538752362949
+p:N01531,person,5,0.004725897920604915
+p:N01532,person,5,0.004725897920604915
+p:N01533,person,3,0.002835538752362949
+p:N01534,person,2,0.001890359168241966
+p:N01535,person,5,0.004725897920604915
+p:N01536,person,3,0.002835538752362949
+p:N01537,person,6,0.005671077504725898
+p:N01538,person,4,0.003780718336483932
+p:N01539,person,4,0.003780718336483932
+p:N01540,person,6,0.005671077504725898
+p:N01541,person,3,0.002835538752362949
+p:N01546,person,4,0.003780718336483932
+p:N01547,person,2,0.001890359168241966
+p:N01548,person,3,0.002835538752362949
+p:N01550,person,3,0.002835538752362949
+p:N01552,person,4,0.003780718336483932
+p:N01553,person,4,0.003780718336483932
+p:N01554,person,4,0.003780718336483932
+p:N01555,person,2,0.001890359168241966
+p:N01556,person,3,0.002835538752362949
+p:N01560,person,4,0.003780718336483932
+p:N01562,person,3,0.002835538752362949
+p:N01563,person,2,0.001890359168241966
+p:N01566,person,3,0.002835538752362949
+p:N01569,person,3,0.002835538752362949
+p:N01573,person,2,0.001890359168241966
+p:N01574,person,3,0.002835538752362949
+p:N01575,person,4,0.003780718336483932
+p:N01577,person,2,0.001890359168241966
+p:N01578,person,4,0.003780718336483932
+p:N01579,person,2,0.001890359168241966
+p:N01580,person,2,0.001890359168241966
+p:N01581,person,5,0.004725897920604915
+p:N01582,person,2,0.001890359168241966
+p:N01583,person,6,0.005671077504725898
+p:N01585,person,2,0.001890359168241966
+p:N01587,person,3,0.002835538752362949
+p:N01589,person,3,0.002835538752362949
+p:N01590,person,3,0.002835538752362949
+p:N01591,person,3,0.002835538752362949
+p:N01592,person,2,0.001890359168241966
+p:N01594,person,3,0.002835538752362949
+p:N01595,person,2,0.001890359168241966
+p:N01597,person,2,0.001890359168241966
+p:N01601,person,3,0.002835538752362949
+p:N01608,person,2,0.001890359168241966
+p:N01610,person,3,0.002835538752362949
+p:N01612,person,3,0.002835538752362949
+p:N01613,person,3,0.002835538752362949
+u:Aachen Technical University,university,1,0.0010964912280701754
+u:Air Force Technical College,university,1,0.0010964912280701754
+u:Alfred University,university,1,0.0010964912280701754
+u:American Conservatory of Music,university,1,0.0010964912280701754
+u:American National University,university,4,0.0043859649122807015
+u:Antioch College,university,1,0.0010964912280701754
+u:Arizona State Teachers' College,university,1,0.0010964912280701754
+u:Arkansas State College,university,1,0.0010964912280701754
+u:Armstrong Junior College,university,1,0.0010964912280701754
+u:Army Mechanization School,university,3,0.003289473684210526
+u:Army Signal Corps School,university,1,0.0010964912280701754
+u:Army University,university,1,0.0010964912280701754
+u:Art Institute of Chicago,university,2,0.0021929824561403508
+u:Asbury College,university,2,0.0021929824561403508
+u:Atlantic Union College,university,1,0.0010964912280701754
+u:Aurora University,university,1,0.0010964912280701754
+u:Baldwin Wallace College,university,1,0.0010964912280701754
+u:Barnard College,university,1,0.0010964912280701754
+u:Baylor University,university,1,0.0010964912280701754
+u:Beijing University,university,25,0.027412280701754384
+u:Beiyang University,university,8,0.008771929824561403
+u:Bennett College,university,1,0.0010964912280701754
+u:Birmingham University,university,1,0.0010964912280701754
+u:Boston University,university,3,0.003289473684210526
+u:Brown University,university,3,0.003289473684210526
+u:Bryn Mawr College,university,1,0.0010964912280701754
+u:California Institute of Technology,university,17,0.01864035087719298
+u:Cambridge University,university,7,0.007675438596491228
+u:Canisus College,university,1,0.0010964912280701754
+u:Carleton College,university,2,0.0021929824561403508
+u:Carnegie Institute of Technology,university,3,0.003289473684210526
+u:Carroll College,university,1,0.0010964912280701754
+u:Case School of Applied Science,university,1,0.0010964912280701754
+u:Catholic University of America,university,4,0.0043859649122807015
+u:Central Army Military Academy,university,16,0.017543859649122806
+u:Central Political School,university,6,0.006578947368421052
+u:Central University,university,30,0.03289473684210526
+u:Chemical Institute of Lyon,university,1,0.0010964912280701754
+u:Chengdu Sino-French University,university,1,0.0010964912280701754
+u:Chicago Aeronautical University,university,1,0.0010964912280701754
+"u:Children Hospital, Massachusetts",university,1,0.0010964912280701754
+u:China College University Department,university,2,0.0021929824561403508
+u:China University,university,2,0.0021929824561403508
+u:Chongqing University,university,1,0.0010964912280701754
+u:Chrysler Institute of Engineering,university,1,0.0010964912280701754
+u:City College of New York,university,2,0.0021929824561403508
+u:Claremont College,university,1,0.0010964912280701754
+u:Clarence White School of Photography,university,1,0.0010964912280701754
+u:Clark University,university,2,0.0021929824561403508
+u:College of St. Elisabeth,university,3,0.003289473684210526
+u:Colorado College,university,1,0.0010964912280701754
+u:Colorado School of Mines,university,4,0.0043859649122807015
+u:Columbia University,university,69,0.0756578947368421
+u:Cornell University,university,24,0.02631578947368421
+u:Curtiss-Wright Technical Institute,university,3,0.003289473684210526
+u:Dartmouth College,university,1,0.0010964912280701754
+u:Datong University,university,6,0.006578947368421052
+u:Daxia University,university,3,0.003289473684210526
+u:De La Salle College,university,1,0.0010964912280701754
+u:Denison University,university,1,0.0010964912280701754
+u:Detroit Institute of Technology,university,1,0.0010964912280701754
+u:Dickinson College,university,1,0.0010964912280701754
+u:Drake University,university,1,0.0010964912280701754
+u:Drew University,university,2,0.0021929824561403508
+u:Duke University,university,4,0.0043859649122807015
+u:Duquesne University,university,1,0.0010964912280701754
+u:Ecole des Hautes Etudes Industrielles et Commerciales,university,1,0.0010964912280701754
+u:Edinburgh University,university,3,0.003289473684210526
+u:Embry–Riddle Aeronautical University (ERAU),university,1,0.0010964912280701754
+u:Emmanuel Missionary College,university,1,0.0010964912280701754
+u:Field Artillery School,university,1,0.0010964912280701754
+u:Fordham University,university,5,0.005482456140350877
+u:Fu-jen University,university,7,0.007675438596491228
+u:Fudan University,university,13,0.01425438596491228
+u:Fujian Union University,university,12,0.013157894736842105
+u:George Peabody College,university,2,0.0021929824561403508
+u:George Washington University,university,5,0.005482456140350877
+u:Georgetown University,university,2,0.0021929824561403508
+u:Georgia School of Technology,university,1,0.0010964912280701754
+u:Ginling College,university,8,0.008771929824561403
+u:Glasgow University,university,1,0.0010964912280701754
+u:Gonzaga University,university,1,0.0010964912280701754
+u:Goucher College,university,1,0.0010964912280701754
+u:Guangdong College of Law,university,1,0.0010964912280701754
+u:Guanghua University,university,6,0.006578947368421052
+u:Guangxi University,university,2,0.0021929824561403508
+u:Guangzhou University,university,1,0.0010964912280701754
+u:Harbin Polytechnic Institute,university,1,0.0010964912280701754
+u:Harvard University,university,56,0.06140350877192982
+u:Haverford College,university,2,0.0021929824561403508
+u:Heald's College,university,1,0.0010964912280701754
+u:Heald’s Engineering College,university,1,0.0010964912280701754
+u:Hebei Institute of Technology,university,2,0.0021929824561403508
+u:Hebei Provincial Institute of Technology,university,1,0.0010964912280701754
+u:Hebei University,university,1,0.0010964912280701754
+u:Henan University,university,1,0.0010964912280701754
+u:Hongkong University,university,1,0.0010964912280701754
+u:Huazhong University,university,1,0.0010964912280701754
+u:Hunan University,university,1,0.0010964912280701754
+u:Hwa Nan College,university,2,0.0021929824561403508
+u:Ilegible,university,9,0.009868421052631578
+u:Illinois Institute of Technology,university,3,0.003289473684210526
+u:Indiana Technical College,university,2,0.0021929824561403508
+u:Indiana University,university,3,0.003289473684210526
+u:Institute for Advanced Study,university,1,0.0010964912280701754
+u:International University,university,1,0.0010964912280701754
+u:Iowa State College,university,9,0.009868421052631578
+u:Jiaotong University,university,82,0.08991228070175439
+u:Jiaozuo Institute of Technology,university,1,0.0010964912280701754
+u:Jinan University,university,7,0.007675438596491228
+u:Jinling University,university,23,0.025219298245614034
+u:Johns Hopkins University,university,5,0.005482456140350877
+u:Kansas State College,university,2,0.0021929824561403508
+u:LaSalle College,university,1,0.0010964912280701754
+u:Lehigh University,university,1,0.0010964912280701754
+u:Linfield College,university,2,0.0021929824561403508
+u:Lingnan University,university,29,0.03179824561403509
+u:Louisiana State University,university,2,0.0021929824561403508
+u:Lowell Textile Institute,university,1,0.0010964912280701754
+u:Loyola University,university,2,0.0021929824561403508
+u:Madison College,university,2,0.0021929824561403508
+u:Manhattan College,university,1,0.0010964912280701754
+u:Mapúa Institute of Technology,university,1,0.0010964912280701754
+u:Marquette University,university,2,0.0021929824561403508
+u:Mary Hardin-Baylor College,university,1,0.0010964912280701754
+u:Maryville College,university,1,0.0010964912280701754
+u:Massachusetts College of Pharmacy,university,2,0.0021929824561403508
+u:Massachusetts Institute of Technology,university,74,0.08114035087719298
+u:Master Institute of United Arts,university,1,0.0010964912280701754
+u:McGill University,university,2,0.0021929824561403508
+u:Medical College of Virginia,university,1,0.0010964912280701754
+u:Mercer University,university,1,0.0010964912280701754
+u:Michigan State College,university,3,0.003289473684210526
+u:Middlesex University,university,1,0.0010964912280701754
+u:Mills College,university,3,0.003289473684210526
+u:Millsaps College,university,1,0.0010964912280701754
+u:Missouri School of Mines & Metals,university,2,0.0021929824561403508
+u:Montana School of Mines,university,1,0.0010964912280701754
+u:Montana State College,university,1,0.0010964912280701754
+u:Moody Bible Institute,university,1,0.0010964912280701754
+u:Mount Holyoke College,university,3,0.003289473684210526
+u:Mount Mary College,university,2,0.0021929824561403508
+u:Mount Union College,university,1,0.0010964912280701754
+u:Multnomah University,university,1,0.0010964912280701754
+u:Nankai School,university,1,0.0010964912280701754
+u:Nankai University,university,14,0.015350877192982455
+u:Nanking Higher Normal School,university,1,0.0010964912280701754
+u:National College of Music,university,1,0.0010964912280701754
+u:Naval school,university,1,0.0010964912280701754
+u:New School For Social Research,university,2,0.0021929824561403508
+u:New York University,university,50,0.05482456140350877
+u:Niagara University,university,1,0.0010964912280701754
+u:Nihon University,university,1,0.0010964912280701754
+u:Normal University,university,8,0.008771929824561403
+u:Northeast University,university,3,0.003289473684210526
+u:Northeastern University,university,5,0.005482456140350877
+u:Northwestern University,university,3,0.003289473684210526
+u:Oberlin College,university,7,0.007675438596491228
+u:Ohio State University,university,5,0.005482456140350877
+u:Ohio Wesleyan University,university,3,0.003289473684210526
+u:Oregon State College,university,10,0.010964912280701754
+u:Oxford University,university,3,0.003289473684210526
+u:Pacific School of Religion,university,1,0.0010964912280701754
+u:Park College,university,2,0.0021929824561403508
+u:Parks Air College,university,1,0.0010964912280701754
+u:Peabody Conservatory of Music,university,1,0.0010964912280701754
+u:Peiping College of Finance and Commerce,university,1,0.0010964912280701754
+u:Peiping Minguo University,university,1,0.0010964912280701754
+u:Peking Metropolitan University,university,1,0.0010964912280701754
+u:Peking Union Medical College,university,7,0.007675438596491228
+u:Penn State College,university,6,0.006578947368421052
+u:Peter Bent Brigham Hospital,university,1,0.0010964912280701754
+u:Polytechnic Institute of Brooklyn,university,2,0.0021929824561403508
+u:Pomona College,university,4,0.0043859649122807015
+u:Princeton Seminary,university,1,0.0010964912280701754
+u:Princeton University,university,6,0.006578947368421052
+u:Propaganda Fide,university,1,0.0010964912280701754
+u:Pughy College,university,1,0.0010964912280701754
+u:Purdue University,university,37,0.04057017543859649
+u:Qilu University,university,6,0.006578947368421052
+u:Radcliffe College,university,2,0.0021929824561403508
+u:Radio Corporation of America Institute,university,1,0.0010964912280701754
+u:Rensselaer Polytechnic Institute,university,3,0.003289473684210526
+u:Rice Institute,university,2,0.0021929824561403508
+u:Rochester Institute of Technology,university,1,0.0010964912280701754
+u:Rostock University,university,1,0.0010964912280701754
+u:Royal Military College,university,2,0.0021929824561403508
+u:Royal Polytechnic University of Milan,university,1,0.0010964912280701754
+u:Rutgers University,university,1,0.0010964912280701754
+u:San Francisco State College,university,1,0.0010964912280701754
+u:Seton Hill College,university,1,0.0010964912280701754
+u:Shandong University,university,2,0.0021929824561403508
+u:Shanghai Medical College,university,1,0.0010964912280701754
+u:Shanghai Sanyu University,university,1,0.0010964912280701754
+u:Shanghai University,university,25,0.027412280701754384
+u:Shanghai Xinhua University of Art,university,1,0.0010964912280701754
+u:Simmons College,university,1,0.0010964912280701754
+u:Sino-French University,university,2,0.0021929824561403508
+u:Sino-Russian Industrial University,university,1,0.0010964912280701754
+u:Smith College,university,2,0.0021929824561403508
+u:Southeast University,university,16,0.017543859649122806
+u:Southern College,university,1,0.0010964912280701754
+u:Southwest Associated University,university,1,0.0010964912280701754
+u:Southwestern University,university,1,0.0010964912280701754
+u:Spartan College of Aeronautics and Technology,university,1,0.0010964912280701754
+u:Springfield College,university,1,0.0010964912280701754
+u:St. John's Hospital,university,1,0.0010964912280701754
+u:St. John's University,university,41,0.044956140350877194
+u:St. Louis College of Pharmacy,university,1,0.0010964912280701754
+u:St. Paul's Girls' School,university,1,0.0010964912280701754
+u:Stanford University,university,16,0.017543859649122806
+u:State University of Iowa,university,14,0.015350877192982455
+u:Stevens Institute of Technology,university,1,0.0010964912280701754
+u:Sweet Briar College,university,1,0.0010964912280701754
+u:Syracuse University,university,5,0.005482456140350877
+u:Taliesin Fellowship,university,1,0.0010964912280701754
+u:Tangshan Chiao Tung University,university,1,0.0010964912280701754
+u:Taxation College,university,1,0.0010964912280701754
+u:Technical College of Hanover,university,1,0.0010964912280701754
+u:Technical University Berlin,university,1,0.0010964912280701754
+u:Texas Technical College,university,1,0.0010964912280701754
+u:Tianjin Industrial and Commercial College,university,2,0.0021929824561403508
+u:Tientsin Institute of Commerce,university,1,0.0010964912280701754
+u:Tokyo Imperial University,university,1,0.0010964912280701754
+u:Tokyo University of Commerce,university,1,0.0010964912280701754
+u:Tri-State College,university,8,0.008771929824561403
+u:Tsinghua University,university,74,0.08114035087719298
+u:Tulane University,university,1,0.0010964912280701754
+u:University de Liege,university,1,0.0010964912280701754
+u:University de Nancy,university,1,0.0010964912280701754
+u:University of Berlin,university,2,0.0021929824561403508
+u:University of Bonn,university,1,0.0010964912280701754
+u:University of British Columbia,university,1,0.0010964912280701754
+u:University of California,university,49,0.0537280701754386
+u:University of Chicago,university,37,0.04057017543859649
+u:University of Cincinnati,university,3,0.003289473684210526
+u:University of Colorado,university,6,0.006578947368421052
+u:University of Costa Rica,university,1,0.0010964912280701754
+u:University of Denver,university,1,0.0010964912280701754
+u:University of Detroit,university,1,0.0010964912280701754
+u:University of Dubuque,university,3,0.003289473684210526
+u:University of Hawaii,university,5,0.005482456140350877
+u:University of Hong Kong,university,10,0.010964912280701754
+u:University of Houston,university,1,0.0010964912280701754
+u:University of Illinois,university,26,0.02850877192982456
+u:University of Iowa,university,1,0.0010964912280701754
+u:University of Kansas,university,1,0.0010964912280701754
+u:University of Kentucky,university,1,0.0010964912280701754
+u:University of London,university,16,0.017543859649122806
+u:University of Lyon,university,1,0.0010964912280701754
+u:University of Maryland,university,3,0.003289473684210526
+u:University of Michigan,university,94,0.10307017543859649
+u:University of Minnesota,university,30,0.03289473684210526
+u:University of Missouri,university,7,0.007675438596491228
+u:University of Notre Dame,university,4,0.0043859649122807015
+u:University of Oklahoma,university,2,0.0021929824561403508
+u:University of Paris,university,5,0.005482456140350877
+u:University of Pennsylvania,university,25,0.027412280701754384
+u:University of Perugia,university,1,0.0010964912280701754
+u:University of Pittsburgh,university,5,0.005482456140350877
+u:University of Richmond,university,2,0.0021929824561403508
+u:University of Rochester,university,1,0.0010964912280701754
+u:University of San Francisco,university,1,0.0010964912280701754
+u:University of Santo Tomas,university,1,0.0010964912280701754
+u:University of Southern California,university,23,0.025219298245614034
+u:University of Tennessee,university,1,0.0010964912280701754
+u:University of Texas,university,2,0.0021929824561403508
+u:University of Toronto,university,9,0.009868421052631578
+u:University of Turin,university,1,0.0010964912280701754
+u:University of Washington,university,16,0.017543859649122806
+u:University of Wisconsin,university,12,0.013157894736842105
+u:University of the Philippines,university,2,0.0021929824561403508
+u:Washington & Jefferson College,university,1,0.0010964912280701754
+u:Washington Missionary College,university,1,0.0010964912280701754
+u:Washington State College,university,1,0.0010964912280701754
+u:Washington University,university,3,0.003289473684210526
+u:Wayne University,university,1,0.0010964912280701754
+u:Wellesley College,university,1,0.0010964912280701754
+u:Wentworth Institute,university,1,0.0010964912280701754
+u:West China Union University,university,1,0.0010964912280701754
+u:West China University,university,4,0.0043859649122807015
+u:Western Reserve University,university,1,0.0010964912280701754
+u:Wheaton College,university,3,0.003289473684210526
+u:Williams Hospital,university,1,0.0010964912280701754
+u:Witwatersrand College,university,1,0.0010964912280701754
+u:Women's Christian Medical College,university,1,0.0010964912280701754
+u:Worcester Polytechnic Institute,university,1,0.0010964912280701754
+u:Wuchang University,university,1,0.0010964912280701754
+u:Wuhan University,university,3,0.003289473684210526
+u:Wusong Merchant Shipping School,university,3,0.003289473684210526
+u:Xiamen University,university,4,0.0043859649122807015
+u:Yale University,university,9,0.009868421052631578
+u:Yenching University,university,89,0.09758771929824561
+u:Yungli Chemical Industries Limited,university,1,0.0010964912280701754
+u:Zhejiang Provincial Technical College,university,1,0.0010964912280701754
+u:Zhejiang University,university,14,0.015350877192982455
+u:Zhijiang University,university,11,0.01206140350877193
+u:Zhizhi College,university,1,0.0010964912280701754
+u:Zhonghua University,university,1,0.0010964912280701754
+u:Zhongshan University,university,22,0.02412280701754386
+u:École Libre des Sciences Politiques,university,1,0.0010964912280701754

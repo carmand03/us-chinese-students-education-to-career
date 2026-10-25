@@ -1,0 +1,1786 @@
+﻿source,target,weight
+p:N00001,u:University of Michigan,1
+p:N00003,u:Harvard University,1
+p:N00003,u:University of Pennsylvania,1
+p:N00003,u:Jiaotong University,1
+p:N00006,u:University of Minnesota,1
+p:N00008,u:University de Liege,1
+p:N00010,u:University of Michigan,1
+p:N00010,u:Tsinghua University,1
+p:N00012,u:Columbia University,1
+p:N00012,u:Denison University,1
+p:N00012,u:New York University,1
+p:N00014,u:Cambridge University,1
+p:N00014,u:Central Army Military Academy,1
+p:N00016,u:Massachusetts Institute of Technology,1
+p:N00017,u:Central Army Military Academy,1
+p:N00019,u:Jiaotong University,1
+p:N00020,u:State University of Iowa,1
+p:N00020,u:University of Chicago,1
+p:N00020,u:University of Southern California,1
+p:N00020,u:Wheaton College,1
+p:N00022,u:Moody Bible Institute,1
+p:N00024,u:Art Institute of Chicago,1
+p:N00024,u:Southeast University,1
+p:N00025,u:Columbia University,1
+p:N00025,u:New York University,1
+p:N00025,u:Southeast University,1
+p:N00027,u:University of Illinois,1
+p:N00027,u:Tsinghua University,1
+p:N00028,u:Massachusetts Institute of Technology,1
+p:N00028,u:University of London,1
+p:N00028,u:Jiaotong University,1
+p:N00029,u:Harvard University,1
+p:N00029,u:Jiaotong University,1
+p:N00030,u:Massachusetts Institute of Technology,1
+p:N00030,u:University of Colorado,1
+p:N00031,u:Oxford University,1
+p:N00031,u:University of Colorado,1
+p:N00031,u:University of London,1
+p:N00034,u:University of London,1
+p:N00034,u:Jiaotong University,1
+p:N00035,u:Tri-State College,1
+p:N00036,u:University of Colorado,1
+p:N00036,u:University of Illinois,1
+p:N00038,u:University of Bonn,1
+p:N00040,u:Syracuse University,1
+p:N00040,u:University of Notre Dame,1
+p:N00040,u:Fu-jen University,1
+p:N00043,u:Mount Mary College,1
+p:N00044,u:Tokyo Imperial University,1
+p:N00044,u:Tsinghua University,1
+p:N00045,u:Madison College,1
+p:N00045,u:University of Cincinnati,1
+p:N00048,u:University of Michigan,1
+p:N00048,u:Yenching University,1
+p:N00048,u:Ginling College,1
+p:N00051,u:Harvard University,1
+p:N00051,u:Lingnan University,1
+p:N00052,u:Brown University,1
+p:N00052,u:Massachusetts Institute of Technology,1
+p:N00052,u:Rensselaer Polytechnic Institute,1
+p:N00052,u:Jiaotong University,1
+p:N00053,u:California Institute of Technology,1
+p:N00053,u:Stanford University,1
+p:N00053,u:Beijing University,1
+p:N00055,u:Yale University,1
+p:N00055,u:Tsinghua University,1
+p:N00056,u:Columbia University,1
+p:N00056,u:Tsinghua University,1
+p:N00057,u:Normal University,1
+p:N00059,u:Yenching University,1
+p:N00062,u:Central Army Military Academy,1
+p:N00063,u:Columbia University,1
+p:N00063,u:Shanghai University,1
+p:N00065,u:Columbia University,1
+p:N00065,u:Beijing University,1
+p:N00065,u:Nankai University,1
+p:N00068,u:Columbia University,1
+p:N00068,u:Yenching University,1
+p:N00070,u:University of Chicago,1
+p:N00070,u:St. John's University,1
+p:N00071,u:Northwestern University,1
+p:N00071,u:Tulane University,1
+p:N00071,u:University of Chicago,1
+p:N00071,u:Shanghai University,1
+p:N00072,u:Columbia University,1
+p:N00072,u:Missouri School of Mines & Metals,1
+p:N00072,u:Yenching University,1
+p:N00073,u:Oregon State College,1
+p:N00073,u:University of Wisconsin,1
+p:N00073,u:Guangxi University,1
+p:N00074,u:University of Chicago,1
+p:N00074,u:Shanghai University,1
+p:N00076,u:California Institute of Technology,1
+p:N00076,u:University of California,1
+p:N00078,u:University of London,1
+p:N00078,u:Yenching University,1
+p:N00079,u:Rutgers University,1
+p:N00079,u:Yenching University,1
+p:N00080,u:Columbia University,1
+p:N00080,u:Beiyang University,1
+p:N00081,u:University of Wisconsin,1
+p:N00083,u:University of Southern California,1
+p:N00083,u:Zhongshan University,1
+p:N00084,u:University of Pennsylvania,1
+p:N00084,u:Shanghai University,1
+p:N00085,u:Royal Polytechnic University of Milan,1
+p:N00086,u:New York University,1
+p:N00086,u:Jiaotong University,1
+p:N00089,u:Army Mechanization School,1
+p:N00090,u:Army Mechanization School,1
+p:N00093,u:Massachusetts Institute of Technology,1
+p:N00093,u:Tsinghua University,1
+p:N00094,u:State University of Iowa,1
+p:N00094,u:Central University,1
+p:N00096,u:University of California,1
+p:N00096,u:Ginling College,1
+p:N00097,u:Central Army Military Academy,1
+p:N00098,u:Jiaotong University,1
+p:N00100,u:Jiaotong University,1
+p:N00102,u:University of Chicago,1
+p:N00102,u:Yenching University,1
+p:N00103,u:Central Political School,1
+p:N00104,u:Cornell University,1
+p:N00104,u:Jinling University,1
+p:N00105,u:Oxford University,1
+p:N00105,u:Princeton University,1
+p:N00105,u:Normal University,1
+p:N00106,u:University of Michigan,1
+p:N00106,u:Beijing University,1
+p:N00107,u:New York University,1
+p:N00107,u:University of Michigan,1
+p:N00107,u:Fudan University,1
+p:N00108,u:Aachen Technical University,1
+p:N00108,u:Yenching University,1
+p:N00108,u:Jinling University,1
+p:N00109,u:Syracuse University,1
+p:N00109,u:West China Union University,1
+p:N00110,u:University of Michigan,1
+p:N00110,u:Yenching University,1
+p:N00111,u:Pacific School of Religion,1
+p:N00111,u:Yenching University,1
+p:N00112,u:Purdue University,1
+p:N00112,u:Beijing University,1
+p:N00114,u:Ilegible,1
+p:N00114,u:Penn State College,1
+p:N00116,u:University of Michigan,1
+p:N00116,u:Zhijiang University,1
+p:N00117,u:New York University,1
+p:N00117,u:University of Michigan,1
+p:N00117,u:Jinan University,1
+p:N00122,u:Ohio State University,1
+p:N00123,u:Columbia University,1
+p:N00123,u:Yenching University,1
+p:N00124,u:Harvard University,1
+p:N00124,u:Tsinghua University,1
+p:N00125,u:Ilegible,1
+p:N00125,u:New York University,1
+p:N00126,u:Harvard University,1
+p:N00126,u:Yenching University,1
+p:N00127,u:Harvard University,1
+p:N00127,u:Syracuse University,1
+p:N00127,u:Jinling University,1
+p:N00130,u:Massachusetts Institute of Technology,1
+p:N00130,u:Tsinghua University,1
+p:N00132,u:École Libre des Sciences Politiques,1
+p:N00132,u:American National University,1
+p:N00135,u:University of Illinois,1
+p:N00135,u:Tsinghua University,1
+p:N00136,u:New York University,1
+p:N00136,u:Zhongshan University,1
+p:N00137,u:California Institute of Technology,1
+p:N00137,u:Zhongshan University,1
+p:N00138,u:American Conservatory of Music,1
+p:N00138,u:Northeastern University,1
+p:N00138,u:Guanghua University,1
+p:N00139,u:Sweet Briar College,1
+p:N00139,u:Zhijiang University,1
+p:N00143,u:Worcester Polytechnic Institute,1
+p:N00143,u:Datong University,1
+p:N00144,u:Beijing University,1
+p:N00147,u:Oberlin College,1
+p:N00147,u:University of Michigan,1
+p:N00148,u:Oberlin College,1
+p:N00148,u:University of California,1
+p:N00148,u:Shanghai University,1
+p:N00149,u:Central University,1
+p:N00150,u:University of Michigan,1
+p:N00150,u:Datong University,1
+p:N00152,u:Missouri School of Mines & Metals,1
+p:N00154,u:Zhejiang University,1
+p:N00155,u:Purdue University,1
+p:N00155,u:University of Minnesota,1
+p:N00156,u:University of Illinois,1
+p:N00156,u:Tsinghua University,1
+p:N00157,u:State University of Iowa,1
+p:N00157,u:Tsinghua University,1
+p:N00159,u:University of Illinois,1
+p:N00159,u:University of Missouri,1
+p:N00159,u:University of Wisconsin,1
+p:N00159,u:Tsinghua University,1
+p:N00160,u:Columbia University,1
+p:N00160,u:Lingnan University,1
+p:N00161,u:Massachusetts Institute of Technology,1
+p:N00161,u:Jiaotong University,1
+p:N00163,u:University of Minnesota,1
+p:N00163,u:University of Pennsylvania,1
+p:N00163,u:Shanghai University,1
+p:N00165,u:Central Army Military Academy,1
+p:N00166,u:Beiyang University,1
+p:N00172,u:New York University,1
+p:N00173,u:Baylor University,1
+p:N00176,u:Stevens Institute of Technology,1
+p:N00177,u:Penn State College,1
+p:N00180,u:Columbia University,1
+p:N00180,u:Nihon University,1
+p:N00184,u:City College of New York,1
+p:N00185,u:Massachusetts Institute of Technology,1
+p:N00185,u:University of Hong Kong,1
+p:N00187,u:Montana School of Mines,1
+p:N00187,u:University of Washington,1
+p:N00188,u:Pomona College,1
+p:N00189,u:Johns Hopkins University,1
+p:N00189,u:University of Maryland,1
+p:N00190,u:Yenching University,1
+p:N00191,u:Mount Holyoke College,1
+p:N00191,u:Southeast University,1
+p:N00192,u:University of Michigan,1
+p:N00192,u:Beijing University,1
+p:N00193,u:Technical University Berlin,1
+p:N00194,u:Southeast University,1
+p:N00195,u:Zhejiang University,1
+p:N00196,u:New York University,1
+p:N00196,u:Yenching University,1
+p:N00198,u:Massachusetts Institute of Technology,1
+p:N00199,u:University of Pennsylvania,1
+p:N00199,u:St. John's University,1
+p:N00202,u:University of Southern California,1
+p:N00202,u:Jinling University,1
+p:N00203,u:Western Reserve University,1
+p:N00203,u:Yenching University,1
+p:N00204,u:Field Artillery School,1
+p:N00204,u:Royal Military College,1
+p:N00204,u:Central Army Military Academy,1
+p:N00205,u:Pomona College,1
+p:N00205,u:University of Denver,1
+p:N00205,u:Lingnan University,1
+p:N00209,u:Harvard University,1
+p:N00209,u:Jiaotong University,1
+p:N00211,u:Central Army Military Academy,1
+p:N00211,u:Nankai University,1
+p:N00212,u:Asbury College,1
+p:N00212,u:State University of Iowa,1
+p:N00215,u:Boston University,1
+p:N00217,u:Tri-State College,1
+p:N00217,u:Jinan University,1
+p:N00218,u:University of Pennsylvania,1
+p:N00218,u:Women's Christian Medical College,1
+p:N00218,u:Shanghai University,1
+p:N00219,u:State University of Iowa,1
+p:N00219,u:St. John's University,1
+p:N00224,u:Central Army Military Academy,1
+p:N00225,u:Duke University,1
+p:N00225,u:University of Chicago,1
+p:N00225,u:Qilu University,1
+p:N00226,u:New York University,1
+p:N00226,u:Zhongshan University,1
+p:N00227,u:Columbia University,1
+p:N00227,u:LaSalle College,1
+p:N00232,u:Massachusetts Institute of Technology,1
+p:N00232,u:University of California,1
+p:N00233,u:New York University,1
+p:N00233,u:Guanghua University,1
+p:N00234,u:Georgia School of Technology,1
+p:N00235,u:Alfred University,1
+p:N00235,u:Beijing University,1
+p:N00236,u:Columbia University,1
+p:N00236,u:Beijing University,1
+p:N00238,u:Massachusetts Institute of Technology,1
+p:N00238,u:Jiaotong University,1
+p:N00242,u:University of California,1
+p:N00244,u:Ilegible,1
+p:N00244,u:Massachusetts Institute of Technology,1
+p:N00244,u:Tri-State College,1
+p:N00245,u:Ilegible,1
+p:N00245,u:University of California,1
+p:N00246,u:University of Pennsylvania,1
+p:N00247,u:Harvard University,1
+p:N00247,u:University of Toronto,1
+p:N00247,u:Central University,1
+p:N00248,u:Massachusetts Institute of Technology,1
+p:N00248,u:Tsinghua University,1
+p:N00249,u:Catholic University of America,1
+p:N00249,u:College of St. Elisabeth,1
+p:N00249,u:Yenching University,1
+p:N00250,u:Fordham University,1
+p:N00250,u:Polytechnic Institute of Brooklyn,1
+p:N00251,u:Georgetown University,1
+p:N00251,u:University of Michigan,1
+p:N00251,u:Yenching University,1
+p:N00252,u:Harvard University,1
+p:N00252,u:University of Missouri,1
+p:N00252,u:Tsinghua University,1
+p:N00253,u:Peking Metropolitan University,1
+p:N00254,u:Columbia University,1
+p:N00256,u:New York University,1
+p:N00256,u:University of Hong Kong,1
+p:N00259,u:Multnomah University,1
+p:N00259,u:Tri-State College,1
+p:N00261,u:St. John's University,1
+p:N00262,u:University of California,1
+p:N00262,u:University of Hawaii,1
+p:N00262,u:Zhongshan University,1
+p:N00263,u:Chicago Aeronautical University,1
+p:N00263,u:Illinois Institute of Technology,1
+p:N00263,u:University of Kentucky,1
+p:N00265,u:Massachusetts Institute of Technology,1
+p:N00265,u:Penn State College,1
+p:N00265,u:University of Hong Kong,1
+p:N00266,u:Dickinson College,1
+p:N00266,u:Penn State College,1
+p:N00266,u:Fujian Union University,1
+p:N00268,u:Columbia University,1
+p:N00269,u:Nankai University,1
+p:N00270,u:University of Illinois,1
+p:N00270,u:University of Tennessee,1
+p:N00270,u:Yenching University,1
+p:N00271,u:Stanford University,1
+p:N00271,u:Zhongshan University,1
+p:N00278,u:Lehigh University,1
+p:N00278,u:Stanford University,1
+p:N00286,u:University of Michigan,1
+p:N00286,u:St. John's University,1
+p:N00287,u:Massachusetts Institute of Technology,1
+p:N00287,u:St. John's University,1
+p:N00288,u:New York University,1
+p:N00288,u:University of Detroit,1
+p:N00288,u:Tientsin Institute of Commerce,1
+p:N00289,u:University of Southern California,1
+p:N00289,u:Fujian Union University,1
+p:N00291,u:Ohio State University,1
+p:N00292,u:Manhattan College,1
+p:N00296,u:University of Pennsylvania,1
+p:N00296,u:Lingnan University,1
+p:N00298,u:Hebei Provincial Institute of Technology,1
+p:N00299,u:Stanford University,1
+p:N00299,u:Washington & Jefferson College,1
+p:N00300,u:De La Salle College,1
+p:N00300,u:Harvard University,1
+p:N00301,u:Columbia University,1
+p:N00306,u:Tsinghua University,1
+p:N00307,u:St. John's University,1
+p:N00308,u:Indiana Technical College,1
+p:N00313,u:New York University,1
+p:N00313,u:St. John's University,1
+p:N00315,u:Massachusetts Institute of Technology,1
+p:N00316,u:Harvard University,1
+p:N00316,u:Chongqing University,1
+p:N00320,u:Purdue University,1
+p:N00320,u:St. John's University,1
+p:N00321,u:George Peabody College,1
+p:N00321,u:Shanghai University,1
+p:N00322,u:Hebei Institute of Technology,1
+p:N00326,u:Northwestern University,1
+p:N00326,u:Peking Union Medical College,1
+p:N00326,u:Southeast University,1
+p:N00328,u:Purdue University,1
+p:N00328,u:Jiaotong University,1
+p:N00331,u:Massachusetts Institute of Technology,1
+p:N00331,u:Tsinghua University,1
+p:N00333,u:Purdue University,1
+p:N00333,u:Jiaotong University,1
+p:N00334,u:Yale University,1
+p:N00335,u:University of Michigan,1
+p:N00336,u:Mills College,1
+p:N00336,u:University of Michigan,1
+p:N00336,u:Yenching University,1
+p:N00337,u:Massachusetts Institute of Technology,1
+p:N00337,u:Zhejiang University,1
+p:N00338,u:Massachusetts Institute of Technology,1
+p:N00338,u:Jiaotong University,1
+p:N00339,u:Massachusetts Institute of Technology,1
+p:N00339,u:Purdue University,1
+p:N00339,u:St. John's University,1
+p:N00340,u:Cambridge University,1
+p:N00340,u:Yenching University,1
+p:N00342,u:Fu-jen University,1
+p:N00343,u:Harvard University,1
+p:N00343,u:St. John's University,1
+p:N00344,u:Harvard University,1
+p:N00344,u:St. John's University,1
+p:N00346,u:Cornell University,1
+p:N00346,u:Massachusetts Institute of Technology,1
+p:N00347,u:Beijing University,1
+p:N00352,u:University of Chicago,1
+p:N00352,u:Shanghai University,1
+p:N00354,u:Ohio State University,1
+p:N00354,u:Zhijiang University,1
+p:N00358,u:Harvard University,1
+p:N00358,u:Southeast University,1
+p:N00360,u:University of Pennsylvania,1
+p:N00360,u:St. John's University,1
+p:N00362,u:California Institute of Technology,1
+p:N00362,u:Mapúa Institute of Technology,1
+p:N00362,u:University of the Philippines,1
+p:N00363,u:University of Michigan,1
+p:N00363,u:St. John's University,1
+p:N00366,u:Purdue University,1
+p:N00366,u:St. John's University,1
+p:N00368,u:Embry–Riddle Aeronautical University (ERAU),1
+p:N00369,u:University of Illinois,1
+p:N00369,u:Jiaotong University,1
+p:N00370,u:University of Hawaii,1
+p:N00370,u:China College University Department,1
+p:N00374,u:University of California,1
+p:N00374,u:Central University,1
+p:N00375,u:Cornell University,1
+p:N00375,u:Massachusetts Institute of Technology,1
+p:N00375,u:Tsinghua University,1
+p:N00378,u:Massachusetts Institute of Technology,1
+p:N00379,u:University of Washington,1
+p:N00379,u:Nankai University,1
+p:N00380,u:Cornell University,1
+p:N00380,u:University of Hong Kong,1
+p:N00386,u:Northeast University,1
+p:N00390,u:University of Chicago,1
+p:N00390,u:Beijing University,1
+p:N00393,u:New York University,1
+p:N00393,u:University of Chicago,1
+p:N00393,u:Southeast University,1
+p:N00394,u:China University,1
+p:N00396,u:Massachusetts Institute of Technology,1
+p:N00396,u:Tsinghua University,1
+p:N00397,u:Catholic University of America,1
+p:N00397,u:Mount Mary College,1
+p:N00398,u:Massachusetts Institute of Technology,1
+p:N00406,u:University of Pittsburgh,1
+p:N00408,u:University of Minnesota,1
+p:N00408,u:Jinling University,1
+p:N00409,u:University of Michigan,1
+p:N00409,u:Fudan University,1
+p:N00410,u:University of Washington,1
+p:N00410,u:Lingnan University,1
+p:N00413,u:Louisiana State University,1
+p:N00413,u:University of Pennsylvania,1
+p:N00413,u:Nankai University,1
+p:N00416,u:Northeastern University,1
+p:N00417,u:Massachusetts Institute of Technology,1
+p:N00417,u:University of Illinois,1
+p:N00417,u:Lingnan University,1
+p:N00418,u:University of Michigan,1
+p:N00418,u:Lingnan University,1
+p:N00421,u:Columbia University,1
+p:N00421,u:University of Missouri,1
+p:N00422,u:Harvard University,1
+p:N00422,u:Yenching University,1
+p:N00424,u:Harvard University,1
+p:N00424,u:New York University,1
+p:N00424,u:St. John's University,1
+p:N00425,u:University of Notre Dame,1
+p:N00426,u:University of Chicago,1
+p:N00426,u:University of Notre Dame,1
+p:N00429,u:University of Washington,1
+p:N00431,u:University of Minnesota,1
+p:N00431,u:Fujian Union University,1
+p:N00431,u:St. John's University,1
+p:N00434,u:Purdue University,1
+p:N00434,u:University of Michigan,1
+p:N00434,u:Zhongshan University,1
+p:N00437,u:Harvard University,1
+p:N00437,u:University of Michigan,1
+p:N00437,u:Nankai University,1
+p:N00438,u:Normal University,1
+p:N00439,u:University of Washington,1
+p:N00439,u:Central Political School,1
+p:N00440,u:Harvard University,1
+p:N00440,u:Yenching University,1
+p:N00442,u:University of Michigan,1
+p:N00442,u:St. John's University,1
+p:N00443,u:Massachusetts Institute of Technology,1
+p:N00443,u:Jiaotong University,1
+p:N00444,u:University of California,1
+p:N00444,u:University of Washington,1
+p:N00445,u:Massachusetts Institute of Technology,1
+p:N00445,u:Jiaotong University,1
+p:N00447,u:University of Chicago,1
+p:N00447,u:University of Michigan,1
+p:N00447,u:Lingnan University,1
+p:N00448,u:Jiaotong University,1
+p:N00449,u:University of California,1
+p:N00451,u:Louisiana State University,1
+p:N00451,u:Central Political School,1
+p:N00452,u:University of Michigan,1
+p:N00452,u:Jiaotong University,1
+p:N00454,u:University of Michigan,1
+p:N00454,u:Hwa Nan College,1
+p:N00455,u:Columbia University,1
+p:N00455,u:Tsinghua University,1
+p:N00457,u:St. John's Hospital,1
+p:N00457,u:Datong University,1
+p:N00458,u:Wuchang University,1
+p:N00460,u:Washington University,1
+p:N00462,u:West China University,1
+p:N00467,u:University of Illinois,1
+p:N00467,u:Fudan University,1
+p:N00468,u:Peiping Minguo University,1
+p:N00468,u:Tokyo University of Commerce,1
+p:N00469,u:International University,1
+p:N00469,u:Loyola University,1
+p:N00469,u:Aurora University,1
+p:N00471,u:Columbia University,1
+p:N00471,u:University of California,1
+p:N00471,u:Yenching University,1
+p:N00472,u:Harvard University,1
+p:N00472,u:Yenching University,1
+p:N00476,u:Edinburgh University,1
+p:N00476,u:University of Paris,1
+p:N00478,u:Central Army Military Academy,1
+p:N00479,u:Taxation College,1
+p:N00481,u:Texas Technical College,1
+p:N00481,u:University of Michigan,1
+p:N00481,u:Wellesley College,1
+p:N00484,u:Massachusetts Institute of Technology,1
+p:N00484,u:Tsinghua University,1
+p:N00486,u:University of California,1
+p:N00486,u:Zhongshan University,1
+p:N00488,u:Colorado School of Mines,1
+p:N00488,u:University of Santo Tomas,1
+p:N00490,u:Penn State College,1
+p:N00490,u:Yenching University,1
+p:N00491,u:Normal University,1
+p:N00492,u:University of Michigan,1
+p:N00492,u:Shanghai University,1
+p:N00495,u:University of Illinois,1
+p:N00495,u:Jiaotong University,1
+p:N00496,u:Jiaotong University,1
+p:N00497,u:California Institute of Technology,1
+p:N00497,u:University of Toronto,1
+p:N00497,u:Tsinghua University,1
+p:N00501,u:Oberlin College,1
+p:N00501,u:University of Chicago,1
+p:N00501,u:Yale University,1
+p:N00501,u:Fujian Union University,1
+p:N00502,u:Duke University,1
+p:N00504,u:Ohio State University,1
+p:N00504,u:Daxia University,1
+p:N00507,u:Columbia University,1
+p:N00507,u:University of Wisconsin,1
+p:N00507,u:Yale University,1
+p:N00507,u:Tsinghua University,1
+p:N00508,u:University of Michigan,1
+p:N00508,u:Tsinghua University,1
+p:N00513,u:Columbia University,1
+p:N00516,u:Ilegible,1
+p:N00516,u:New York University,1
+p:N00517,u:Kansas State College,1
+p:N00520,u:Massachusetts Institute of Technology,1
+p:N00520,u:Tsinghua University,1
+p:N00521,u:Purdue University,1
+p:N00521,u:Jiaotong University,1
+p:N00522,u:Massachusetts Institute of Technology,1
+p:N00522,u:Tsinghua University,1
+p:N00526,u:Stanford University,1
+p:N00529,u:Massachusetts Institute of Technology,1
+p:N00529,u:Jiaotong University,1
+p:N00531,u:University of Michigan,1
+p:N00531,u:Tsinghua University,1
+p:N00534,u:University of Michigan,1
+p:N00534,u:University of Pennsylvania,1
+p:N00536,u:Cornell University,1
+p:N00536,u:Fudan University,1
+p:N00537,u:University of Michigan,1
+p:N00537,u:Tsinghua University,1
+p:N00538,u:University of Michigan,1
+p:N00538,u:Tsinghua University,1
+p:N00539,u:Columbia University,1
+p:N00539,u:University of Washington,1
+p:N00539,u:Fu-jen University,1
+p:N00540,u:Columbia University,1
+p:N00540,u:Beijing University,1
+p:N00543,u:Central Army Military Academy,1
+p:N00546,u:University of Michigan,1
+p:N00546,u:St. John's University,1
+p:N00551,u:University of Southern California,1
+p:N00555,u:University of Michigan,1
+p:N00555,u:Jiaotong University,1
+p:N00556,u:University of California,1
+p:N00556,u:Zhejiang University,1
+p:N00556,u:Tsinghua University,1
+p:N00558,u:California Institute of Technology,1
+p:N00558,u:Institute for Advanced Study,1
+p:N00558,u:Tsinghua University,1
+p:N00559,u:Central University,1
+p:N00561,u:California Institute of Technology,1
+p:N00561,u:Massachusetts Institute of Technology,1
+p:N00561,u:Rensselaer Polytechnic Institute,1
+p:N00561,u:Jiaotong University,1
+p:N00562,u:University of Illinois,1
+p:N00562,u:University of Michigan,1
+p:N00562,u:Zhijiang University,1
+p:N00564,u:Jiaotong University,1
+p:N00567,u:Massachusetts Institute of Technology,1
+p:N00567,u:Tsinghua University,1
+p:N00568,u:Zhejiang University,1
+p:N00569,u:State University of Iowa,1
+p:N00569,u:Wheaton College,1
+p:N00571,u:Columbia University,1
+p:N00571,u:Central University,1
+p:N00572,u:University of Minnesota,1
+p:N00572,u:Tsinghua University,1
+p:N00573,u:Peabody Conservatory of Music,1
+p:N00574,u:Columbia University,1
+p:N00574,u:Massachusetts Institute of Technology,1
+p:N00574,u:Tsinghua University,1
+p:N00575,u:Montana State College,1
+p:N00575,u:University of Colorado,1
+p:N00575,u:Zhijiang University,1
+p:N00578,u:Beiyang University,1
+p:N00579,u:Columbia University,1
+p:N00579,u:Shanghai University,1
+p:N00580,u:California Institute of Technology,1
+p:N00580,u:Jiaotong University,1
+p:N00581,u:American National University,1
+p:N00581,u:New York University,1
+p:N00581,u:Yenching University,1
+p:N00583,u:Chrysler Institute of Engineering,1
+p:N00583,u:Purdue University,1
+p:N00583,u:Jiaotong University,1
+p:N00584,u:Harvard University,1
+p:N00584,u:Yenching University,1
+p:N00585,u:Purdue University,1
+p:N00585,u:University of London,1
+p:N00587,u:University of Michigan,1
+p:N00587,u:Tianjin Industrial and Commercial College,1
+p:N00588,u:University of Pennsylvania,1
+p:N00588,u:Yenching University,1
+p:N00590,u:Army Mechanization School,1
+p:N00591,u:Princeton University,1
+p:N00591,u:University of Toronto,1
+p:N00591,u:Tsinghua University,1
+p:N00596,u:Atlantic Union College,1
+p:N00596,u:Fordham University,1
+p:N00597,u:Beiyang University,1
+p:N00601,u:Stanford University,1
+p:N00601,u:Tsinghua University,1
+p:N00602,u:University of Minnesota,1
+p:N00602,u:Central University,1
+p:N00604,u:Edinburgh University,1
+p:N00604,u:Harvard University,1
+p:N00604,u:Central University,1
+p:N00607,u:Massachusetts Institute of Technology,1
+p:N00607,u:Jiaotong University,1
+p:N00609,u:Wusong Merchant Shipping School,1
+p:N00610,u:University of Chicago,1
+p:N00610,u:University of Minnesota,1
+p:N00610,u:Yenching University,1
+p:N00611,u:Oregon State College,1
+p:N00611,u:University of California,1
+p:N00611,u:Jinling University,1
+p:N00614,u:Central University,1
+p:N00615,u:Chemical Institute of Lyon,1
+p:N00615,u:University of Lyon,1
+p:N00615,u:University of Paris,1
+p:N00615,u:Sino-French University,1
+p:N00616,u:University of California,1
+p:N00622,u:University of Michigan,1
+p:N00622,u:Lingnan University,1
+p:N00623,u:Drew University,1
+p:N00623,u:Seton Hill College,1
+p:N00623,u:Yenching University,1
+p:N00624,u:Drake University,1
+p:N00624,u:Peking Union Medical College,1
+p:N00624,u:Yenching University,1
+p:N00627,u:Columbia University,1
+p:N00627,u:Yenching University,1
+p:N00627,u:Qilu University,1
+p:N00628,u:Harvard University,1
+p:N00628,u:Tsinghua University,1
+p:N00629,u:Massachusetts Institute of Technology,1
+p:N00629,u:Yenching University,1
+p:N00629,u:West China University,1
+p:N00630,u:Case School of Applied Science,1
+p:N00630,u:Mount Union College,1
+p:N00631,u:Columbia University,1
+p:N00631,u:University of Michigan,1
+p:N00631,u:Zhongshan University,1
+p:N00631,u:Guangdong College of Law,1
+p:N00633,u:Iowa State College,1
+p:N00635,u:University of Pennsylvania,1
+p:N00635,u:University of Southern California,1
+p:N00635,u:Jiaotong University,1
+p:N00636,u:University of Illinois,1
+p:N00636,u:University of Michigan,1
+p:N00636,u:Zhejiang Provincial Technical College,1
+p:N00637,u:University of Chicago,1
+p:N00637,u:Tsinghua University,1
+p:N00639,u:Smith College,1
+p:N00639,u:University of California,1
+p:N00639,u:Lingnan University,1
+p:N00641,u:Qilu University,1
+p:N00642,u:University of California,1
+p:N00642,u:University of Colorado,1
+p:N00642,u:University of Michigan,1
+p:N00643,u:Mount Holyoke College,1
+p:N00643,u:Yenching University,1
+p:N00644,u:Bennett College,1
+p:N00644,u:Radcliffe College,1
+p:N00645,u:University of Illinois,1
+p:N00645,u:Datong University,1
+p:N00646,u:Jiaotong University,1
+p:N00647,u:Purdue University,1
+p:N00647,u:University of London,1
+p:N00647,u:University of Michigan,1
+p:N00649,u:Cornell University,1
+p:N00649,u:Massachusetts Institute of Technology,1
+p:N00649,u:Jiaotong University,1
+p:N00655,u:Curtiss-Wright Technical Institute,1
+p:N00655,u:St. John's University,1
+p:N00657,u:Massachusetts Institute of Technology,1
+p:N00657,u:Beijing University,1
+p:N00658,u:Harbin Polytechnic Institute,1
+p:N00658,u:Purdue University,1
+p:N00659,u:New York University,1
+p:N00659,u:University of California,1
+p:N00659,u:St. John's University,1
+p:N00661,u:Linfield College,1
+p:N00662,u:University of Chicago,1
+p:N00662,u:Yenching University,1
+p:N00666,u:University of Minnesota,1
+p:N00666,u:Zhejiang University,1
+p:N00668,u:Sino-Russian Industrial University,1
+p:N00669,u:Massachusetts Institute of Technology,1
+p:N00669,u:Tsinghua University,1
+p:N00670,u:University of Pittsburgh,1
+p:N00670,u:Zhejiang University,1
+p:N00671,u:Washington Missionary College,1
+p:N00672,u:California Institute of Technology,1
+p:N00672,u:Yenching University,1
+p:N00674,u:New York University,1
+p:N00674,u:Yenching University,1
+p:N00675,u:Central Army Military Academy,1
+p:N00675,u:Shanghai University,1
+p:N00676,u:Jiaozuo Institute of Technology,1
+p:N00677,u:Cornell University,1
+p:N00677,u:Princeton University,1
+p:N00677,u:University of Chicago,1
+p:N00679,u:University of Minnesota,1
+p:N00679,u:Yenching University,1
+p:N00680,u:Purdue University,1
+p:N00680,u:Jiaotong University,1
+p:N00681,u:Purdue University,1
+p:N00682,u:Colorado College,1
+p:N00682,u:Harvard University,1
+p:N00684,u:Columbia University,1
+p:N00684,u:Yenching University,1
+p:N00686,u:Edinburgh University,1
+p:N00686,u:Glasgow University,1
+p:N00688,u:Springfield College,1
+p:N00688,u:State University of Iowa,1
+p:N00688,u:Southeast University,1
+p:N00691,u:University of California,1
+p:N00691,u:St. John's University,1
+p:N00693,u:Tangshan Chiao Tung University,1
+p:N00694,u:University of California,1
+p:N00695,u:Northeastern University,1
+p:N00695,u:Wentworth Institute,1
+p:N00696,u:Purdue University,1
+p:N00696,u:Jiaotong University,1
+p:N00697,u:University of Chicago,1
+p:N00697,u:Ginling College,1
+p:N00698,u:Zhejiang University,1
+p:N00705,u:Harvard University,1
+p:N00705,u:West China University,1
+p:N00706,u:University of Illinois,1
+p:N00706,u:Jiaotong University,1
+p:N00707,u:Iowa State College,1
+p:N00707,u:Fu-jen University,1
+p:N00711,u:Harvard University,1
+p:N00711,u:Lowell Textile Institute,1
+p:N00711,u:University of Pennsylvania,1
+p:N00712,u:Massachusetts Institute of Technology,1
+p:N00715,u:New York University,1
+p:N00715,u:University of Hawaii,1
+p:N00715,u:Lingnan University,1
+p:N00716,u:Massachusetts Institute of Technology,1
+p:N00716,u:Tsinghua University,1
+p:N00717,u:Clark University,1
+p:N00717,u:New York University,1
+p:N00717,u:Peiping College of Finance and Commerce,1
+p:N00718,u:Stanford University,1
+p:N00718,u:University of Southern California,1
+p:N00718,u:Lingnan University,1
+p:N00724,u:Princeton University,1
+p:N00724,u:University of California,1
+p:N00725,u:Curtiss-Wright Technical Institute,1
+p:N00725,u:University of Hong Kong,1
+p:N00726,u:Columbia University,1
+p:N00726,u:University of Missouri,1
+p:N00727,u:University of California,1
+p:N00730,u:University of Michigan,1
+p:N00730,u:Central University,1
+p:N00731,u:Cornell University,1
+p:N00731,u:Central University,1
+p:N00732,u:Cambridge University,1
+p:N00732,u:Yenching University,1
+p:N00734,u:University of Michigan,1
+p:N00734,u:Yenching University,1
+p:N00735,u:Washington State College,1
+p:N00736,u:Massachusetts Institute of Technology,1
+p:N00736,u:Zhejiang University,1
+p:N00737,u:Claremont College,1
+p:N00737,u:University of California,1
+p:N00737,u:Lingnan University,1
+p:N00737,u:Yenching University,1
+p:N00738,u:Stanford University,1
+p:N00738,u:Beijing University,1
+p:N00739,u:American National University,1
+p:N00740,u:University of Michigan,1
+p:N00740,u:Zhizhi College,1
+p:N00743,u:Columbia University,1
+p:N00743,u:Georgetown University,1
+p:N00743,u:University of Southern California,1
+p:N00743,u:Nankai School,1
+p:N00746,u:University of California,1
+p:N00746,u:Jinling University,1
+p:N00747,u:Columbia University,1
+p:N00747,u:Pomona College,1
+p:N00748,u:Nanking Higher Normal School,1
+p:N00752,u:Harvard University,1
+p:N00752,u:Wuhan University,1
+p:N00753,u:University of Illinois,1
+p:N00753,u:St. John's University,1
+p:N00754,u:University of Colorado,1
+p:N00755,u:Columbia University,1
+p:N00755,u:University of Michigan,1
+p:N00755,u:Central University,1
+p:N00757,u:Columbia University,1
+p:N00757,u:University of Toronto,1
+p:N00757,u:Beijing University,1
+p:N00758,u:George Washington University,1
+p:N00758,u:Purdue University,1
+p:N00758,u:Daxia University,1
+p:N00759,u:Harvard University,1
+p:N00759,u:Ilegible,1
+p:N00759,u:University of London,1
+p:N00761,u:Simmons College,1
+p:N00761,u:University of Southern California,1
+p:N00761,u:Yenching University,1
+p:N00762,u:Purdue University,1
+p:N00764,u:University of Berlin,1
+p:N00764,u:University of Perugia,1
+p:N00768,u:New School For Social Research,1
+p:N00768,u:Yenching University,1
+p:N00769,u:University of Michigan,1
+p:N00769,u:Tianjin Industrial and Commercial College,1
+p:N00771,u:Columbia University,1
+p:N00771,u:Indiana University,1
+p:N00771,u:Fudan University,1
+p:N00772,u:Carnegie Institute of Technology,1
+p:N00772,u:McGill University,1
+p:N00772,u:Zhejiang University,1
+p:N00773,u:University of Michigan,1
+p:N00773,u:St. John's University,1
+p:N00775,u:University of California,1
+p:N00776,u:University de Nancy,1
+p:N00776,u:Jinling University,1
+p:N00778,u:Peter Bent Brigham Hospital,1
+p:N00778,u:Shanghai Medical College,1
+p:N00778,u:Yenching University,1
+p:N00779,u:Iowa State College,1
+p:N00779,u:University of Wisconsin,1
+p:N00784,u:University of Toronto,1
+p:N00784,u:Tsinghua University,1
+p:N00785,u:California Institute of Technology,1
+p:N00785,u:Northeast University,1
+p:N00787,u:New York University,1
+p:N00787,u:Guanghua University,1
+p:N00790,u:Massachusetts Institute of Technology,1
+p:N00790,u:Beijing University,1
+p:N00791,u:Massachusetts Institute of Technology,1
+p:N00791,u:Mills College,1
+p:N00791,u:State University of Iowa,1
+p:N00791,u:University of Wisconsin,1
+p:N00792,u:Iowa State College,1
+p:N00792,u:Kansas State College,1
+p:N00792,u:Jinling University,1
+p:N00794,u:Purdue University,1
+p:N00794,u:University of Michigan,1
+p:N00797,u:University of Michigan,1
+p:N00797,u:Southeast University,1
+p:N00798,u:Harvard University,1
+p:N00798,u:Massachusetts Institute of Technology,1
+p:N00803,u:Boston University,1
+p:N00803,u:University of Michigan,1
+p:N00803,u:Jiaotong University,1
+p:N00804,u:Mary Hardin-Baylor College,1
+p:N00804,u:University of Texas,1
+p:N00805,u:University of Illinois,1
+p:N00805,u:Tsinghua University,1
+p:N00807,u:New York University,1
+p:N00807,u:Central Political School,1
+p:N00807,u:Southeast University,1
+p:N00808,u:Beijing University,1
+p:N00811,u:Iowa State College,1
+p:N00811,u:University of British Columbia,1
+p:N00813,u:Harvard University,1
+p:N00813,u:University of Paris,1
+p:N00813,u:Jinan University,1
+p:N00815,u:Gonzaga University,1
+p:N00815,u:University of Pennsylvania,1
+p:N00815,u:Shanghai University,1
+p:N00816,u:Harvard University,1
+p:N00816,u:New York University,1
+p:N00816,u:Lingnan University,1
+p:N00818,u:Oberlin College,1
+p:N00818,u:Radcliffe College,1
+p:N00818,u:Hwa Nan College,1
+p:N00824,u:Army Signal Corps School,1
+p:N00826,u:New York University,1
+p:N00826,u:Jiaotong University,1
+p:N00833,u:University of Chicago,1
+p:N00833,u:Lingnan University,1
+p:N00834,u:Harvard University,1
+p:N00834,u:New York University,1
+p:N00835,u:State University of Iowa,1
+p:N00840,u:Oberlin College,1
+p:N00840,u:University of Pennsylvania,1
+p:N00840,u:Fujian Union University,1
+p:N00841,u:New York University,1
+p:N00841,u:Zhongshan University,1
+p:N00842,u:Pughy College,1
+p:N00842,u:University of Hong Kong,1
+p:N00844,u:Heald’s Engineering College,1
+p:N00851,u:Rice Institute,1
+p:N00853,u:Rice Institute,1
+p:N00854,u:Columbia University,1
+p:N00854,u:Zhongshan University,1
+p:N00855,u:Oregon State College,1
+p:N00856,u:University of California,1
+p:N00856,u:Jinling University,1
+p:N00858,u:Massachusetts Institute of Technology,1
+p:N00858,u:Tsinghua University,1
+p:N00859,u:Goucher College,1
+p:N00859,u:New York University,1
+p:N00860,u:University of Minnesota,1
+p:N00860,u:Tsinghua University,1
+p:N00862,u:University of Chicago,1
+p:N00862,u:University of Michigan,1
+p:N00862,u:Fudan University,1
+p:N00863,u:University of Illinois,1
+p:N00863,u:Jiaotong University,1
+p:N00864,u:Massachusetts College of Pharmacy,1
+p:N00865,u:Rensselaer Polytechnic Institute,1
+p:N00866,u:New York University,1
+p:N00866,u:Yenching University,1
+p:N00867,u:Middlesex University,1
+p:N00869,u:Iowa State College,1
+p:N00872,u:Baldwin Wallace College,1
+p:N00872,u:New York University,1
+p:N00874,u:Madison College,1
+p:N00874,u:University of Michigan,1
+p:N00875,u:University of Southern California,1
+p:N00875,u:Yenching University,1
+p:N00878,u:University of Minnesota,1
+p:N00878,u:Tsinghua University,1
+p:N00879,u:University of Houston,1
+p:N00880,u:Northeastern University,1
+p:N00881,u:New York University,1
+p:N00881,u:Jiaotong University,1
+p:N00882,u:State University of Iowa,1
+p:N00882,u:Tsinghua University,1
+p:N00883,u:Central Army Military Academy,1
+p:N00884,u:Yenching University,1
+p:N00885,u:Purdue University,1
+p:N00885,u:Jiaotong University,1
+p:N00886,u:University of Chicago,1
+p:N00886,u:University of Michigan,1
+p:N00886,u:Zhijiang University,1
+p:N00887,u:Columbia University,1
+p:N00887,u:University of Washington,1
+p:N00889,u:Nankai University,1
+p:N00889,u:Tsinghua University,1
+p:N00890,u:Emmanuel Missionary College,1
+p:N00890,u:Michigan State College,1
+p:N00890,u:Shanghai Sanyu University,1
+p:N00891,u:University of California,1
+p:N00891,u:Zhongshan University,1
+p:N00894,u:Harvard University,1
+p:N00894,u:Lingnan University,1
+p:N00895,u:University of Minnesota,1
+p:N00895,u:Yenching University,1
+p:N00899,u:Asbury College,1
+p:N00899,u:Rochester Institute of Technology,1
+p:N00900,u:Harvard University,1
+p:N00900,u:University of Hawaii,1
+p:N00900,u:Yenching University,1
+p:N00903,u:Harvard University,1
+p:N00903,u:Jiaotong University,1
+p:N00904,u:Columbia University,1
+p:N00904,u:Haverford College,1
+p:N00904,u:Yenching University,1
+p:N00905,u:Columbia University,1
+p:N00905,u:University of Southern California,1
+p:N00905,u:Fujian Union University,1
+p:N00906,u:Purdue University,1
+p:N00906,u:Sino-French University,1
+p:N00908,u:New York University,1
+p:N00908,u:University of Washington,1
+p:N00908,u:Yenching University,1
+p:N00909,u:Carnegie Institute of Technology,1
+p:N00909,u:Syracuse University,1
+p:N00909,u:Shanghai University,1
+p:N00910,u:Purdue University,1
+p:N00910,u:Shanghai University,1
+p:N00913,u:Tsinghua University,1
+p:N00915,u:Marquette University,1
+p:N00915,u:University of Michigan,1
+p:N00915,u:Yenching University,1
+p:N00916,u:Massachusetts Institute of Technology,1
+p:N00916,u:University of London,1
+p:N00916,u:Zhongshan University,1
+p:N00917,u:University of Chicago,1
+p:N00917,u:Yenching University,1
+p:N00920,u:Zhongshan University,1
+p:N00921,u:University of Michigan,1
+p:N00921,u:University of Pennsylvania,1
+p:N00921,u:Fujian Union University,1
+p:N00925,u:University of Michigan,1
+p:N00925,u:University of Washington,1
+p:N00925,u:Jinan University,1
+p:N00928,u:University of Michigan,1
+p:N00928,u:Peking Union Medical College,1
+p:N00928,u:Yenching University,1
+p:N00931,u:Canisus College,1
+p:N00931,u:Columbia University,1
+p:N00931,u:Beijing University,1
+p:N00932,u:Harvard University,1
+p:N00932,u:Stanford University,1
+p:N00932,u:Yungli Chemical Industries Limited,1
+p:N00934,u:University of Chicago,1
+p:N00934,u:Yenching University,1
+p:N00935,u:Columbia University,1
+p:N00935,u:Beijing University,1
+p:N00936,u:University of Illinois,1
+p:N00936,u:St. John's University,1
+p:N00938,u:University of California,1
+p:N00943,u:Harvard University,1
+p:N00943,u:University of California,1
+p:N00944,u:Brown University,1
+p:N00945,u:Antioch College,1
+p:N00945,u:University of Minnesota,1
+p:N00945,u:China College University Department,1
+p:N00946,u:Purdue University,1
+p:N00947,u:University of California,1
+p:N00947,u:Jinling University,1
+p:N00948,u:Massachusetts Institute of Technology,1
+p:N00948,u:Tsinghua University,1
+p:N00951,u:University of California,1
+p:N00953,u:Yale University,1
+p:N00953,u:Jinan University,1
+p:N00954,u:Ohio Wesleyan University,1
+p:N00954,u:University of Southern California,1
+p:N00958,u:Arkansas State College,1
+p:N00958,u:University of Chicago,1
+p:N00958,u:University of Cincinnati,1
+p:N00959,u:University of Michigan,1
+p:N00959,u:Zhongshan University,1
+p:N00960,u:Clarence White School of Photography,1
+p:N00960,u:Columbia University,1
+p:N00960,u:University of Pennsylvania,1
+p:N00960,u:Shanghai University,1
+p:N00961,u:University of Illinois,1
+p:N00961,u:University of Michigan,1
+p:N00961,u:Zhijiang University,1
+p:N00964,u:Massachusetts Institute of Technology,1
+p:N00964,u:Central University,1
+p:N00965,u:Jiaotong University,1
+p:N00966,u:University of Pennsylvania,1
+p:N00966,u:Southeast University,1
+p:N00967,u:Purdue University,1
+p:N00967,u:Lingnan University,1
+p:N00968,u:Ilegible,1
+p:N00968,u:University of Minnesota,1
+p:N00969,u:Ilegible,1
+p:N00969,u:Johns Hopkins University,1
+p:N00970,u:University of Michigan,1
+p:N00970,u:Jiaotong University,1
+p:N00971,u:University of Michigan,1
+p:N00971,u:Datong University,1
+p:N00972,u:Zhejiang University,1
+p:N00973,u:Columbia University,1
+p:N00973,u:University of Michigan,1
+p:N00973,u:Peking Union Medical College,1
+p:N00973,u:Yenching University,1
+p:N00975,u:University of Toronto,1
+p:N00975,u:Central University,1
+p:N00981,u:Carleton College,1
+p:N00981,u:University of Chicago,1
+p:N00982,u:University of California,1
+p:N00983,u:Cornell University,1
+p:N00983,u:Nankai University,1
+p:N00984,u:Central Army Military Academy,1
+p:N00987,u:Cornell University,1
+p:N00987,u:State University of Iowa,1
+p:N00987,u:Tsinghua University,1
+p:N00989,u:Princeton Seminary,1
+p:N00989,u:Zhijiang University,1
+p:N00990,u:University of Michigan,1
+p:N00990,u:Tsinghua University,1
+p:N00991,u:University of Southern California,1
+p:N00992,u:University of Washington,1
+p:N00992,u:Hunan University,1
+p:N00993,u:Ecole des Hautes Etudes Industrielles et Commerciales,1
+p:N00993,u:Harvard University,1
+p:N00994,u:Stanford University,1
+p:N00994,u:State University of Iowa,1
+p:N00996,u:Central Army Military Academy,1
+p:N00997,u:Brown University,1
+p:N00997,u:Yenching University,1
+p:N00997,u:Huazhong University,1
+p:N00998,u:Cornell University,1
+p:N00998,u:Yenching University,1
+p:N00999,u:George Washington University,1
+p:N00999,u:Shanghai University,1
+p:N01001,u:Cornell University,1
+p:N01001,u:Jinling University,1
+p:N01002,u:Armstrong Junior College,1
+p:N01002,u:Ohio Wesleyan University,1
+p:N01004,u:Fudan University,1
+p:N01005,u:Cambridge University,1
+p:N01005,u:Harvard University,1
+p:N01005,u:Jiaotong University,1
+p:N01007,u:Stanford University,1
+p:N01007,u:Yenching University,1
+p:N01008,u:University of Washington,1
+p:N01008,u:Wusong Merchant Shipping School,1
+p:N01009,u:Cornell University,1
+p:N01009,u:Jiaotong University,1
+p:N01010,u:Massachusetts Institute of Technology,1
+p:N01010,u:Purdue University,1
+p:N01010,u:Jiaotong University,1
+p:N01011,u:Massachusetts Institute of Technology,1
+p:N01011,u:Tsinghua University,1
+p:N01012,u:Columbia University,1
+p:N01012,u:University of Michigan,1
+p:N01012,u:Central University,1
+p:N01014,u:Tsinghua University,1
+p:N01015,u:University of Wisconsin,1
+p:N01015,u:St. John's University,1
+p:N01019,u:Columbia University,1
+p:N01019,u:Lingnan University,1
+p:N01022,u:University of Wisconsin,1
+p:N01023,u:Carroll College,1
+p:N01027,u:New York University,1
+p:N01028,u:Oberlin College,1
+p:N01030,u:Wheaton College,1
+p:N01031,u:University of Southern California,1
+p:N01031,u:Yale University,1
+p:N01031,u:Zhijiang University,1
+p:N01036,u:University of Minnesota,1
+p:N01036,u:Jinling University,1
+p:N01038,u:Ilegible,1
+p:N01038,u:University of Turin,1
+p:N01039,u:Bryn Mawr College,1
+p:N01039,u:St. John's University,1
+p:N01042,u:Jiaotong University,1
+p:N01043,u:St. Paul's Girls' School,1
+p:N01044,u:Massachusetts Institute of Technology,1
+p:N01044,u:Jiaotong University,1
+p:N01045,u:Harvard University,1
+p:N01045,u:Peking Union Medical College,1
+p:N01045,u:Yenching University,1
+p:N01046,u:Oberlin College,1
+p:N01047,u:University of Michigan,1
+p:N01047,u:Lingnan University,1
+p:N01047,u:Xiamen University,1
+p:N01051,u:New York University,1
+p:N01052,u:City College of New York,1
+p:N01053,u:University of Dubuque,1
+p:N01054,u:University of Illinois,1
+p:N01054,u:Hebei University,1
+p:N01055,u:Oregon State College,1
+p:N01055,u:University of Minnesota,1
+p:N01055,u:Central University,1
+p:N01056,u:George Washington University,1
+p:N01056,u:Southeast University,1
+p:N01057,u:Beijing University,1
+p:N01058,u:Oregon State College,1
+p:N01058,u:University of Minnesota,1
+p:N01058,u:Central University,1
+p:N01059,u:Tri-State College,1
+p:N01059,u:University of Michigan,1
+p:N01059,u:Fu-jen University,1
+p:N01060,u:University of Hong Kong,1
+p:N01061,u:University of Michigan,1
+p:N01062,u:University of Pennsylvania,1
+p:N01062,u:University of Richmond,1
+p:N01062,u:Shanghai University,1
+p:N01064,u:University of California,1
+p:N01065,"u:Children Hospital, Massachusetts",1
+p:N01065,u:Williams Hospital,1
+p:N01067,u:Harvard University,1
+p:N01067,u:Tsinghua University,1
+p:N01067,u:Yenching University,1
+p:N01068,u:Duquesne University,1
+p:N01068,u:University of Pittsburgh,1
+p:N01069,u:University of Pittsburgh,1
+p:N01069,u:Zhongshan University,1
+p:N01069,u:Yenching University,1
+p:N01071,u:University of Hawaii,1
+p:N01071,u:University of Michigan,1
+p:N01071,u:Wayne University,1
+p:N01074,u:Columbia University,1
+p:N01074,u:New School For Social Research,1
+p:N01074,u:Nankai University,1
+p:N01075,u:Massachusetts Institute of Technology,1
+p:N01076,u:Massachusetts Institute of Technology,1
+p:N01076,u:St. John's University,1
+p:N01077,u:Jiaotong University,1
+p:N01078,u:Indiana University,1
+p:N01078,u:Millsaps College,1
+p:N01078,u:Southeast University,1
+p:N01079,u:American National University,1
+p:N01079,u:Jinling University,1
+p:N01080,u:California Institute of Technology,1
+p:N01080,u:Colorado School of Mines,1
+p:N01080,u:McGill University,1
+p:N01080,u:Tsinghua University,1
+p:N01081,u:University of London,1
+p:N01081,u:Tsinghua University,1
+p:N01081,u:Yenching University,1
+p:N01082,u:University of Chicago,1
+p:N01083,u:Heald's College,1
+p:N01084,u:University of Chicago,1
+p:N01087,u:Jiaotong University,1
+p:N01088,u:Harvard University,1
+p:N01088,u:Massachusetts Institute of Technology,1
+p:N01088,u:Fujian Union University,1
+p:N01090,u:Johns Hopkins University,1
+p:N01090,u:Peking Union Medical College,1
+p:N01090,u:Yenching University,1
+p:N01092,u:Technical College of Hanover,1
+p:N01092,u:University of London,1
+p:N01092,u:Beiyang University,1
+p:N01093,u:Guangxi University,1
+p:N01094,u:Cambridge University,1
+p:N01094,u:University of Michigan,1
+p:N01094,u:Central University,1
+p:N01096,u:University of Michigan,1
+p:N01096,u:Yenching University,1
+p:N01097,u:University of Michigan,1
+p:N01097,u:Jiaotong University,1
+p:N01099,u:Naval school,1
+p:N01100,u:Yale University,1
+p:N01100,u:Nankai University,1
+p:N01102,u:George Washington University,1
+p:N01102,u:Southern College,1
+p:N01102,u:Southeast University,1
+p:N01105,u:Oregon State College,1
+p:N01105,u:Jinling University,1
+p:N01106,u:Johns Hopkins University,1
+p:N01106,u:Rostock University,1
+p:N01106,u:Xiamen University,1
+p:N01108,u:Qilu University,1
+p:N01112,u:Columbia University,1
+p:N01112,u:University of Southern California,1
+p:N01112,u:Zhijiang University,1
+p:N01116,u:Art Institute of Chicago,1
+p:N01116,u:Shanghai Xinhua University of Art,1
+p:N01117,u:Central University,1
+p:N01118,u:Drew University,1
+p:N01118,u:University of Chicago,1
+p:N01118,u:Fujian Union University,1
+p:N01121,u:University of Michigan,1
+p:N01122,u:University of California,1
+p:N01124,u:Columbia University,1
+p:N01124,u:University of Dubuque,1
+p:N01127,u:University of Dubuque,1
+p:N01127,u:University of Michigan,1
+p:N01128,u:Purdue University,1
+p:N01128,u:Beijing University,1
+p:N01129,u:Cornell University,1
+p:N01129,u:Yenching University,1
+p:N01129,u:Qilu University,1
+p:N01131,u:University of London,1
+p:N01131,u:St. John's University,1
+p:N01134,u:University of Pennsylvania,1
+p:N01134,u:St. John's University,1
+p:N01136,u:University of Iowa,1
+p:N01136,u:University of Michigan,1
+p:N01136,u:Central University,1
+p:N01137,u:Park College,1
+p:N01137,u:University of Missouri,1
+p:N01137,u:Shanghai University,1
+p:N01138,u:Northeast University,1
+p:N01140,u:Park College,1
+p:N01143,u:New York University,1
+p:N01143,u:University of Chicago,1
+p:N01144,u:Harvard University,1
+p:N01144,u:Jiaotong University,1
+p:N01145,u:Stanford University,1
+p:N01145,u:Yenching University,1
+p:N01146,u:University of California,1
+p:N01148,u:California Institute of Technology,1
+p:N01148,u:University of Hong Kong,1
+p:N01150,u:Maryville College,1
+p:N01150,u:St. Louis College of Pharmacy,1
+p:N01150,u:State University of Iowa,1
+p:N01151,u:Indiana Technical College,1
+p:N01153,u:Jiaotong University,1
+p:N01154,u:National College of Music,1
+p:N01154,u:St. John's University,1
+p:N01155,u:State University of Iowa,1
+p:N01155,u:Fudan University,1
+p:N01156,u:University of California,1
+p:N01156,u:University of Washington,1
+p:N01157,u:Oregon State College,1
+p:N01157,u:Lingnan University,1
+p:N01160,u:University of Michigan,1
+p:N01161,u:University of Michigan,1
+p:N01161,u:Tsinghua University,1
+p:N01162,u:New York University,1
+p:N01167,u:Jiaotong University,1
+p:N01168,u:Mount Holyoke College,1
+p:N01168,u:University of Michigan,1
+p:N01168,u:Ginling College,1
+p:N01169,u:Michigan State College,1
+p:N01169,u:University of Michigan,1
+p:N01169,u:Yenching University,1
+p:N01171,u:University of Michigan,1
+p:N01171,u:St. John's University,1
+p:N01172,u:University of California,1
+p:N01172,u:Tsinghua University,1
+p:N01172,u:Yenching University,1
+p:N01173,u:Carnegie Institute of Technology,1
+p:N01173,u:Zhejiang University,1
+p:N01175,u:Illinois Institute of Technology,1
+p:N01175,u:Taliesin Fellowship,1
+p:N01175,u:University of Michigan,1
+p:N01175,u:Lingnan University,1
+p:N01176,u:Massachusetts Institute of Technology,1
+p:N01179,u:University of Washington,1
+p:N01179,u:Wusong Merchant Shipping School,1
+p:N01180,u:Jinling University,1
+p:N01182,u:New York University,1
+p:N01182,u:University of Pennsylvania,1
+p:N01182,u:Guanghua University,1
+p:N01186,u:Columbia University,1
+p:N01186,u:Niagara University,1
+p:N01187,u:Jiaotong University,1
+p:N01188,u:Harvard University,1
+p:N01188,u:University of Michigan,1
+p:N01188,u:Yale University,1
+p:N01189,u:Columbia University,1
+p:N01189,u:Lingnan University,1
+p:N01193,u:College of St. Elisabeth,1
+p:N01193,u:Fordham University,1
+p:N01194,u:Illinois Institute of Technology,1
+p:N01194,u:Purdue University,1
+p:N01194,u:Jiaotong University,1
+p:N01195,u:Oregon State College,1
+p:N01196,u:Columbia University,1
+p:N01196,u:Detroit Institute of Technology,1
+p:N01196,u:University of Michigan,1
+p:N01198,u:University of Pennsylvania,1
+p:N01198,u:Shanghai University,1
+p:N01199,u:Purdue University,1
+p:N01199,u:University of Michigan,1
+p:N01202,u:Iowa State College,1
+p:N01202,u:Jinling University,1
+p:N01203,u:Cornell University,1
+p:N01203,u:Harvard University,1
+p:N01205,u:Duke University,1
+p:N01205,u:Fu-jen University,1
+p:N01212,u:Central Army Military Academy,1
+p:N01218,u:University of Michigan,1
+p:N01218,u:Yenching University,1
+p:N01219,u:Henan University,1
+p:N01221,u:Columbia University,1
+p:N01221,u:University of Chicago,1
+p:N01221,u:Southeast University,1
+p:N01223,u:University of Texas,1
+p:N01224,u:Northwestern University,1
+p:N01226,u:University of Michigan,1
+p:N01226,u:University of Minnesota,1
+p:N01226,u:Lingnan University,1
+p:N01227,u:Penn State College,1
+p:N01227,u:Tsinghua University,1
+p:N01229,u:Columbia University,1
+p:N01230,u:Purdue University,1
+p:N01230,u:University of Illinois,1
+p:N01230,u:Jiaotong University,1
+p:N01231,u:Tri-State College,1
+p:N01231,u:Jinan University,1
+p:N01232,u:Tsinghua University,1
+p:N01233,u:New York University,1
+p:N01233,u:Smith College,1
+p:N01235,u:Tsinghua University,1
+p:N01236,u:Ohio State University,1
+p:N01236,u:Central University,1
+p:N01237,u:University of California,1
+p:N01238,u:Cornell University,1
+p:N01238,u:Jiaotong University,1
+p:N01242,u:University of Wisconsin,1
+p:N01242,u:Fudan University,1
+p:N01243,u:Iowa State College,1
+p:N01243,u:University of Costa Rica,1
+p:N01245,u:Columbia University,1
+p:N01245,u:Tri-State College,1
+p:N01246,u:New York University,1
+p:N01246,u:Lingnan University,1
+p:N01248,u:University of Paris,1
+p:N01248,u:Fudan University,1
+p:N01249,u:University of Michigan,1
+p:N01249,u:Jiaotong University,1
+p:N01250,u:Stanford University,1
+p:N01250,u:Zhongshan University,1
+p:N01252,u:University of Michigan,1
+p:N01252,u:Jiaotong University,1
+p:N01253,u:Massachusetts Institute of Technology,1
+p:N01253,u:Jiaotong University,1
+p:N01255,u:Jiaotong University,1
+p:N01258,u:Columbia University,1
+p:N01258,u:George Peabody College,1
+p:N01260,u:Catholic University of America,1
+p:N01260,u:Purdue University,1
+p:N01263,u:University of Pennsylvania,1
+p:N01263,u:Beiyang University,1
+p:N01264,u:Linfield College,1
+p:N01270,u:Oregon State College,1
+p:N01270,u:Shandong University,1
+p:N01272,u:Purdue University,1
+p:N01275,u:University of Southern California,1
+p:N01275,u:Lingnan University,1
+p:N01276,u:Columbia University,1
+p:N01276,u:Oxford University,1
+p:N01277,u:University of Minnesota,1
+p:N01277,u:Tsinghua University,1
+p:N01280,u:Harvard University,1
+p:N01280,u:Yenching University,1
+p:N01283,u:Stanford University,1
+p:N01283,u:Jiaotong University,1
+p:N01284,u:Massachusetts Institute of Technology,1
+p:N01284,u:Central University,1
+p:N01286,u:Central University,1
+p:N01287,u:Catholic University of America,1
+p:N01287,u:Fu-jen University,1
+p:N01288,u:University of Kansas,1
+p:N01288,u:University of Minnesota,1
+p:N01288,u:Beijing University,1
+p:N01291,u:Curtiss-Wright Technical Institute,1
+p:N01291,u:University of Southern California,1
+p:N01293,u:Cornell University,1
+p:N01293,u:Yenching University,1
+p:N01293,u:West China University,1
+p:N01295,u:Marquette University,1
+p:N01297,u:University of Minnesota,1
+p:N01297,u:University of Southern California,1
+p:N01297,u:Fujian Union University,1
+p:N01298,u:Massachusetts Institute of Technology,1
+p:N01298,u:University of Minnesota,1
+p:N01304,u:Massachusetts Institute of Technology,1
+p:N01304,u:University of Cincinnati,1
+p:N01306,u:Michigan State College,1
+p:N01306,u:Yenching University,1
+p:N01306,u:Fujian Union University,1
+p:N01307,u:University of Pennsylvania,1
+p:N01307,u:Yenching University,1
+p:N01307,u:Fujian Union University,1
+p:N01310,u:Lingnan University,1
+p:N01311,u:Massachusetts Institute of Technology,1
+p:N01311,u:Zhijiang University,1
+p:N01314,u:Columbia University,1
+p:N01314,u:Southwest Associated University,1
+p:N01316,u:University of California,1
+p:N01317,u:Central Army Military Academy,1
+p:N01317,u:Army University,1
+p:N01318,u:University of Southern California,1
+p:N01320,u:Guanghua University,1
+p:N01321,u:University of Illinois,1
+p:N01322,u:Columbia University,1
+p:N01322,u:Fordham University,1
+p:N01322,u:Propaganda Fide,1
+p:N01327,u:University of Michigan,1
+p:N01329,u:Princeton University,1
+p:N01329,u:Yenching University,1
+p:N01334,u:Purdue University,1
+p:N01336,u:Shanghai University,1
+p:N01338,u:New York University,1
+p:N01339,u:Spartan College of Aeronautics and Technology,1
+p:N01339,u:Witwatersrand College,1
+p:N01341,u:Harvard University,1
+p:N01341,u:Yenching University,1
+p:N01346,u:Tsinghua University,1
+p:N01347,u:Johns Hopkins University,1
+p:N01347,u:Ohio Wesleyan University,1
+p:N01347,u:Jinling University,1
+p:N01350,u:University of Illinois,1
+p:N01350,u:University of Maryland,1
+p:N01350,u:Beijing University,1
+p:N01351,u:University of Minnesota,1
+p:N01351,u:Jinling University,1
+p:N01352,u:University of Minnesota,1
+p:N01352,u:Ginling College,1
+p:N01354,u:Central University,1
+p:N01356,u:New York University,1
+p:N01356,u:Fudan University,1
+p:N01357,u:University of Minnesota,1
+p:N01357,u:Jinling University,1
+p:N01358,u:University of Minnesota,1
+p:N01358,u:Ginling College,1
+p:N01360,u:University of Wisconsin,1
+p:N01360,u:Central University,1
+p:N01361,u:University of Toronto,1
+p:N01361,u:Guanghua University,1
+p:N01361,u:Yenching University,1
+p:N01362,u:Tri-State College,1
+p:N01362,u:Qilu University,1
+p:N01368,u:Massachusetts College of Pharmacy,1
+p:N01368,u:Nankai University,1
+p:N01369,u:University of Maryland,1
+p:N01369,u:Jinling University,1
+p:N01371,u:Washington University,1
+p:N01371,u:Yenching University,1
+p:N01372,u:University of Washington,1
+p:N01372,u:Datong University,1
+p:N01373,u:Columbia University,1
+p:N01373,u:Yenching University,1
+p:N01374,u:University of California,1
+p:N01374,u:Beijing University,1
+p:N01377,u:Massachusetts Institute of Technology,1
+p:N01377,u:Beiyang University,1
+p:N01379,u:Massachusetts Institute of Technology,1
+p:N01382,u:Purdue University,1
+p:N01386,u:University of London,1
+p:N01386,u:Jiaotong University,1
+p:N01388,u:California Institute of Technology,1
+p:N01388,u:University of London,1
+p:N01388,u:Xiamen University,1
+p:N01389,u:Mercer University,1
+p:N01389,u:University of San Francisco,1
+p:N01390,u:University of Chicago,1
+p:N01390,u:Yenching University,1
+p:N01391,u:University of Minnesota,1
+p:N01391,u:Hebei Institute of Technology,1
+p:N01392,u:Harvard University,1
+p:N01395,u:Daxia University,1
+p:N01397,u:Cornell University,1
+p:N01397,u:St. John's University,1
+p:N01398,u:California Institute of Technology,1
+p:N01398,u:Jiaotong University,1
+p:N01399,u:Massachusetts Institute of Technology,1
+p:N01399,u:Jiaotong University,1
+p:N01400,u:Cornell University,1
+p:N01400,u:St. John's University,1
+p:N01401,u:Loyola University,1
+p:N01401,u:Jinan University,1
+p:N01402,u:Massachusetts Institute of Technology,1
+p:N01402,u:Jiaotong University,1
+p:N01404,u:San Francisco State College,1
+p:N01405,u:University of Southern California,1
+p:N01405,u:Normal University,1
+p:N01406,u:Birmingham University,1
+p:N01406,u:University of Oklahoma,1
+p:N01406,u:Jiaotong University,1
+p:N01407,u:Massachusetts Institute of Technology,1
+p:N01407,u:Wuhan University,1
+p:N01409,u:Central University,1
+p:N01409,u:Jiaotong University,1
+p:N01410,u:Pomona College,1
+p:N01410,u:University of Chicago,1
+p:N01416,u:University of Chicago,1
+p:N01417,u:Iowa State College,1
+p:N01417,u:Oregon State College,1
+p:N01417,u:Normal University,1
+p:N01420,u:University of Rochester,1
+p:N01420,u:Yenching University,1
+p:N01421,u:Colorado School of Mines,1
+p:N01421,u:University of the Philippines,1
+p:N01422,u:California Institute of Technology,1
+p:N01422,u:Beijing University,1
+p:N01424,u:Medical College of Virginia,1
+p:N01424,u:University of Richmond,1
+p:N01425,u:Harvard University,1
+p:N01425,u:Central University,1
+p:N01427,u:Washington University,1
+p:N01427,u:Lingnan University,1
+p:N01428,u:University of California,1
+p:N01428,u:Shandong University,1
+p:N01430,u:Massachusetts Institute of Technology,1
+p:N01430,u:Jiaotong University,1
+p:N01431,u:University of Notre Dame,1
+p:N01435,u:Massachusetts Institute of Technology,1
+p:N01435,u:Tsinghua University,1
+p:N01436,u:University of Michigan,1
+p:N01436,u:Jiaotong University,1
+p:N01439,u:Harvard University,1
+p:N01439,u:Tsinghua University,1
+p:N01440,u:Harvard University,1
+p:N01440,u:University of Hong Kong,1
+p:N01440,u:University of Illinois,1
+p:N01441,u:California Institute of Technology,1
+p:N01441,u:University of Toronto,1
+p:N01441,u:Jiaotong University,1
+p:N01441,u:Air Force Technical College,1
+p:N01442,u:Columbia University,1
+p:N01442,u:Harvard University,1
+p:N01442,u:Northeastern University,1
+p:N01443,u:University of California,1
+p:N01444,u:Haverford College,1
+p:N01444,u:China University,1
+p:N01446,u:Jiaotong University,1
+p:N01447,u:University of London,1
+p:N01448,u:Massachusetts Institute of Technology,1
+p:N01449,u:Purdue University,1
+p:N01449,u:University of Hong Kong,1
+p:N01454,u:University of Pennsylvania,1
+p:N01454,u:Xiamen University,1
+p:N01455,u:New York University,1
+p:N01455,u:Zhongshan University,1
+p:N01456,u:University of California,1
+p:N01459,u:Polytechnic Institute of Brooklyn,1
+p:N01465,u:Columbia University,1
+p:N01465,u:Stanford University,1
+p:N01465,u:University of Michigan,1
+p:N01465,u:St. John's University,1
+p:N01466,u:Purdue University,1
+p:N01466,u:University of Michigan,1
+p:N01466,u:Jiaotong University,1
+p:N01467,u:Colorado School of Mines,1
+p:N01467,u:Beiyang University,1
+p:N01468,u:Massachusetts Institute of Technology,1
+p:N01468,u:Tsinghua University,1
+p:N01469,u:Cornell University,1
+p:N01469,u:St. John's University,1
+p:N01470,u:Dartmouth College,1
+p:N01470,u:Royal Military College,1
+p:N01473,u:Purdue University,1
+p:N01473,u:Tsinghua University,1
+p:N01474,u:Jiaotong University,1
+p:N01475,u:College of St. Elisabeth,1
+p:N01475,u:Fordham University,1
+p:N01477,u:Southwestern University,1
+p:N01479,u:Zhejiang University,1
+p:N01480,u:George Washington University,1
+p:N01480,u:Yenching University,1
+p:N01482,u:New York University,1
+p:N01482,u:Zhongshan University,1
+p:N01483,u:Boston University,1
+p:N01483,u:Lingnan University,1
+p:N01483,u:St. John's University,1
+p:N01484,u:Radio Corporation of America Institute,1
+p:N01488,u:University of California,1
+p:N01491,u:University of Illinois,1
+p:N01492,u:Harvard University,1
+p:N01492,u:University of Toronto,1
+p:N01492,u:Central University,1
+p:N01493,u:Massachusetts Institute of Technology,1
+p:N01493,u:Tsinghua University,1
+p:N01494,u:University of California,1
+p:N01494,u:University of Washington,1
+p:N01496,u:Arizona State Teachers' College,1
+p:N01496,u:Zhongshan University,1
+p:N01496,u:Yenching University,1
+p:N01498,u:Harvard University,1
+p:N01498,u:Peking Union Medical College,1
+p:N01498,u:Yenching University,1
+p:N01502,u:New York University,1
+p:N01502,u:Shanghai University,1
+p:N01503,u:Columbia University,1
+p:N01503,u:Zhongshan University,1
+p:N01507,u:University of Southern California,1
+p:N01507,u:Shanghai University,1
+p:N01510,u:New York University,1
+p:N01511,u:Zhongshan University,1
+p:N01512,u:University of Michigan,1
+p:N01512,u:Tsinghua University,1
+p:N01514,u:Tsinghua University,1
+p:N01516,u:Jiaotong University,1
+p:N01518,u:University of Berlin,1
+p:N01518,u:St. John's University,1
+p:N01519,u:University of Southern California,1
+p:N01519,u:Jiaotong University,1
+p:N01520,u:Tsinghua University,1
+p:N01521,u:University of Michigan,1
+p:N01521,u:Ginling College,1
+p:N01522,u:New York University,1
+p:N01522,u:Guangzhou University,1
+p:N01523,u:Mills College,1
+p:N01523,u:Lingnan University,1
+p:N01524,u:University of California,1
+p:N01524,u:Yenching University,1
+p:N01525,u:Parks Air College,1
+p:N01526,u:Chengdu Sino-French University,1
+p:N01527,u:University of Michigan,1
+p:N01527,u:Tsinghua University,1
+p:N01528,u:Central Political School,1
+p:N01528,u:Zhonghua University,1
+p:N01529,u:University of Chicago,1
+p:N01529,u:Tsinghua University,1
+p:N01529,u:Jinling University,1
+p:N01530,u:Indiana University,1
+p:N01530,u:Southeast University,1
+p:N01531,u:University of Illinois,1
+p:N01531,u:Jiaotong University,1
+p:N01532,u:University of Wisconsin,1
+p:N01532,u:St. John's University,1
+p:N01533,u:Harvard University,1
+p:N01533,u:University of Wisconsin,1
+p:N01534,u:Carleton College,1
+p:N01535,u:University of Pittsburgh,1
+p:N01535,u:St. John's University,1
+p:N01536,u:Harvard University,1
+p:N01536,u:Nankai University,1
+p:N01537,u:New York University,1
+p:N01537,u:Nankai University,1
+p:N01538,u:University of Minnesota,1
+p:N01538,u:Fudan University,1
+p:N01539,u:Massachusetts Institute of Technology,1
+p:N01539,u:University of London,1
+p:N01539,u:Jiaotong University,1
+p:N01540,u:Massachusetts Institute of Technology,1
+p:N01540,u:University of Oklahoma,1
+p:N01540,u:Zhejiang University,1
+p:N01541,u:Cornell University,1
+p:N01541,u:St. John's University,1
+p:N01546,u:Purdue University,1
+p:N01546,u:Jiaotong University,1
+p:N01547,u:Central University,1
+p:N01548,u:Harvard University,1
+p:N01548,u:Jiaotong University,1
+p:N01550,u:Normal University,1
+p:N01552,u:University of California,1
+p:N01552,u:Jinling University,1
+p:N01553,u:Cambridge University,1
+p:N01553,u:Central University,1
+p:N01554,u:University of Minnesota,1
+p:N01554,u:Central Political School,1
+p:N01555,u:Cornell University,1
+p:N01556,u:Columbia University,1
+p:N01556,u:Wuhan University,1
+p:N01560,u:Columbia University,1
+p:N01560,u:Shanghai University,1
+p:N01562,u:Columbia University,1
+p:N01562,u:Beijing University,1
+p:N01563,u:University of Chicago,1
+p:N01566,u:New York University,1
+p:N01566,u:University of Chicago,1
+p:N01569,u:Columbia University,1
+p:N01573,u:University of California,1
+p:N01574,u:Columbia University,1
+p:N01574,u:Hongkong University,1
+p:N01575,u:Clark University,1
+p:N01575,u:Columbia University,1
+p:N01575,u:Stanford University,1
+p:N01577,u:University of Southern California,1
+p:N01578,u:California Institute of Technology,1
+p:N01578,u:Shanghai University,1
+p:N01579,u:University of California,1
+p:N01580,u:Columbia University,1
+p:N01581,u:Cambridge University,1
+p:N01581,u:Duke University,1
+p:N01581,u:Syracuse University,1
+p:N01582,u:Fudan University,1
+p:N01583,u:New York University,1
+p:N01583,u:Yenching University,1
+p:N01585,u:University of Chicago,1
+p:N01587,u:Cornell University,1
+p:N01587,u:Tsinghua University,1
+p:N01589,u:Cornell University,1
+p:N01589,u:University of Michigan,1
+p:N01590,u:University of Missouri,1
+p:N01590,u:Yenching University,1
+p:N01591,u:Princeton University,1
+p:N01591,u:Yale University,1
+p:N01592,u:Nankai University,1
+p:N01594,u:University of Paris,1
+p:N01595,u:University of London,1
+p:N01597,u:Ginling College,1
+p:N01601,u:Barnard College,1
+p:N01601,u:Master Institute of United Arts,1
+p:N01608,u:University of Chicago,1
+p:N01610,u:University of Missouri,1
+p:N01610,u:Yenching University,1
+p:N01612,u:Normal University,1
+p:N01613,u:Tsinghua University,1

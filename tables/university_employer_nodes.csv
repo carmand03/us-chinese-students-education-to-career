@@ -1,0 +1,1059 @@
+﻿id,label,kind,degree,centrality,strength
+e:12th Naval District,12th Naval District,employer,1,0.0033222591362126247,1
+e:20th Century-Fox Studios,20th Century-Fox Studios,employer,1,0.0033222591362126247,1
+e:25th International Labour Conference,25th International Labour Conference,employer,3,0.009966777408637873,3
+e:Academia Sinica,Academia Sinica,employer,13,0.04318936877076412,21
+e:Acorn Wire & Cable Company,Acorn Wire & Cable Company,employer,2,0.006644518272425249,2
+e:Address Investigation Bureau,Address Investigation Bureau,employer,1,0.0033222591362126247,1
+e:Aerojet Engineering Corporation,Aerojet Engineering Corporation,employer,4,0.013289036544850499,4
+e:Aeronautical Commission,Aeronautical Commission,employer,22,0.07308970099667775,36
+e:Aiguang Secondary School,Aiguang Secondary School,employer,2,0.006644518272425249,2
+e:Air Force Mechanics School,Air Force Mechanics School,employer,2,0.006644518272425249,2
+e:Aircraft Screw Brod Company,Aircraft Screw Brod Company,employer,1,0.0033222591362126247,1
+e:Aircraft Structural Development,Aircraft Structural Development,employer,2,0.006644518272425249,2
+e:Allied Engineers Incorporated,Allied Engineers Incorporated,employer,2,0.006644518272425249,2
+e:Allis-Chalmers Manufacturing Company,Allis-Chalmers Manufacturing Company,employer,5,0.016611295681063124,5
+e:Ambassador Wei Daoming,Ambassador Wei Daoming,employer,2,0.006644518272425249,2
+e:American Accounting Systems,American Accounting Systems,employer,2,0.006644518272425249,2
+e:American Airlines Incorporated,American Airlines Incorporated,employer,11,0.036544850498338874,13
+e:American Bureau for Medical Aid to China,American Bureau for Medical Aid to China,employer,6,0.019933554817275746,6
+e:American Gas & Electric Service Corporation,American Gas & Electric Service Corporation,employer,4,0.013289036544850499,4
+e:American Resinous Chemical Corporation,American Resinous Chemical Corporation,employer,3,0.009966777408637873,3
+e:American Sheet Metal Company,American Sheet Metal Company,employer,1,0.0033222591362126247,1
+e:American Volunteer Group (Flying Tigers),American Volunteer Group (Flying Tigers),employer,1,0.0033222591362126247,1
+e:Amherst College,Amherst College,employer,3,0.009966777408637873,3
+e:Amoy University (Xiamen University),Amoy University (Xiamen University),employer,8,0.026578073089700997,10
+e:Ampco Metal Incorporated,Ampco Metal Incorporated,employer,1,0.0033222591362126247,1
+e:Anaconda Copper Mining Company,Anaconda Copper Mining Company,employer,2,0.006644518272425249,2
+e:Anhui First Girls’ Secondary School,Anhui First Girls’ Secondary School,employer,2,0.006644518272425249,2
+"e:Antone Brothers Company, Incorporated","Antone Brothers Company, Incorporated",employer,3,0.009966777408637873,3
+e:Archer-Danials-Midland Vegetable Oil Company,Archer-Danials-Midland Vegetable Oil Company,employer,2,0.006644518272425249,2
+e:Armored Corps Factory,Armored Corps Factory,employer,1,0.0033222591362126247,1
+e:Army Mechanized School,Army Mechanized School,employer,9,0.029900332225913623,10
+e:Arthur Anderson & Company,Arthur Anderson & Company,employer,2,0.006644518272425249,2
+e:Atlantic Union College,Atlantic Union College,employer,3,0.009966777408637873,3
+e:Atlas Powder Company,Atlas Powder Company,employer,2,0.006644518272425249,2
+e:Aviation Mechanics Monthly,Aviation Mechanics Monthly,employer,2,0.006644518272425249,2
+e:Aviation Mechanics School,Aviation Mechanics School,employer,1,0.0033222591362126247,1
+e:Babcock & Wilcox Company,Babcock & Wilcox Company,employer,2,0.006644518272425249,2
+e:Bacon Laboratory,Bacon Laboratory,employer,2,0.006644518272425249,2
+e:Baldwin Locomotive Works,Baldwin Locomotive Works,employer,5,0.016611295681063124,7
+e:Bank of Canton,Bank of Canton,employer,6,0.019933554817275746,7
+e:Bank of China,Bank of China,employer,39,0.12956810631229235,78
+e:Bao’an District Court,Bao’an District Court,employer,2,0.006644518272425249,2
+"e:Bauschlein Company, W.L.","Bauschlein Company, W.L.",employer,1,0.0033222591362126247,1
+"e:Bechtel Company, W.A.","Bechtel Company, W.A.",employer,1,0.0033222591362126247,1
+e:Beijing Coal Depot,Beijing Coal Depot,employer,1,0.0033222591362126247,1
+e:Beijing National Library,Beijing National Library,employer,3,0.009966777408637873,3
+e:Beijing Normal University,Beijing Normal University,employer,7,0.023255813953488372,7
+e:Beijing-Shanghai Railway,Beijing-Shanghai Railway,employer,2,0.006644518272425249,2
+e:Beiping Datong Middle School,Beiping Datong Middle School,employer,2,0.006644518272425249,2
+e:Beiping Middle School,Beiping Middle School,employer,2,0.006644518272425249,2
+e:Beiyang Women’s Hospital,Beiyang Women’s Hospital,employer,1,0.0033222591362126247,1
+e:Bell Telephone Laboratory,Bell Telephone Laboratory,employer,3,0.009966777408637873,3
+e:Bendix Aviation Corporation,Bendix Aviation Corporation,employer,1,0.0033222591362126247,1
+e:Bethlehem Steel Company,Bethlehem Steel Company,employer,2,0.006644518272425249,2
+e:Bianhe Road Rolling Stock Division,Bianhe Road Rolling Stock Division,employer,2,0.006644518272425249,2
+e:Boeing Aircraft Company,Boeing Aircraft Company,employer,2,0.006644518272425249,2
+e:Boston Children's Hospital,Boston Children's Hospital,employer,2,0.006644518272425249,2
+e:Boston City Hospital,Boston City Hospital,employer,2,0.006644518272425249,2
+e:Bristol Aircraft Corporation,Bristol Aircraft Corporation,employer,2,0.006644518272425249,2
+e:British Embassy,British Embassy,employer,4,0.013289036544850499,4
+e:Brown University,Brown University,employer,3,0.009966777408637873,3
+e:Bruce Engineering Company,Bruce Engineering Company,employer,1,0.0033222591362126247,1
+e:Bryant Chucking Grinder Company,Bryant Chucking Grinder Company,employer,2,0.006644518272425249,2
+"e:Bugbird & Company, H.C.","Bugbird & Company, H.C.",employer,2,0.006644518272425249,2
+e:Burlington County Hospital,Burlington County Hospital,employer,1,0.0033222591362126247,1
+e:California Institute of Technology,California Institute of Technology,employer,4,0.013289036544850499,6
+e:California Spray Chemical Company,California Spray Chemical Company,employer,1,0.0033222591362126247,1
+e:Canton–Hankow Railway,Canton–Hankow Railway,employer,3,0.009966777408637873,3
+e:Capital Power Plant,Capital Power Plant,employer,1,0.0033222591362126247,2
+"e:Carbolog Company, Incorporated","Carbolog Company, Incorporated",employer,2,0.006644518272425249,2
+e:Carbon & Carbide Chemical Company,Carbon & Carbide Chemical Company,employer,2,0.006644518272425249,2
+e:Carco Products Incorporated,Carco Products Incorporated,employer,3,0.009966777408637873,3
+e:Carnegie Corporation,Carnegie Corporation,employer,1,0.0033222591362126247,1
+e:Carnegie-Illinois Steel,Carnegie-Illinois Steel,employer,3,0.009966777408637873,3
+e:Central Agricultural Experiment Station,Central Agricultural Experiment Station,employer,6,0.019933554817275746,9
+e:Central Aircraft Manufacturing Factory,Central Aircraft Manufacturing Factory,employer,3,0.009966777408637873,4
+e:Central Bank of China,Central Bank of China,employer,1,0.0033222591362126247,1
+e:Central Broadcasting Administration,Central Broadcasting Administration,employer,2,0.006644518272425249,2
+e:Central Cotton Improvement Institute,Central Cotton Improvement Institute,employer,2,0.006644518272425249,2
+e:Central Electrical Equipment Works,Central Electrical Equipment Works,employer,2,0.006644518272425249,2
+e:Central Industrial Research Institute,Central Industrial Research Institute,employer,2,0.006644518272425249,2
+e:Central Military Academy,Central Military Academy,employer,2,0.006644518272425249,2
+e:Central Motors Corporation,Central Motors Corporation,employer,2,0.006644518272425249,2
+e:Central News Agency,Central News Agency,employer,5,0.016611295681063124,8
+e:Central Political Department,Central Political Department,employer,2,0.006644518272425249,2
+e:Central Political School,Central Political School,employer,2,0.006644518272425249,2
+e:Central Radio Works,Central Radio Works,employer,2,0.006644518272425249,2
+e:Central Trust of China,Central Trust of China,employer,1,0.0033222591362126247,1
+e:Century Industrial Company,Century Industrial Company,employer,1,0.0033222591362126247,1
+e:Chase National Bank,Chase National Bank,employer,4,0.013289036544850499,4
+e:Cheeloo University (Shandong University),Cheeloo University (Shandong University),employer,13,0.04318936877076412,13
+e:Chekiang Industrial Bank,Chekiang Industrial Bank,employer,2,0.006644518272425249,2
+e:Chengting–Taiyuan Railways,Chengting–Taiyuan Railways,employer,2,0.006644518272425249,2
+e:China Aircraft Corporation,China Aircraft Corporation,employer,7,0.023255813953488372,7
+e:China Association for Promotion of Commerce & Industry,China Association for Promotion of Commerce & Industry,employer,1,0.0033222591362126247,1
+e:China Automobile Manufacturing Company,China Automobile Manufacturing Company,employer,3,0.009966777408637873,4
+e:China Defense Supplies Corporation,China Defense Supplies Corporation,employer,22,0.07308970099667775,28
+e:China Development Finance Corporation,China Development Finance Corporation,employer,3,0.009966777408637873,3
+e:China Film Enterprise Company,China Film Enterprise Company,employer,1,0.0033222591362126247,1
+e:China Film Studio,China Film Studio,employer,1,0.0033222591362126247,1
+e:China Food Products Company,China Food Products Company,employer,2,0.006644518272425249,2
+e:China Industrial Company,China Industrial Company,employer,2,0.006644518272425249,2
+e:China Institute in America,China Institute in America,employer,18,0.059800664451827246,21
+e:China Institute of Psychological Physiology,China Institute of Psychological Physiology,employer,2,0.006644518272425249,2
+e:China Joint Transportation Company,China Joint Transportation Company,employer,1,0.0033222591362126247,1
+e:China Merchants Steam Navigation Company,China Merchants Steam Navigation Company,employer,2,0.006644518272425249,2
+e:China Monthly,China Monthly,employer,3,0.009966777408637873,3
+e:China Motor Corporation,China Motor Corporation,employer,1,0.0033222591362126247,1
+e:China National Aviation Corporation (CNAC),China National Aviation Corporation (CNAC),employer,3,0.009966777408637873,3
+e:China Oriental Trading & Engineering Company,China Oriental Trading & Engineering Company,employer,2,0.006644518272425249,2
+e:China Review Weekly,China Review Weekly,employer,2,0.006644518272425249,2
+e:China Rural Reconstruction Talent Training Institute,China Rural Reconstruction Talent Training Institute,employer,3,0.009966777408637873,3
+e:China Social Education Association,China Social Education Association,employer,3,0.009966777408637873,3
+e:China Tea Company,China Tea Company,employer,5,0.016611295681063124,6
+e:China Transport Company,China Transport Company,employer,2,0.006644518272425249,2
+e:Chinese Consulate General in Chicago,Chinese Consulate General in Chicago,employer,6,0.019933554817275746,6
+e:Chinese Consulate General in Havana,Chinese Consulate General in Havana,employer,2,0.006644518272425249,2
+e:Chinese Consulate General in Honolulu,Chinese Consulate General in Honolulu,employer,6,0.019933554817275746,6
+e:Chinese Consulate General in Iowa,Chinese Consulate General in Iowa,employer,1,0.0033222591362126247,1
+e:Chinese Consulate General in New York,Chinese Consulate General in New York,employer,9,0.029900332225913623,10
+e:Chinese Consulate General in San Francisco,Chinese Consulate General in San Francisco,employer,4,0.013289036544850499,4
+e:Chinese Consulate General in Seoul,Chinese Consulate General in Seoul,employer,2,0.006644518272425249,2
+e:Chinese Consulate in Boston,Chinese Consulate in Boston,employer,2,0.006644518272425249,2
+e:Chinese Consulate in Houston,Chinese Consulate in Houston,employer,2,0.006644518272425249,2
+e:Chinese Consulate in London,Chinese Consulate in London,employer,2,0.006644518272425249,2
+e:Chinese Consulate in Los Angeles,Chinese Consulate in Los Angeles,employer,2,0.006644518272425249,2
+e:Chinese Consulate in Luanda,Chinese Consulate in Luanda,employer,2,0.006644518272425249,2
+e:Chinese Consulate in Managua,Chinese Consulate in Managua,employer,4,0.013289036544850499,4
+e:Chinese Consulate in New Orleans,Chinese Consulate in New Orleans,employer,8,0.026578073089700997,8
+e:Chinese Consulate in Portland,Chinese Consulate in Portland,employer,4,0.013289036544850499,4
+e:Chinese Consulate in Seattle,Chinese Consulate in Seattle,employer,7,0.023255813953488372,9
+e:Chinese Delegation for World Cultural Cooperation,Chinese Delegation for World Cultural Cooperation,employer,4,0.013289036544850499,4
+e:Chinese Embassy in Cuba,Chinese Embassy in Cuba,employer,2,0.006644518272425249,2
+e:Chinese Embassy in Italy,Chinese Embassy in Italy,employer,2,0.006644518272425249,2
+e:Chinese Embassy in the United States,Chinese Embassy in the United States,employer,5,0.016611295681063124,5
+e:Chinese Legation at Panama,Chinese Legation at Panama,employer,2,0.006644518272425249,2
+e:Chinese Legation in Germany,Chinese Legation in Germany,employer,1,0.0033222591362126247,1
+e:Chinese Ministry of Agriculture and Forestry,Chinese Ministry of Agriculture and Forestry,employer,1,0.0033222591362126247,1
+e:Chinese Ministry of Communications,Chinese Ministry of Communications,employer,11,0.036544850498338874,28
+e:Chinese Ministry of Economic Affairs,Chinese Ministry of Economic Affairs,employer,10,0.03322259136212625,12
+e:Chinese Ministry of Education,Chinese Ministry of Education,employer,2,0.006644518272425249,3
+e:Chinese Ministry of Finance,Chinese Ministry of Finance,employer,3,0.009966777408637873,3
+e:Chinese Ministry of Foreign Affairs,Chinese Ministry of Foreign Affairs,employer,14,0.046511627906976744,15
+e:Chinese Ministry of Industry,Chinese Ministry of Industry,employer,12,0.03986710963455149,13
+e:Chinese Ministry of Military Administration,Chinese Ministry of Military Administration,employer,16,0.053156146179401995,21
+e:Chinese Ministry of Propaganda,Chinese Ministry of Propaganda,employer,2,0.006644518272425249,2
+e:Chinese Ministry of Social Affairs,Chinese Ministry of Social Affairs,employer,3,0.009966777408637873,3
+e:Chinese National Government,Chinese National Government,employer,2,0.006644518272425249,2
+e:Chinese News Service,Chinese News Service,employer,15,0.04983388704318937,17
+e:Chinese school in San Mateo,Chinese school in San Mateo,employer,1,0.0033222591362126247,1
+e:Chinese-American Weekly,Chinese-American Weekly,employer,2,0.006644518272425249,2
+e:Chizhi University,Chizhi University,employer,2,0.006644518272425249,2
+e:Chongqing Direct Tax Bureau,Chongqing Direct Tax Bureau,employer,2,0.006644518272425249,2
+e:Chongqing Dredging and Maintenance Office,Chongqing Dredging and Maintenance Office,employer,1,0.0033222591362126247,1
+e:Chongqing Girls' Normal High School,Chongqing Girls' Normal High School,employer,1,0.0033222591362126247,1
+e:Chongqing Minkang Industrial Company,Chongqing Minkang Industrial Company,employer,3,0.009966777408637873,3
+e:Chongqing Municipal Government,Chongqing Municipal Government,employer,2,0.006644518272425249,2
+e:Chongqing New Society Daily,Chongqing New Society Daily,employer,1,0.0033222591362126247,1
+e:Chongqing Physical Education Promotion Association,Chongqing Physical Education Promotion Association,employer,1,0.0033222591362126247,1
+e:Chongqing Postal Remittance and Savings Bank,Chongqing Postal Remittance and Savings Bank,employer,2,0.006644518272425249,2
+e:Chongqing Sheshu Newspaper,Chongqing Sheshu Newspaper,employer,2,0.006644518272425249,2
+e:Chongqing University,Chongqing University,employer,3,0.009966777408637873,3
+e:Christ Church's Orchestra,Christ Church's Orchestra,employer,3,0.009966777408637873,3
+e:Chrysler Corporation,Chrysler Corporation,employer,5,0.016611295681063124,8
+e:Chung Cheng University,Chung Cheng University,employer,2,0.006644518272425249,2
+e:Church Committee for China Relief,Church Committee for China Relief,employer,1,0.0033222591362126247,1
+e:Citizens' Foreign Relations Association,Citizens' Foreign Relations Association,employer,5,0.016611295681063124,5
+e:Columbia University,Columbia University,employer,8,0.026578073089700997,10
+e:Commander-Larabee Milling Company,Commander-Larabee Milling Company,employer,2,0.006644518272425249,2
+e:Commercial Counsellor for North America,Commercial Counsellor for North America,employer,3,0.009966777408637873,3
+e:Commercial Press,Commercial Press,employer,2,0.006644518272425249,2
+e:Committee on Wartime Planning for Chinese Students in the United States,Committee on Wartime Planning for Chinese Students in the United States,employer,4,0.013289036544850499,4
+e:Common Council for American Unity,Common Council for American Unity,employer,2,0.006644518272425249,2
+e:Cone Automatic Machine Company,Cone Automatic Machine Company,employer,3,0.009966777408637873,3
+e:Conference on the Reduction of Armaments,Conference on the Reduction of Armaments,employer,2,0.006644518272425249,2
+e:Conrad O. Hersan Company,Conrad O. Hersan Company,employer,3,0.009966777408637873,3
+e:Consolidated Aircraft Corporation,Consolidated Aircraft Corporation,employer,1,0.0033222591362126247,1
+e:Construction Company,Construction Company,employer,2,0.006644518272425249,2
+e:Consulate General in Shanghai [country unspecified],Consulate General in Shanghai [country unspecified],employer,2,0.006644518272425249,2
+e:Cook County Hospital,Cook County Hospital,employer,2,0.006644518272425249,2
+e:Cornell University,Cornell University,employer,4,0.013289036544850499,4
+e:Crucible Steel Corporation,Crucible Steel Corporation,employer,1,0.0033222591362126247,1
+e:Curtiss-Wright Aircraft Corporation,Curtiss-Wright Aircraft Corporation,employer,11,0.036544850498338874,14
+e:Dachang Industrial Company,Dachang Industrial Company,employer,2,0.006644518272425249,2
+e:Dadukou Iron and Steel Works,Dadukou Iron and Steel Works,employer,1,0.0033222591362126247,1
+e:Dartmouth College,Dartmouth College,employer,2,0.006644518272425249,2
+e:David H. Horn Architect,David H. Horn Architect,employer,4,0.013289036544850499,4
+e:Deal Electric Company,Deal Electric Company,employer,1,0.0033222591362126247,1
+e:Defense Project,Defense Project,employer,1,0.0033222591362126247,1
+e:Delisser Machine & Tool Company,Delisser Machine & Tool Company,employer,1,0.0033222591362126247,1
+e:Denver Chemical Manufacturing Company,Denver Chemical Manufacturing Company,employer,3,0.009966777408637873,3
+e:Department of Machinery Division,Department of Machinery Division,employer,1,0.0033222591362126247,1
+e:Department of Military Training,Department of Military Training,employer,19,0.06312292358803986,36
+e:Detroit Edison Company,Detroit Edison Company,employer,2,0.006644518272425249,2
+e:Dinghai Girls’ Secondary School,Dinghai Girls’ Secondary School,employer,2,0.006644518272425249,2
+e:Doctor's Hospital (Manhattan),Doctor's Hospital (Manhattan),employer,2,0.006644518272425249,2
+e:Dongbin Railway Administration,Dongbin Railway Administration,employer,2,0.006644518272425249,2
+e:Dorr Company,Dorr Company,employer,4,0.013289036544850499,4
+e:Douglas Aircraft Company,Douglas Aircraft Company,employer,3,0.009966777408637873,4
+e:Drury & McNamee Shoecraft,Drury & McNamee Shoecraft,employer,2,0.006644518272425249,2
+e:Dry Food Incorporated,Dry Food Incorporated,employer,1,0.0033222591362126247,1
+e:Duke University,Duke University,employer,3,0.009966777408637873,3
+"e:Ebasco Services, Incorporated","Ebasco Services, Incorporated",employer,1,0.0033222591362126247,1
+e:Economic Commission,Economic Commission,employer,5,0.016611295681063124,5
+e:Ely Kahn & Robert Jacobs Architects,Ely Kahn & Robert Jacobs Architects,employer,2,0.006644518272425249,2
+e:Emil S. Fischer,Emil S. Fischer,employer,2,0.006644518272425249,2
+e:Ethyl Gasoline Corporation,Ethyl Gasoline Corporation,employer,2,0.006644518272425249,2
+"e:Euston Architect, A.F.","Euston Architect, A.F.",employer,3,0.009966777408637873,3
+e:Executive Yuan,Executive Yuan,employer,3,0.009966777408637873,3
+e:Far East Religious Association,Far East Religious Association,employer,1,0.0033222591362126247,1
+e:Farmers Bank of China,Farmers Bank of China,employer,2,0.006644518272425249,2
+e:Federal Broadcasting Intelligence Service,Federal Broadcasting Intelligence Service,employer,1,0.0033222591362126247,1
+e:Federal Communication Commission,Federal Communication Commission,employer,2,0.006644518272425249,2
+e:Federal Reserve Bank,Federal Reserve Bank,employer,3,0.009966777408637873,3
+e:Federal Telephone & Radio Corporation,Federal Telephone & Radio Corporation,employer,4,0.013289036544850499,5
+e:Ferro Enamel Corporation,Ferro Enamel Corporation,employer,2,0.006644518272425249,2
+e:Fifth Army,Fifth Army,employer,7,0.023255813953488372,10
+"e:Finkel & Finkel, C.P.A.","Finkel & Finkel, C.P.A.",employer,2,0.006644518272425249,2
+e:Firestone Tire & Rubber Corporation,Firestone Tire & Rubber Corporation,employer,2,0.006644518272425249,2
+e:Food & Drug Laboratory of Costa Rica,Food & Drug Laboratory of Costa Rica,employer,2,0.006644518272425249,2
+e:Ford Motor Company,Ford Motor Company,employer,3,0.009966777408637873,3
+e:Foster Wheeler Corporation,Foster Wheeler Corporation,employer,3,0.009966777408637873,3
+e:Francis Engineering Company,Francis Engineering Company,employer,2,0.006644518272425249,2
+e:Franco-Chinese University,Franco-Chinese University,employer,2,0.006644518272425249,2
+e:Frank Wyckoop Company,Frank Wyckoop Company,employer,1,0.0033222591362126247,1
+e:Fred J. Ryan Company,Fred J. Ryan Company,employer,3,0.009966777408637873,3
+e:Free World (Monthly),Free World (Monthly),employer,2,0.006644518272425249,2
+e:Fu Jen Catholic University,Fu Jen Catholic University,employer,4,0.013289036544850499,4
+e:Fuhua Trading Company,Fuhua Trading Company,employer,2,0.006644518272425249,2
+e:Fujian Provincial Department of Reconstruction,Fujian Provincial Department of Reconstruction,employer,2,0.006644518272425249,2
+e:Fujian Provincial Senior Industrial Vocational School,Fujian Provincial Senior Industrial Vocational School,employer,2,0.006644518272425249,2
+e:Fujian-Zhejiang Highway Transport Office,Fujian-Zhejiang Highway Transport Office,employer,1,0.0033222591362126247,1
+e:Fukien Christian University,Fukien Christian University,employer,11,0.036544850498338874,17
+e:Fuzhou Provincial Secondary School of Home Economics,Fuzhou Provincial Secondary School of Home Economics,employer,2,0.006644518272425249,2
+e:Fu’an Company,Fu’an Company,employer,2,0.006644518272425249,2
+e:Gansu Petroleum Bureau,Gansu Petroleum Bureau,employer,1,0.0033222591362126247,1
+e:Garod Radio Corporation,Garod Radio Corporation,employer,2,0.006644518272425249,2
+e:Garry & Shaffey Company,Garry & Shaffey Company,employer,1,0.0033222591362126247,1
+e:General Bureau of Highway Transport,General Bureau of Highway Transport,employer,2,0.006644518272425249,2
+e:General Cable Corporation,General Cable Corporation,employer,2,0.006644518272425249,2
+e:General Electric Company,General Electric Company,employer,16,0.053156146179401995,25
+e:General Transport Headquarters,General Transport Headquarters,employer,1,0.0033222591362126247,1
+e:Geological Survey,Geological Survey,employer,1,0.0033222591362126247,1
+e:George Washington University,George Washington University,employer,2,0.006644518272425249,2
+e:Georgetown University,Georgetown University,employer,2,0.006644518272425249,2
+e:Giffels & Vallet Incorporated,Giffels & Vallet Incorporated,employer,9,0.029900332225913623,24
+e:Ginling University,Ginling University,employer,7,0.023255813953488372,7
+e:Glenn L. Martin Company,Glenn L. Martin Company,employer,3,0.009966777408637873,3
+e:Gliding Society,Gliding Society,employer,2,0.006644518272425249,2
+e:Gong County Arsenal,Gong County Arsenal,employer,5,0.016611295681063124,5
+e:Gongliang School,Gongliang School,employer,1,0.0033222591362126247,1
+e:Grace Hospital,Grace Hospital,employer,3,0.009966777408637873,3
+e:Grand Central Airport,Grand Central Airport,employer,1,0.0033222591362126247,1
+e:Great China University (Daxia University),Great China University (Daxia University),employer,2,0.006644518272425249,2
+e:Grunman Aircraft Engineering Corporation,Grunman Aircraft Engineering Corporation,employer,3,0.009966777408637873,3
+e:Guangdong Department of Reconstruction,Guangdong Department of Reconstruction,employer,2,0.006644518272425249,2
+e:Guangdong Guomin University,Guangdong Guomin University,employer,3,0.009966777408637873,3
+e:Guangdong Provincial Government,Guangdong Provincial Government,employer,7,0.023255813953488372,7
+e:Guangxi Agricultural investigator to Honolulu,Guangxi Agricultural investigator to Honolulu,employer,3,0.009966777408637873,3
+e:Guangxi Electric Power Plant,Guangxi Electric Power Plant,employer,1,0.0033222591362126247,1
+e:Guangxi Provincial Grain Planning Commission,Guangxi Provincial Grain Planning Commission,employer,2,0.006644518272425249,2
+e:Guangxi Student Army,Guangxi Student Army,employer,2,0.006644518272425249,2
+e:Guangxi University,Guangxi University,employer,2,0.006644518272425249,2
+e:Guangzhou Daily,Guangzhou Daily,employer,2,0.006644518272425249,2
+e:Guangzhou District Court,Guangzhou District Court,employer,2,0.006644518272425249,2
+e:Guangzhou Electricity Administration Office,Guangzhou Electricity Administration Office,employer,1,0.0033222591362126247,1
+e:Guangzhou Hanguang Middle School,Guangzhou Hanguang Middle School,employer,3,0.009966777408637873,3
+e:Guangzhou Municipal Bureau of Engineering,Guangzhou Municipal Bureau of Engineering,employer,3,0.009966777408637873,3
+e:Guangzhou Municipal First Middle School,Guangzhou Municipal First Middle School,employer,2,0.006644518272425249,2
+e:Guangzhou Municipal Telephone Administration,Guangzhou Municipal Telephone Administration,employer,2,0.006644518272425249,2
+e:Guangzhou Pui Ching Middle School,Guangzhou Pui Ching Middle School,employer,8,0.026578073089700997,9
+e:Guangzhou University,Guangzhou University,employer,2,0.006644518272425249,2
+e:Guaranty Trust Company,Guaranty Trust Company,employer,1,0.0033222591362126247,1
+e:Guilin Field Headquarters,Guilin Field Headquarters,employer,4,0.013289036544850499,4
+e:Guizhou Aviation Office,Guizhou Aviation Office,employer,1,0.0033222591362126247,1
+e:Guizhou Reconstruction Office,Guizhou Reconstruction Office,employer,1,0.0033222591362126247,1
+e:Guomin Daily,Guomin Daily,employer,3,0.009966777408637873,3
+e:Guomindang,Guomindang,employer,6,0.019933554817275746,6
+e:Haikang County Education Bureau,Haikang County Education Bureau,employer,3,0.009966777408637873,3
+e:Hangzhou Girls' Middle School,Hangzhou Girls' Middle School,employer,2,0.006644518272425249,2
+e:Hankow Commodity Inspection Bureau,Hankow Commodity Inspection Bureau,employer,2,0.006644518272425249,2
+"e:Harmon Foundation, William E.","Harmon Foundation, William E.",employer,3,0.009966777408637873,4
+e:Harrison Gas Works,Harrison Gas Works,employer,1,0.0033222591362126247,1
+e:Harvard University,Harvard University,employer,20,0.0664451827242525,29
+e:Harvard-Yenching Institute,Harvard-Yenching Institute,employer,5,0.016611295681063124,7
+e:Health Demonstration Center,Health Demonstration Center,employer,2,0.006644518272425249,2
+e:Hebei Provincial Agricultural College,Hebei Provincial Agricultural College,employer,2,0.006644518272425249,2
+e:Hebei Provincial Fisheries Specialized School,Hebei Provincial Fisheries Specialized School,employer,2,0.006644518272425249,2
+e:Hebei Provincial No. 17 Middle School,Hebei Provincial No. 17 Middle School,employer,3,0.009966777408637873,3
+e:Hebei University,Hebei University,employer,2,0.006644518272425249,2
+e:Heilongjiang Gold Mine Prospecting Team,Heilongjiang Gold Mine Prospecting Team,employer,1,0.0033222591362126247,1
+e:Henan Provincial Department of Reconstruction,Henan Provincial Department of Reconstruction,employer,3,0.009966777408637873,3
+e:Hengtong Chemical Company,Hengtong Chemical Company,employer,2,0.006644518272425249,2
+e:Henry Street Visiting Nurse Service,Henry Street Visiting Nurse Service,employer,2,0.006644518272425249,2
+e:Hermann Biggs Memorial Hospital,Hermann Biggs Memorial Hospital,employer,3,0.009966777408637873,3
+e:Hermans & Simon Architecture,Hermans & Simon Architecture,employer,4,0.013289036544850499,4
+e:Heyuan Procasa Company,Heyuan Procasa Company,employer,2,0.006644518272425249,2
+e:Higgins Industries Incoporated,Higgins Industries Incoporated,employer,1,0.0033222591362126247,1
+e:High Standard Manufacturing Company,High Standard Manufacturing Company,employer,2,0.006644518272425249,2
+e:Historical Annal,Historical Annal,employer,2,0.006644518272425249,2
+e:Holabird & Root Company,Holabird & Root Company,employer,3,0.009966777408637873,3
+e:Holley Carburetor Company,Holley Carburetor Company,employer,1,0.0033222591362126247,1
+e:Home Insurance Company,Home Insurance Company,employer,2,0.006644518272425249,2
+e:Hong Kong Commercial Daily,Hong Kong Commercial Daily,employer,2,0.006644518272425249,2
+e:Hong Kong Pui Ching Middle School,Hong Kong Pui Ching Middle School,employer,3,0.009966777408637873,3
+e:Houdalle-Hershey Corporation,Houdalle-Hershey Corporation,employer,2,0.006644518272425249,2
+e:Houde Engineering Company,Houde Engineering Company,employer,1,0.0033222591362126247,1
+e:Howard Hughes Aircraft Company,Howard Hughes Aircraft Company,employer,4,0.013289036544850499,4
+e:Hsiangya (Hunan-Yale) Medical College,Hsiangya (Hunan-Yale) Medical College,employer,2,0.006644518272425249,2
+e:Huacheng Electric Motor Manufacturing Works,Huacheng Electric Motor Manufacturing Works,employer,1,0.0033222591362126247,1
+e:Huai'an Middle School,Huai'an Middle School,employer,2,0.006644518272425249,2
+e:Huanghai Chemical Industry Research Institute,Huanghai Chemical Industry Research Institute,employer,2,0.006644518272425249,2
+e:Huanqiu Paper Mill,Huanqiu Paper Mill,employer,2,0.006644518272425249,2
+e:Huasheng Electrical Appliance Manufacturing Works,Huasheng Electrical Appliance Manufacturing Works,employer,1,0.0033222591362126247,1
+e:Huawen Secondary School,Huawen Secondary School,employer,2,0.006644518272425249,2
+e:Huaying Girls’ Secondary School,Huaying Girls’ Secondary School,employer,3,0.009966777408637873,3
+e:Huazhong University,Huazhong University,employer,3,0.009966777408637873,3
+e:Hubei Provincial Direct Tax Bureau,Hubei Provincial Direct Tax Bureau,employer,2,0.006644518272425249,2
+e:Hudson Coal Company,Hudson Coal Company,employer,3,0.009966777408637873,3
+e:Hunan University,Hunan University,employer,1,0.0033222591362126247,1
+e:Hunan-Guangxi Railway,Hunan-Guangxi Railway,employer,2,0.006644518272425249,2
+"e:Hutton & Company, E.F.","Hutton & Company, E.F.",employer,2,0.006644518272425249,2
+e:Hwa Nan Academy,Hwa Nan Academy,employer,4,0.013289036544850499,4
+e:Illinois Institute of Technology,Illinois Institute of Technology,employer,4,0.013289036544850499,4
+"e:Imco Company, The","Imco Company, The",employer,1,0.0033222591362126247,1
+e:Industry Incorporated,Industry Incorporated,employer,2,0.006644518272425249,2
+e:Inland Steel Company,Inland Steel Company,employer,1,0.0033222591362126247,1
+e:Institute For Juvenile Research,Institute For Juvenile Research,employer,2,0.006644518272425249,2
+e:Institute for National Survey Research,Institute for National Survey Research,employer,3,0.009966777408637873,3
+e:Institute for the Ideological Education of Overseas Chinese,Institute for the Ideological Education of Overseas Chinese,employer,2,0.006644518272425249,2
+e:Institute of Pacific Relations,Institute of Pacific Relations,employer,2,0.006644518272425249,2
+e:International Business Machine Corporation,International Business Machine Corporation,employer,2,0.006644518272425249,2
+e:International Red Cross,International Red Cross,employer,2,0.006644518272425249,2
+e:International Standard Electric Company,International Standard Electric Company,employer,2,0.006644518272425249,2
+e:Iowa State College,Iowa State College,employer,6,0.019933554817275746,8
+e:Irving Trust Company New York,Irving Trust Company New York,employer,2,0.006644518272425249,2
+e:Irvington Varnish Insolator Company,Irvington Varnish Insolator Company,employer,2,0.006644518272425249,2
+e:Jacques Wolf & Company,Jacques Wolf & Company,employer,2,0.006644518272425249,2
+e:James Stewart Corporation,James Stewart Corporation,employer,7,0.023255813953488372,7
+e:Jersey City Medical Center,Jersey City Medical Center,employer,1,0.0033222591362126247,1
+e:Jianghan Bureau,Jianghan Bureau,employer,2,0.006644518272425249,2
+e:Jiangnan Cement Company,Jiangnan Cement Company,employer,2,0.006644518272425249,2
+e:Jiangsu Bureau of Entomology,Jiangsu Bureau of Entomology,employer,2,0.006644518272425249,2
+e:Jiangsu Department of Reconstruction,Jiangsu Department of Reconstruction,employer,2,0.006644518272425249,2
+e:Jiangsu Huaihe River Diversion Project Office,Jiangsu Huaihe River Diversion Project Office,employer,2,0.006644518272425249,2
+e:Jiangsu Provincial Changzhou Middle School,Jiangsu Provincial Changzhou Middle School,employer,3,0.009966777408637873,3
+e:Jiangsu Provincial College of Education,Jiangsu Provincial College of Education,employer,3,0.009966777408637873,3
+e:Jiangsu Provincial Farmers Bank,Jiangsu Provincial Farmers Bank,employer,2,0.006644518272425249,2
+e:Jiangsu Provincial Popular Education College,Jiangsu Provincial Popular Education College,employer,3,0.009966777408637873,3
+e:Jiangsu Wuxian Red Cross Society,Jiangsu Wuxian Red Cross Society,employer,3,0.009966777408637873,3
+e:Jianguo Secondary School,Jianguo Secondary School,employer,2,0.006644518272425249,2
+e:Jiangxi Highway Bureau,Jiangxi Highway Bureau,employer,1,0.0033222591362126247,1
+e:Jiangxi Provincial Popular Education Center,Jiangxi Provincial Popular Education Center,employer,2,0.006644518272425249,2
+e:Jiangxi Provincial Travelling Educational Film Unit,Jiangxi Provincial Travelling Educational Film Unit,employer,2,0.006644518272425249,2
+e:Jiangxi Provincial Women’s Guidance Office,Jiangxi Provincial Women’s Guidance Office,employer,3,0.009966777408637873,3
+e:Jiaotong University,Jiaotong University,employer,16,0.053156146179401995,24
+e:Jing River Commission,Jing River Commission,employer,6,0.019933554817275746,6
+e:Jinjiang Daily,Jinjiang Daily,employer,1,0.0033222591362126247,1
+e:Jiujiang Coal Administration Office,Jiujiang Coal Administration Office,employer,1,0.0033222591362126247,1
+e:John B. Fischer Architect,John B. Fischer Architect,employer,2,0.006644518272425249,2
+e:John Hopkins University,John Hopkins University,employer,3,0.009966777408637873,3
+e:Jones & Lamson Machine Company,Jones & Lamson Machine Company,employer,5,0.016611295681063124,5
+"e:Joseph E. Seagran & Sons, Incorporated","Joseph E. Seagran & Sons, Incorporated",employer,2,0.006644518272425249,2
+e:K.C.F. Food Products Laboratory,K.C.F. Food Products Laboratory,employer,1,0.0033222591362126247,1
+e:Kailan Mining Administration,Kailan Mining Administration,employer,2,0.006644518272425249,2
+e:Kaiser Shipbuilding Corporation,Kaiser Shipbuilding Corporation,employer,11,0.036544850498338874,15
+e:Kansas City Power & Light Company,Kansas City Power & Light Company,employer,1,0.0033222591362126247,1
+"e:Kellogg Company, M.W.","Kellogg Company, M.W.",employer,4,0.013289036544850499,4
+e:Kiaochow–Tsinan Railway Administration,Kiaochow–Tsinan Railway Administration,employer,2,0.006644518272425249,2
+e:Kodak Research Laboratory,Kodak Research Laboratory,employer,2,0.006644518272425249,2
+e:Kofa American Drug Company,Kofa American Drug Company,employer,2,0.006644518272425249,2
+e:Koppers Company,Koppers Company,employer,3,0.009966777408637873,3
+"e:Kump Company, E.S.","Kump Company, E.S.",employer,2,0.006644518272425249,2
+e:Kunming Broadcasting Station,Kunming Broadcasting Station,employer,2,0.006644518272425249,2
+e:Kunming Central Electrical Equipment Factory,Kunming Central Electrical Equipment Factory,employer,1,0.0033222591362126247,1
+e:Kunming Direct Tax Bureau,Kunming Direct Tax Bureau,employer,2,0.006644518272425249,2
+e:Kunming Huayi Trading Company,Kunming Huayi Trading Company,employer,2,0.006644518272425249,2
+e:Kwang Hua University,Kwang Hua University,employer,1,0.0033222591362126247,1
+e:Lanzhou Power Plant,Lanzhou Power Plant,employer,1,0.0033222591362126247,1
+e:League of Nations,League of Nations,employer,2,0.006644518272425249,2
+e:Lederle Laboratories Incorporated,Lederle Laboratories Incorporated,employer,3,0.009966777408637873,3
+e:Lee Engineering Company,Lee Engineering Company,employer,9,0.029900332225913623,13
+e:Legislative Yuan,Legislative Yuan,employer,5,0.016611295681063124,6
+e:Liberty Tool & Cage Incoporation,Liberty Tool & Cage Incoporation,employer,1,0.0033222591362126247,1
+e:Library of Congress,Library of Congress,employer,7,0.023255813953488372,10
+e:Lingnan University,Lingnan University,employer,23,0.07641196013289037,32
+e:Liongsin Press,Liongsin Press,employer,3,0.009966777408637873,3
+e:Liuhegou Ironworks,Liuhegou Ironworks,employer,1,0.0033222591362126247,1
+"e:Longhua Cement Works, Shanghai","Longhua Cement Works, Shanghai",employer,1,0.0033222591362126247,1
+"e:Lorec Architect, D.D.","Lorec Architect, D.D.",employer,3,0.009966777408637873,3
+e:Los Angeles County General Hospital,Los Angeles County General Hospital,employer,3,0.009966777408637873,3
+"e:Louis Allis Company, The","Louis Allis Company, The",employer,2,0.006644518272425249,2
+e:Louisiana Sugar Factory,Louisiana Sugar Factory,employer,2,0.006644518272425249,2
+e:Luke Field,Luke Field,employer,3,0.009966777408637873,3
+e:Lummus Company,Lummus Company,employer,4,0.013289036544850499,4
+e:Luotian County Finance Bureau,Luotian County Finance Bureau,employer,2,0.006644518272425249,2
+e:Machine & Tool Design Company,Machine & Tool Design Company,employer,1,0.0033222591362126247,1
+e:Madison College,Madison College,employer,3,0.009966777408637873,3
+e:Mahony-Troast Construction Company,Mahony-Troast Construction Company,employer,2,0.006644518272425249,2
+"e:Marmon-Herrington Company, Incorporated","Marmon-Herrington Company, Incorporated",employer,3,0.009966777408637873,3
+e:Mary's Hospital,Mary's Hospital,employer,2,0.006644518272425249,2
+e:Massachusetts General Hospital,Massachusetts General Hospital,employer,2,0.006644518272425249,2
+e:Massachusetts Institute of Technology,Massachusetts Institute of Technology,employer,10,0.03322259136212625,21
+e:Materials Testing Division,Materials Testing Division,employer,3,0.009966777408637873,3
+e:Matlock & Campell Mechanical,Matlock & Campell Mechanical,employer,2,0.006644518272425249,2
+e:May Chemical Company,May Chemical Company,employer,1,0.0033222591362126247,1
+e:Mayers' Aircraft Corporation,Mayers' Aircraft Corporation,employer,2,0.006644518272425249,2
+e:McQuay Norris Manufacturing Company,McQuay Norris Manufacturing Company,employer,1,0.0033222591362126247,1
+e:McTyeire School for Girls,McTyeire School for Girls,employer,1,0.0033222591362126247,1
+e:Merck & Company,Merck & Company,employer,9,0.029900332225913623,9
+e:Merrimack Manufacturing Company,Merrimack Manufacturing Company,employer,3,0.009966777408637873,3
+e:Methodist Church,Methodist Church,employer,3,0.009966777408637873,3
+e:Mexico Refractories Company,Mexico Refractories Company,employer,2,0.006644518272425249,2
+e:Micamold Radio Corporation,Micamold Radio Corporation,employer,2,0.006644518272425249,2
+e:Michigan Agricultural Experiment Station,Michigan Agricultural Experiment Station,employer,3,0.009966777408637873,3
+e:Military Affairs Commission,Military Affairs Commission,employer,9,0.029900332225913623,9
+e:Military Operations Department,Military Operations Department,employer,1,0.0033222591362126247,1
+e:Mills College,Mills College,employer,2,0.006644518272425249,2
+e:Mingda Company,Mingda Company,employer,1,0.0033222591362126247,1
+e:Minguo University (Beijing),Minguo University (Beijing),employer,2,0.006644518272425249,2
+e:Ministry of Posts and Communications,Ministry of Posts and Communications,employer,1,0.0033222591362126247,1
+e:Minnesota Agricultural Experiment Station,Minnesota Agricultural Experiment Station,employer,2,0.006644518272425249,2
+e:Minqi Daily,Minqi Daily,employer,5,0.016611295681063124,5
+e:Minsheng Industrial Company,Minsheng Industrial Company,employer,2,0.006644518272425249,2
+e:Mississippi River Commission,Mississippi River Commission,employer,3,0.009966777408637873,3
+e:Mississippi Valley Structural Company,Mississippi Valley Structural Company,employer,2,0.006644518272425249,2
+e:Models & Patents Corporation,Models & Patents Corporation,employer,1,0.0033222591362126247,1
+e:Moore Dry Dock Company,Moore Dry Dock Company,employer,1,0.0033222591362126247,1
+e:Mount Morris Tuberculosis Hospital,Mount Morris Tuberculosis Hospital,employer,2,0.006644518272425249,2
+e:Municipal Government,Municipal Government,employer,3,0.009966777408637873,3
+e:Murray Iron Works Company,Murray Iron Works Company,employer,1,0.0033222591362126247,1
+e:Mutai Engineering Office,Mutai Engineering Office,employer,2,0.006644518272425249,2
+e:Nanjing General Headquarters,Nanjing General Headquarters,employer,2,0.006644518272425249,2
+e:Nanjing Higher Police Officers Academy,Nanjing Higher Police Officers Academy,employer,2,0.006644518272425249,2
+e:Nankai Institute of Economics,Nankai Institute of Economics,employer,1,0.0033222591362126247,1
+e:Nankai University,Nankai University,employer,9,0.029900332225913623,11
+e:Nankai University Journal,Nankai University Journal,employer,2,0.006644518272425249,2
+e:Nankou Locomotive Works,Nankou Locomotive Works,employer,2,0.006644518272425249,2
+"e:Nanning District Court, Guangxi","Nanning District Court, Guangxi",employer,3,0.009966777408637873,3
+e:National Bank of Detroit,National Bank of Detroit,employer,2,0.006644518272425249,2
+e:National Bureau of Economic Research,National Bureau of Economic Research,employer,1,0.0033222591362126247,1
+e:National Central University,National Central University,employer,21,0.06976744186046512,35
+e:National City Bank of New York,National City Bank of New York,employer,2,0.006644518272425249,2
+e:National Conservatory of Music,National Conservatory of Music,employer,2,0.006644518272425249,2
+e:National Construction Commission,National Construction Commission,employer,3,0.009966777408637873,3
+e:National Daily Special Edition,National Daily Special Edition,employer,1,0.0033222591362126247,1
+e:National Defense Planning Commission,National Defense Planning Commission,employer,1,0.0033222591362126247,1
+e:National Diplomacy Association,National Diplomacy Association,employer,3,0.009966777408637873,3
+e:National Diplomacy Monthly,National Diplomacy Monthly,employer,3,0.009966777408637873,3
+e:National General Mobilization Council,National General Mobilization Council,employer,1,0.0033222591362126247,1
+e:National Geophysical Company,National Geophysical Company,employer,1,0.0033222591362126247,1
+e:National Guangdong College of Law,National Guangdong College of Law,employer,2,0.006644518272425249,2
+e:National Gypsim Company,National Gypsim Company,employer,2,0.006644518272425249,2
+e:National Paint & Varnish Company,National Paint & Varnish Company,employer,3,0.009966777408637873,3
+"e:National Reconditioning Company, Incorporated","National Reconditioning Company, Incorporated",employer,10,0.03322259136212625,10
+e:National Refractories Company,National Refractories Company,employer,2,0.006644518272425249,2
+e:National Resources Commission,National Resources Commission,employer,29,0.09634551495016612,69
+e:National Rice and Wheat Improvement Institute,National Rice and Wheat Improvement Institute,employer,3,0.009966777408637873,3
+e:National Southeastern University,National Southeastern University,employer,2,0.006644518272425249,2
+e:National Southwestern Associated University,National Southwestern Associated University,employer,12,0.03986710963455149,24
+e:National Tariff Commission,National Tariff Commission,employer,3,0.009966777408637873,3
+e:New England Aircraft School,New England Aircraft School,employer,2,0.006644518272425249,2
+e:New Republic Chinese Daily,New Republic Chinese Daily,employer,1,0.0033222591362126247,1
+e:New York Central Railroad Company,New York Central Railroad Company,employer,3,0.009966777408637873,3
+e:New York Central System,New York Central System,employer,6,0.019933554817275746,7
+e:New York City Chemical Corporation,New York City Chemical Corporation,employer,2,0.006644518272425249,2
+e:New York Commercial News,New York Commercial News,employer,1,0.0033222591362126247,1
+e:New York Infirmary Hospital,New York Infirmary Hospital,employer,1,0.0033222591362126247,1
+e:New York Memorial Hospital,New York Memorial Hospital,employer,3,0.009966777408637873,3
+e:New York Public Library,New York Public Library,employer,2,0.006644518272425249,2
+e:New York State Agricultural Experiment Station,New York State Agricultural Experiment Station,employer,2,0.006644518272425249,2
+e:New York State Department of Health,New York State Department of Health,employer,2,0.006644518272425249,2
+e:New York Stock Exchange,New York Stock Exchange,employer,2,0.006644518272425249,2
+e:North China River Conservancy Commission,North China River Conservancy Commission,employer,3,0.009966777408637873,3
+e:Northeast Air Lines,Northeast Air Lines,employer,2,0.006644518272425249,2
+e:Northeastern (Dongbei) University,Northeastern (Dongbei) University,employer,6,0.019933554817275746,6
+e:Northeastern University,Northeastern University,employer,1,0.0033222591362126247,1
+e:Northern Pacific Railroad Company,Northern Pacific Railroad Company,employer,1,0.0033222591362126247,1
+e:Northern Yunnan Mining Bureau,Northern Yunnan Mining Bureau,employer,1,0.0033222591362126247,1
+e:Northwestern University,Northwestern University,employer,3,0.009966777408637873,3
+e:Office of Censorship,Office of Censorship,employer,2,0.006644518272425249,2
+e:Office of Emergency Man,Office of Emergency Man,employer,2,0.006644518272425249,2
+e:Office of Scientific Research & Development,Office of Scientific Research & Development,employer,3,0.009966777408637873,3
+e:Office of Strategic Service,Office of Strategic Service,employer,5,0.016611295681063124,5
+e:Office of the Deputy Chief of the General Staff,Office of the Deputy Chief of the General Staff,employer,3,0.009966777408637873,3
+e:Office of the United States Army Attaché,Office of the United States Army Attaché,employer,3,0.009966777408637873,3
+e:Office of the United States Commercial Counsellor,Office of the United States Commercial Counsellor,employer,2,0.006644518272425249,2
+e:Office of the United States Naval Attaché,Office of the United States Naval Attaché,employer,1,0.0033222591362126247,1
+e:Ohio Division of Social Administration,Ohio Division of Social Administration,employer,1,0.0033222591362126247,1
+e:Ohio State University,Ohio State University,employer,1,0.0033222591362126247,1
+e:Ohio Wesleyan University Library,Ohio Wesleyan University Library,employer,2,0.006644518272425249,2
+e:Opium Suppression Commissioner,Opium Suppression Commissioner,employer,3,0.009966777408637873,3
+e:Ordnance Specialized School,Ordnance Specialized School,employer,3,0.009966777408637873,3
+e:Oregon Shipbuilding Corporation,Oregon Shipbuilding Corporation,employer,5,0.016611295681063124,5
+e:Oregon State College,Oregon State College,employer,8,0.026578073089700997,12
+e:Ottawa Consultate,Ottawa Consultate,employer,2,0.006644518272425249,2
+e:Overseas Chinese Affairs Commission,Overseas Chinese Affairs Commission,employer,1,0.0033222591362126247,1
+e:Overseas Chinese School,Overseas Chinese School,employer,4,0.013289036544850499,4
+e:Pacific News Agency,Pacific News Agency,employer,2,0.006644518272425249,2
+e:Pacification Commissioner of Mangshi,Pacification Commissioner of Mangshi,employer,2,0.006644518272425249,2
+e:Pan-American Airways System,Pan-American Airways System,employer,2,0.006644518272425249,2
+e:Park College,Park College,employer,3,0.009966777408637873,3
+e:Peiping Academy,Peiping Academy,employer,2,0.006644518272425249,2
+e:Peiping Municipal Psychiatric Hospital,Peiping Municipal Psychiatric Hospital,employer,2,0.006644518272425249,2
+e:Peiping Specialized School of Finance and Commerce,Peiping Specialized School of Finance and Commerce,employer,2,0.006644518272425249,2
+e:Peiping–Mukden Railway,Peiping–Mukden Railway,employer,2,0.006644518272425249,4
+e:Peiping–Suiyuan Railway,Peiping–Suiyuan Railway,employer,2,0.006644518272425249,2
+e:Peiyang University,Peiyang University,employer,1,0.0033222591362126247,1
+e:Peizhi Middle School,Peizhi Middle School,employer,2,0.006644518272425249,2
+e:Peking Union Medical College (PUMC),Peking Union Medical College (PUMC),employer,10,0.03322259136212625,25
+e:Peking University,Peking University,employer,16,0.053156146179401995,24
+e:Pennsylvania Railroad,Pennsylvania Railroad,employer,2,0.006644518272425249,2
+e:People's Daily (New York),People's Daily (New York),employer,1,0.0033222591362126247,1
+e:People's Political Council,People's Political Council,employer,3,0.009966777408637873,3
+"e:Perdon Wright Law Office, J.","Perdon Wright Law Office, J.",employer,3,0.009966777408637873,3
+e:Philadelphia Public Schools,Philadelphia Public Schools,employer,2,0.006644518272425249,2
+e:Philco Corporation,Philco Corporation,employer,3,0.009966777408637873,3
+e:Pillsbury's Flour Mills Company,Pillsbury's Flour Mills Company,employer,2,0.006644518272425249,2
+e:Political Critic,Political Critic,employer,3,0.009966777408637873,3
+e:Pomona College,Pomona College,employer,5,0.016611295681063124,6
+e:Pontiac Motor Corporation,Pontiac Motor Corporation,employer,1,0.0033222591362126247,1
+e:Power Fuel Plant,Power Fuel Plant,employer,1,0.0033222591362126247,1
+e:Primary School,Primary School,employer,2,0.006644518272425249,2
+e:Princeton Institute for Advanced Study,Princeton Institute for Advanced Study,employer,3,0.009966777408637873,3
+e:Princeton University,Princeton University,employer,2,0.006644518272425249,2
+e:Professional Pharmacy,Professional Pharmacy,employer,3,0.009966777408637873,3
+e:Providence College,Providence College,employer,2,0.006644518272425249,2
+e:Publicker Commercial Alcohol Company,Publicker Commercial Alcohol Company,employer,5,0.016611295681063124,5
+e:Puget Sound Navy Yard,Puget Sound Navy Yard,employer,3,0.009966777408637873,3
+e:Pullman Car Manufacturing Company,Pullman Car Manufacturing Company,employer,2,0.006644518272425249,2
+e:Purdue University,Purdue University,employer,2,0.006644518272425249,2
+e:Qingdao Railway,Qingdao Railway,employer,2,0.006644518272425249,2
+e:Qiuzhi Middle School,Qiuzhi Middle School,employer,3,0.009966777408637873,4
+e:Qixin Foreign Trading Company,Qixin Foreign Trading Company,employer,2,0.006644518272425249,2
+"e:R.L.A. Laboratories, Incorporated","R.L.A. Laboratories, Incorporated",employer,2,0.006644518272425249,2
+e:Radio Corporation of America (RCA),Radio Corporation of America (RCA),employer,11,0.036544850498338874,12
+e:Rangqin University (SoengKen University of Canton),Rangqin University (SoengKen University of Canton),employer,3,0.009966777408637873,3
+e:Reece Button-Hole Company,Reece Button-Hole Company,employer,1,0.0033222591362126247,1
+e:Reed & Carnrick Company,Reed & Carnrick Company,employer,4,0.013289036544850499,4
+e:Republic Aviation Corporation,Republic Aviation Corporation,employer,6,0.019933554817275746,6
+e:Republic Steel Mill,Republic Steel Mill,employer,2,0.006644518272425249,2
+e:Richmond Gard #2,Richmond Gard #2,employer,2,0.006644518272425249,2
+e:Riskin & Feer Architect,Riskin & Feer Architect,employer,2,0.006644518272425249,2
+e:Riverside Nursery School,Riverside Nursery School,employer,2,0.006644518272425249,2
+e:Rockefeller Foundation,Rockefeller Foundation,employer,2,0.006644518272425249,2
+e:Rola Company,Rola Company,employer,2,0.006644518272425249,2
+e:Royal Netherlands Navy,Royal Netherlands Navy,employer,2,0.006644518272425249,2
+e:Rural Financial Society,Rural Financial Society,employer,3,0.009966777408637873,3
+e:Rural Reconstruction Association,Rural Reconstruction Association,employer,3,0.009966777408637873,3
+e:Rural Reconstruction Talent Training Institute,Rural Reconstruction Talent Training Institute,employer,2,0.006644518272425249,2
+e:Rust Engineering Company,Rust Engineering Company,employer,6,0.019933554817275746,7
+e:Sacred Heart Hospital,Sacred Heart Hospital,employer,3,0.009966777408637873,3
+e:San Francisco Baptist Secondary School,San Francisco Baptist Secondary School,employer,2,0.006644518272425249,2
+e:Sanbei Company,Sanbei Company,employer,2,0.006644518272425249,2
+e:Sanderson & Porter,Sanderson & Porter,employer,1,0.0033222591362126247,1
+e:Seattle School of Economics,Seattle School of Economics,employer,2,0.006644518272425249,2
+e:Shaanxi Department of Education,Shaanxi Department of Education,employer,2,0.006644518272425249,2
+e:Shaanxi Provincial First Vocational School,Shaanxi Provincial First Vocational School,employer,2,0.006644518272425249,2
+e:Shandong First Provincial Middle School,Shandong First Provincial Middle School,employer,3,0.009966777408637873,3
+e:Shanghai Girls' Middle School,Shanghai Girls' Middle School,employer,2,0.006644518272425249,2
+e:Shanghai Huahua Middle School,Shanghai Huahua Middle School,employer,2,0.006644518272425249,2
+e:Shanghai Medical College,Shanghai Medical College,employer,3,0.009966777408637873,3
+e:Shanghai Municipal Council,Shanghai Municipal Council,employer,2,0.006644518272425249,2
+e:Shanghai Municipal Council Girls' Middle School,Shanghai Municipal Council Girls' Middle School,employer,1,0.0033222591362126247,1
+e:Shanghai Power Company,Shanghai Power Company,employer,2,0.006644518272425249,3
+e:Shanghai Ta Kung Pao,Shanghai Ta Kung Pao,employer,2,0.006644518272425249,2
+e:Shanghai Wuben Girls' High School,Shanghai Wuben Girls' High School,employer,3,0.009966777408637873,3
+e:Shanghai-Hangzhou-Ningbo Railway,Shanghai-Hangzhou-Ningbo Railway,employer,2,0.006644518272425249,2
+e:Shantou Post Office,Shantou Post Office,employer,3,0.009966777408637873,3
+e:Shunde Sugar Refinery,Shunde Sugar Refinery,employer,2,0.006644518272425249,2
+e:Sichuan Nanchong Provincial Middle School,Sichuan Nanchong Provincial Middle School,employer,2,0.006644518272425249,2
+e:Sichuan Oil Works,Sichuan Oil Works,employer,1,0.0033222591362126247,1
+e:Sichuan Provincial Geological Survey,Sichuan Provincial Geological Survey,employer,3,0.009966777408637873,3
+e:Sichuan Provincial Government Planning Commission,Sichuan Provincial Government Planning Commission,employer,2,0.006644518272425249,2
+e:Sichuan Sanjiang County Middle School,Sichuan Sanjiang County Middle School,employer,2,0.006644518272425249,2
+e:Sichuan Secondary School Teachers' Summer Training Class,Sichuan Secondary School Teachers' Summer Training Class,employer,3,0.009966777408637873,3
+e:Sichuan University,Sichuan University,employer,8,0.026578073089700997,9
+"e:Sin Hua Trust, Savings & Commercial Bank","Sin Hua Trust, Savings & Commercial Bank",employer,3,0.009966777408637873,3
+e:Sino-American Cultural Association,Sino-American Cultural Association,employer,1,0.0033222591362126247,1
+e:Sino-American Daily,Sino-American Daily,employer,1,0.0033222591362126247,1
+e:Sino-French Foundation Commission,Sino-French Foundation Commission,employer,2,0.006644518272425249,2
+e:Smith College,Smith College,employer,2,0.006644518272425249,2
+e:Social Welfare (Yishibao),Social Welfare (Yishibao),employer,3,0.009966777408637873,3
+e:Social Welfare Service Department,Social Welfare Service Department,employer,3,0.009966777408637873,3
+e:Socony-Vacuum Oil Company Incorporated,Socony-Vacuum Oil Company Incorporated,employer,5,0.016611295681063124,6
+e:Songjiang Guangzheng Middle School,Songjiang Guangzheng Middle School,employer,3,0.009966777408637873,3
+e:Soochow University,Soochow University,employer,11,0.036544850498338874,15
+e:Southern Gansu Petroleum Bureau,Southern Gansu Petroleum Bureau,employer,1,0.0033222591362126247,1
+e:Southern Pacific Railway Company,Southern Pacific Railway Company,employer,3,0.009966777408637873,3
+e:Southern University,Southern University,employer,2,0.006644518272425249,2
+e:Southwestern Highway,Southwestern Highway,employer,2,0.006644518272425249,2
+e:Sparks-Withington Company,Sparks-Withington Company,employer,2,0.006644518272425249,2
+e:Specialized School of Taxation,Specialized School of Taxation,employer,1,0.0033222591362126247,1
+e:Sperry Gyroscope Research Laboratory,Sperry Gyroscope Research Laboratory,employer,2,0.006644518272425249,2
+e:St. Francis Hospital,St. Francis Hospital,employer,1,0.0033222591362126247,1
+e:St. John’s University,St. John’s University,employer,2,0.006644518272425249,2
+e:St. Louis Ordnance Plant,St. Louis Ordnance Plant,employer,2,0.006644518272425249,2
+e:St. Luke Hospital,St. Luke Hospital,employer,2,0.006644518272425249,2
+e:St. Paul's College,St. Paul's College,employer,2,0.006644518272425249,2
+e:Standard Oil Company of New York,Standard Oil Company of New York,employer,4,0.013289036544850499,4
+e:Standard Oil Development Company,Standard Oil Development Company,employer,5,0.016611295681063124,7
+e:Stanford University,Stanford University,employer,3,0.009966777408637873,4
+e:State of California Division of Highway,State of California Division of Highway,employer,2,0.006644518272425249,2
+e:State of Connecticut,State of Connecticut,employer,3,0.009966777408637873,3
+e:Steel Company of Canada,Steel Company of Canada,employer,3,0.009966777408637873,3
+e:Sterling Engineering & Manufacturing Company,Sterling Engineering & Manufacturing Company,employer,2,0.006644518272425249,2
+e:Stinson Aircraft Corporation,Stinson Aircraft Corporation,employer,4,0.013289036544850499,5
+e:Stone & Webster Engineering Corporation,Stone & Webster Engineering Corporation,employer,3,0.009966777408637873,3
+e:Stran Steel Corporation,Stran Steel Corporation,employer,1,0.0033222591362126247,1
+e:Studebaker Corporation,Studebaker Corporation,employer,1,0.0033222591362126247,1
+e:Sun Yat-sen University,Sun Yat-sen University,employer,17,0.05647840531561462,21
+e:Sundstrand Machine Tool Company,Sundstrand Machine Tool Company,employer,3,0.009966777408637873,3
+e:Swiss Legation,Swiss Legation,employer,2,0.006644518272425249,2
+e:Swiss-American Gear Corporation,Swiss-American Gear Corporation,employer,2,0.006644518272425249,2
+e:Sylvanin Electric Product Incorporated,Sylvanin Electric Product Incorporated,employer,2,0.006644518272425249,2
+e:Syracuse University,Syracuse University,employer,5,0.016611295681063124,6
+e:Tacomy Engineering Company,Tacomy Engineering Company,employer,2,0.006644518272425249,2
+"e:Taishan County Secondary School, Guangdong","Taishan County Secondary School, Guangdong",employer,2,0.006644518272425249,2
+"e:Taohua Datong Company, Amoy","Taohua Datong Company, Amoy",employer,2,0.006644518272425249,2
+e:Tax Police Corps,Tax Police Corps,employer,1,0.0033222591362126247,1
+e:Tennessee Valley Authority,Tennessee Valley Authority,employer,3,0.009966777408637873,3
+e:Texas Company,Texas Company,employer,2,0.006644518272425249,2
+e:The City College of New York,The City College of New York,employer,2,0.006644518272425249,2
+e:Third Fleet,Third Fleet,employer,1,0.0033222591362126247,1
+e:Three Principles of the People Youth Corps,Three Principles of the People Youth Corps,employer,2,0.006644518272425249,2
+e:Thunderbird Field,Thunderbird Field,employer,2,0.006644518272425249,2
+e:Tianjin French-Chinese College,Tianjin French-Chinese College,employer,3,0.009966777408637873,3
+e:Tianjin Institute of Commerce and Industry,Tianjin Institute of Commerce and Industry,employer,2,0.006644518272425249,4
+e:Tianshenggang Power Plant,Tianshenggang Power Plant,employer,1,0.0033222591362126247,1
+e:Tientsin–Pukow Railway,Tientsin–Pukow Railway,employer,3,0.009966777408637873,3
+e:Trico Products Corporation,Trico Products Corporation,employer,2,0.006644518272425249,2
+e:Tsinghua Mechanized Training School,Tsinghua Mechanized Training School,employer,2,0.006644518272425249,2
+e:Tsinghua University,Tsinghua University,employer,39,0.12956810631229235,93
+e:Twelfth Infantry Division,Twelfth Infantry Division,employer,2,0.006644518272425249,2
+e:Union Audit Bureau,Union Audit Bureau,employer,2,0.006644518272425249,2
+e:United Arts Dental Laboratory,United Arts Dental Laboratory,employer,1,0.0033222591362126247,1
+e:United China Relief,United China Relief,employer,8,0.026578073089700997,8
+e:United Nations,United Nations,employer,2,0.006644518272425249,2
+e:United Nations Relief and Rehabilitation Administration,United Nations Relief and Rehabilitation Administration,employer,1,0.0033222591362126247,1
+e:United States Agriculture Western Regional Laboratory,United States Agriculture Western Regional Laboratory,employer,1,0.0033222591362126247,1
+e:United States Air Corporation,United States Air Corporation,employer,2,0.006644518272425249,2
+e:United States Army,United States Army,employer,7,0.023255813953488372,8
+e:United States Bureau Of Mines,United States Bureau Of Mines,employer,2,0.006644518272425249,2
+e:United States Bureau of Census,United States Bureau of Census,employer,2,0.006644518272425249,2
+e:United States Department of Agriculture,United States Department of Agriculture,employer,5,0.016611295681063124,5
+e:United States Department of Interior,United States Department of Interior,employer,12,0.03986710963455149,12
+e:United States Department of Labor,United States Department of Labor,employer,1,0.0033222591362126247,1
+e:United States Department of War,United States Department of War,employer,10,0.03322259136212625,10
+e:United States Educational Mission,United States Educational Mission,employer,3,0.009966777408637873,3
+e:United States Embassy,United States Embassy,employer,23,0.07641196013289037,32
+e:United States Military Mission,United States Military Mission,employer,8,0.026578073089700997,8
+e:United States Naval Liaison Staff Office,United States Naval Liaison Staff Office,employer,3,0.009966777408637873,3
+e:United States Navy,United States Navy,employer,5,0.016611295681063124,5
+e:United States Nitrate Plant 02,United States Nitrate Plant 02,employer,1,0.0033222591362126247,1
+e:United States Office of War Information,United States Office of War Information,employer,10,0.03322259136212625,12
+e:United States Plywood Corporation,United States Plywood Corporation,employer,2,0.006644518272425249,2
+e:United States Steel Export Company,United States Steel Export Company,employer,8,0.026578073089700997,8
+e:United States Treasury Department,United States Treasury Department,employer,3,0.009966777408637873,3
+e:United States Waterways Experiment Station,United States Waterways Experiment Station,employer,3,0.009966777408637873,3
+e:Universal Camera Corporation,Universal Camera Corporation,employer,1,0.0033222591362126247,1
+e:Universal Radio,Universal Radio,employer,2,0.006644518272425249,2
+e:Universal Trading Corporation,Universal Trading Corporation,employer,31,0.10299003322259136,76
+e:University of Arkansas,University of Arkansas,employer,2,0.006644518272425249,2
+e:University of California,University of California,employer,15,0.04983388704318937,22
+e:University of Chicago,University of Chicago,employer,17,0.05647840531561462,28
+e:University of Colorado,University of Colorado,employer,3,0.009966777408637873,3
+e:University of Hawaii,University of Hawaii,employer,3,0.009966777408637873,4
+e:University of Illinois,University of Illinois,employer,3,0.009966777408637873,4
+e:University of Michigan,University of Michigan,employer,15,0.04983388704318937,36
+e:University of Minnesota,University of Minnesota,employer,9,0.029900332225913623,18
+e:University of Nanking (Ginling University),University of Nanking (Ginling University),employer,11,0.036544850498338874,19
+e:University of Notre Dame,University of Notre Dame,employer,1,0.0033222591362126247,2
+e:University of Oregon,University of Oregon,employer,3,0.009966777408637873,3
+e:University of Pennsylvania,University of Pennsylvania,employer,4,0.013289036544850499,4
+e:University of Pittsburgh,University of Pittsburgh,employer,4,0.013289036544850499,5
+e:University of Shanghai,University of Shanghai,employer,6,0.019933554817275746,9
+e:University of South California,University of South California,employer,2,0.006644518272425249,2
+e:University of Southern California,University of Southern California,employer,6,0.019933554817275746,8
+e:University of Washington,University of Washington,employer,2,0.006644518272425249,2
+e:University of Wisconsin,University of Wisconsin,employer,1,0.0033222591362126247,1
+e:Utah Copper Company,Utah Copper Company,employer,1,0.0033222591362126247,1
+e:Utopia University (Datong University),Utopia University (Datong University),employer,2,0.006644518272425249,2
+e:Vanderbilt University,Vanderbilt University,employer,2,0.006644518272425249,2
+e:Victor Chemical Works,Victor Chemical Works,employer,1,0.0033222591362126247,1
+e:Vidal Research Corporation,Vidal Research Corporation,employer,2,0.006644518272425249,2
+e:Virginia Hospital Medical College,Virginia Hospital Medical College,employer,2,0.006644518272425249,2
+e:Vought-Sikorsky Aircraft Company,Vought-Sikorsky Aircraft Company,employer,5,0.016611295681063124,5
+"e:Vultee Aircraft, Incorporated","Vultee Aircraft, Incorporated",employer,3,0.009966777408637873,3
+e:Wah Chang Trading Corporation,Wah Chang Trading Corporation,employer,10,0.03322259136212625,14
+e:Wally Timm Company,Wally Timm Company,employer,2,0.006644518272425249,2
+"e:Warren Company, S.D.","Warren Company, S.D.",employer,2,0.006644518272425249,2
+e:Washington Pump & Machinery Company,Washington Pump & Machinery Company,employer,4,0.013289036544850499,4
+e:Wayland Academy (Hangzhou Huilan Middle School),Wayland Academy (Hangzhou Huilan Middle School),employer,2,0.006644518272425249,2
+e:Weihaiwei Administrative Office,Weihaiwei Administrative Office,employer,2,0.006644518272425249,2
+e:Wells Fargo Bank & Union Trust Company,Wells Fargo Bank & Union Trust Company,employer,2,0.006644518272425249,2
+e:Wenshang County Government,Wenshang County Government,employer,3,0.009966777408637873,3
+e:West China Union University,West China Union University,employer,5,0.016611295681063124,6
+e:Western Electric Company,Western Electric Company,employer,5,0.016611295681063124,5
+e:Western Yunnan Railway,Western Yunnan Railway,employer,1,0.0033222591362126247,1
+e:Westinghouse Electric Manufacturing Company,Westinghouse Electric Manufacturing Company,employer,6,0.019933554817275746,6
+e:Whampoa Military Academy,Whampoa Military Academy,employer,2,0.006644518272425249,2
+"e:White Engineering Corporation, J.G.","White Engineering Corporation, J.G.",employer,1,0.0033222591362126247,1
+e:Willamette Iron & Steel Works,Willamette Iron & Steel Works,employer,4,0.013289036544850499,4
+e:Wilputte Coke Oven Company,Wilputte Coke Oven Company,employer,1,0.0033222591362126247,1
+e:World Book Company,World Book Company,employer,3,0.009966777408637873,3
+e:Wu County Hospital,Wu County Hospital,employer,3,0.009966777408637873,3
+e:Wu County Opium Rehabilitation Centre,Wu County Opium Rehabilitation Centre,employer,3,0.009966777408637873,3
+e:Wuhan Daily,Wuhan Daily,employer,2,0.006644518272425249,2
+e:Wuhan University,Wuhan University,employer,9,0.029900332225913623,10
+e:Wuhu County Education Bureau,Wuhu County Education Bureau,employer,3,0.009966777408637873,3
+e:Wuzhou Municipal Education Bureau,Wuzhou Municipal Education Bureau,employer,3,0.009966777408637873,3
+e:Xiamen Municipal Government,Xiamen Municipal Government,employer,1,0.0033222591362126247,1
+e:Xiang-Gui Railway Assistant Engineering Office,Xiang-Gui Railway Assistant Engineering Office,employer,1,0.0033222591362126247,1
+e:Xinjiang Provincial Capital,Xinjiang Provincial Capital,employer,2,0.006644518272425249,2
+"e:Xinyi Pharmaceutical Works, Shanghai","Xinyi Pharmaceutical Works, Shanghai",employer,2,0.006644518272425249,2
+e:Xi’an Field Headquarters,Xi’an Field Headquarters,employer,2,0.006644518272425249,2
+e:Yale University,Yale University,employer,13,0.04318936877076412,15
+e:Yellow River Commission,Yellow River Commission,employer,3,0.009966777408637873,3
+e:Yenching University,Yenching University,employer,17,0.05647840531561462,36
+e:Yien Yieh Commercial Bank,Yien Yieh Commercial Bank,employer,2,0.006644518272425249,2
+"e:Yingguang Secondary School, Canton","Yingguang Secondary School, Canton",employer,1,0.0033222591362126247,1
+e:Yongli Chemical Industry Co.,Yongli Chemical Industry Co.,employer,3,0.009966777408637873,3
+e:Yongtai Company,Yongtai Company,employer,2,0.006644518272425249,2
+e:York Aircraft Corporation,York Aircraft Corporation,employer,2,0.006644518272425249,2
+e:Young China Morning News,Young China Morning News,employer,1,0.0033222591362126247,1
+e:Young Men’s Christian Association (YMCA),Young Men’s Christian Association (YMCA),employer,6,0.019933554817275746,7
+e:Young Women's Christian Association (YWCA),Young Women's Christian Association (YWCA),employer,5,0.016611295681063124,5
+e:Yuantailin Transport Company,Yuantailin Transport Company,employer,1,0.0033222591362126247,1
+"e:Yufeng Cotton-Spinning Mill, Henan","Yufeng Cotton-Spinning Mill, Henan",employer,1,0.0033222591362126247,1
+e:Yuhua Enterprise Finance Company,Yuhua Enterprise Finance Company,employer,3,0.009966777408637873,3
+"e:Yumei Secondary School, Taishan","Yumei Secondary School, Taishan",employer,2,0.006644518272425249,2
+e:Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,employer,2,0.006644518272425249,2
+e:Yunnan First Provincial Middle School,Yunnan First Provincial Middle School,employer,4,0.013289036544850499,4
+e:Yunnan Investigation & Design Commission,Yunnan Investigation & Design Commission,employer,2,0.006644518272425249,2
+e:Yunnan Provincial Economic Commission,Yunnan Provincial Economic Commission,employer,2,0.006644518272425249,2
+e:Yunnan University,Yunnan University,employer,4,0.013289036544850499,5
+e:Yunnan-Guangxi Railway,Yunnan-Guangxi Railway,employer,1,0.0033222591362126247,1
+e:Yunnan–Burma Railway,Yunnan–Burma Railway,employer,4,0.013289036544850499,5
+e:Zhejiang Bureau of Entomology,Zhejiang Bureau of Entomology,employer,2,0.006644518272425249,2
+e:Zhejiang Provincial Hangzhou Normal School,Zhejiang Provincial Hangzhou Normal School,employer,3,0.009966777408637873,3
+e:Zhejiang Provincial Senior High School,Zhejiang Provincial Senior High School,employer,1,0.0033222591362126247,1
+e:Zhejiang University,Zhejiang University,employer,18,0.059800664451827246,20
+e:Zhejiang-Jiangxi Railway Administration,Zhejiang-Jiangxi Railway Administration,employer,3,0.009966777408637873,3
+e:Zhengtai Railway Engineering Office,Zhengtai Railway Engineering Office,employer,1,0.0033222591362126247,1
+e:Zhenjiang Dazhao Electric Light & Power Company,Zhenjiang Dazhao Electric Light & Power Company,employer,1,0.0033222591362126247,1
+e:Zhongfu Coal Mining Company,Zhongfu Coal Mining Company,employer,1,0.0033222591362126247,1
+e:Zhonghua Girls' Middle School,Zhonghua Girls' Middle School,employer,2,0.006644518272425249,2
+e:Zhonghua Middle School (San Francisco),Zhonghua Middle School (San Francisco),employer,2,0.006644518272425249,2
+e:Zhonghua News Agency,Zhonghua News Agency,employer,4,0.013289036544850499,4
+e:Zhonghua School (Chicago),Zhonghua School (Chicago),employer,3,0.009966777408637873,3
+e:Zhonghua School (Seattle),Zhonghua School (Seattle),employer,3,0.009966777408637873,3
+e:Zhonghua School [Provincial],Zhonghua School [Provincial],employer,2,0.006644518272425249,2
+e:Zhongshan Middle School,Zhongshan Middle School,employer,2,0.006644518272425249,2
+e:Zhongxiao Bank,Zhongxiao Bank,employer,2,0.006644518272425249,2
+e:Zhoushan Secondary School,Zhoushan Secondary School,employer,2,0.006644518272425249,2
+e:Ziliujing Power Plant,Ziliujing Power Plant,employer,1,0.0033222591362126247,1
+e:lowa Agricultural Experiment Station,lowa Agricultural Experiment Station,employer,2,0.006644518272425249,2
+u:Aachen Technical University,Aachen Technical University,university,4,0.005284015852047556,4
+u:Air Force Technical College,Air Force Technical College,university,1,0.001321003963011889,1
+u:Alfred University,Alfred University,university,1,0.001321003963011889,1
+u:American Conservatory of Music,American Conservatory of Music,university,1,0.001321003963011889,1
+u:American National University,American National University,university,4,0.005284015852047556,4
+u:Antioch College,Antioch College,university,3,0.003963011889035667,3
+u:Arizona State Teachers' College,Arizona State Teachers' College,university,1,0.001321003963011889,1
+u:Arkansas State College,Arkansas State College,university,3,0.003963011889035667,3
+u:Armstrong Junior College,Armstrong Junior College,university,1,0.001321003963011889,1
+u:Army Mechanization School,Army Mechanization School,university,2,0.002642007926023778,5
+u:Army Signal Corps School,Army Signal Corps School,university,2,0.002642007926023778,2
+u:Army University,Army University,university,3,0.003963011889035667,3
+u:Art Institute of Chicago,Art Institute of Chicago,university,4,0.005284015852047556,4
+u:Asbury College,Asbury College,university,2,0.002642007926023778,2
+u:Atlantic Union College,Atlantic Union College,university,2,0.002642007926023778,2
+u:Aurora University,Aurora University,university,1,0.001321003963011889,1
+u:Baldwin Wallace College,Baldwin Wallace College,university,3,0.003963011889035667,3
+u:Barnard College,Barnard College,university,1,0.001321003963011889,1
+u:Baylor University,Baylor University,university,1,0.001321003963011889,1
+u:Beijing University,Beijing University,university,36,0.047556142668428,43
+u:Beiyang University,Beiyang University,university,14,0.018494055482166448,17
+u:Bennett College,Bennett College,university,1,0.001321003963011889,1
+u:Birmingham University,Birmingham University,university,3,0.003963011889035667,3
+u:Boston University,Boston University,university,4,0.005284015852047556,4
+u:Brown University,Brown University,university,5,0.0066050198150594455,5
+u:Bryn Mawr College,Bryn Mawr College,university,1,0.001321003963011889,1
+u:California Institute of Technology,California Institute of Technology,university,24,0.031704095112285335,30
+u:Cambridge University,Cambridge University,university,12,0.015852047556142668,13
+u:Canisus College,Canisus College,university,2,0.002642007926023778,2
+u:Carleton College,Carleton College,university,2,0.002642007926023778,2
+u:Carnegie Institute of Technology,Carnegie Institute of Technology,university,5,0.0066050198150594455,5
+u:Carroll College,Carroll College,university,1,0.001321003963011889,1
+u:Case School of Applied Science,Case School of Applied Science,university,2,0.002642007926023778,2
+u:Catholic University of America,Catholic University of America,university,5,0.0066050198150594455,5
+u:Central Army Military Academy,Central Army Military Academy,university,9,0.011889035667107,20
+u:Central Political School,Central Political School,university,8,0.010568031704095112,9
+u:Central University,Central University,university,39,0.05151915455746367,53
+u:Chemical Institute of Lyon,Chemical Institute of Lyon,university,1,0.001321003963011889,1
+u:Chengdu Sino-French University,Chengdu Sino-French University,university,4,0.005284015852047556,4
+u:Chicago Aeronautical University,Chicago Aeronautical University,university,1,0.001321003963011889,1
+"u:Children Hospital, Massachusetts","Children Hospital, Massachusetts",university,1,0.001321003963011889,1
+u:China College University Department,China College University Department,university,4,0.005284015852047556,4
+u:China University,China University,university,6,0.007926023778071334,6
+u:Chongqing University,Chongqing University,university,1,0.001321003963011889,1
+u:Chrysler Institute of Engineering,Chrysler Institute of Engineering,university,1,0.001321003963011889,1
+u:City College of New York,City College of New York,university,5,0.0066050198150594455,5
+u:Claremont College,Claremont College,university,1,0.001321003963011889,1
+u:Clarence White School of Photography,Clarence White School of Photography,university,1,0.001321003963011889,1
+u:Clark University,Clark University,university,6,0.007926023778071334,6
+u:College of St. Elisabeth,College of St. Elisabeth,university,2,0.002642007926023778,3
+u:Colorado College,Colorado College,university,1,0.001321003963011889,1
+u:Colorado School of Mines,Colorado School of Mines,university,5,0.0066050198150594455,5
+u:Columbia University,Columbia University,university,98,0.12945838837516513,124
+u:Cornell University,Cornell University,university,39,0.05151915455746367,41
+u:Curtiss-Wright Technical Institute,Curtiss-Wright Technical Institute,university,4,0.005284015852047556,4
+u:Dartmouth College,Dartmouth College,university,1,0.001321003963011889,1
+u:Datong University,Datong University,university,9,0.011889035667107,9
+u:Daxia University,Daxia University,university,7,0.009247027741083224,7
+u:De La Salle College,De La Salle College,university,1,0.001321003963011889,1
+u:Denison University,Denison University,university,1,0.001321003963011889,1
+u:Detroit Institute of Technology,Detroit Institute of Technology,university,1,0.001321003963011889,1
+u:Dickinson College,Dickinson College,university,1,0.001321003963011889,1
+u:Drake University,Drake University,university,1,0.001321003963011889,1
+u:Drew University,Drew University,university,2,0.002642007926023778,2
+u:Duke University,Duke University,university,6,0.007926023778071334,6
+u:Duquesne University,Duquesne University,university,3,0.003963011889035667,3
+u:Ecole des Hautes Etudes Industrielles et Commerciales,Ecole des Hautes Etudes Industrielles et Commerciales,university,3,0.003963011889035667,3
+u:Edinburgh University,Edinburgh University,university,13,0.017173051519154558,15
+u:Embry–Riddle Aeronautical University (ERAU),Embry–Riddle Aeronautical University (ERAU),university,1,0.001321003963011889,1
+u:Emmanuel Missionary College,Emmanuel Missionary College,university,3,0.003963011889035667,3
+u:Field Artillery School,Field Artillery School,university,1,0.001321003963011889,1
+u:Fordham University,Fordham University,university,8,0.010568031704095112,9
+u:Fu-jen University,Fu-jen University,university,10,0.013210039630118891,12
+u:Fudan University,Fudan University,university,23,0.03038309114927345,26
+u:Fujian Union University,Fujian Union University,university,11,0.01453104359313078,15
+u:George Peabody College,George Peabody College,university,4,0.005284015852047556,4
+u:George Washington University,George Washington University,university,8,0.010568031704095112,9
+u:Georgetown University,Georgetown University,university,4,0.005284015852047556,4
+u:Georgia School of Technology,Georgia School of Technology,university,1,0.001321003963011889,1
+u:Ginling College,Ginling College,university,13,0.017173051519154558,13
+u:Glasgow University,Glasgow University,university,8,0.010568031704095112,8
+u:Gonzaga University,Gonzaga University,university,1,0.001321003963011889,1
+u:Goucher College,Goucher College,university,1,0.001321003963011889,1
+u:Guangdong College of Law,Guangdong College of Law,university,2,0.002642007926023778,2
+u:Guanghua University,Guanghua University,university,7,0.009247027741083224,7
+u:Guangxi University,Guangxi University,university,5,0.0066050198150594455,5
+u:Guangzhou University,Guangzhou University,university,1,0.001321003963011889,1
+u:Harbin Polytechnic Institute,Harbin Polytechnic Institute,university,1,0.001321003963011889,1
+u:Harvard University,Harvard University,university,64,0.0845442536327609,91
+u:Haverford College,Haverford College,university,5,0.0066050198150594455,5
+u:Heald's College,Heald's College,university,1,0.001321003963011889,1
+u:Heald’s Engineering College,Heald’s Engineering College,university,1,0.001321003963011889,1
+u:Hebei Institute of Technology,Hebei Institute of Technology,university,7,0.009247027741083224,7
+u:Hebei Provincial Institute of Technology,Hebei Provincial Institute of Technology,university,1,0.001321003963011889,1
+u:Hebei University,Hebei University,university,4,0.005284015852047556,4
+u:Henan University,Henan University,university,2,0.002642007926023778,2
+u:Hongkong University,Hongkong University,university,1,0.001321003963011889,1
+u:Huazhong University,Huazhong University,university,2,0.002642007926023778,2
+u:Hunan University,Hunan University,university,2,0.002642007926023778,2
+u:Hwa Nan College,Hwa Nan College,university,3,0.003963011889035667,3
+u:Ilegible,Ilegible,university,12,0.015852047556142668,12
+u:Illinois Institute of Technology,Illinois Institute of Technology,university,6,0.007926023778071334,6
+u:Indiana Technical College,Indiana Technical College,university,1,0.001321003963011889,2
+u:Indiana University,Indiana University,university,3,0.003963011889035667,3
+u:Institute for Advanced Study,Institute for Advanced Study,university,1,0.001321003963011889,1
+u:International University,International University,university,1,0.001321003963011889,1
+u:Iowa State College,Iowa State College,university,12,0.015852047556142668,13
+u:Jiaotong University,Jiaotong University,university,101,0.1334214002642008,170
+u:Jiaozuo Institute of Technology,Jiaozuo Institute of Technology,university,4,0.005284015852047556,4
+u:Jinan University,Jinan University,university,13,0.017173051519154558,14
+u:Jinling University,Jinling University,university,33,0.043593130779392336,43
+u:Johns Hopkins University,Johns Hopkins University,university,12,0.015852047556142668,12
+u:Kansas State College,Kansas State College,university,3,0.003963011889035667,3
+u:LaSalle College,LaSalle College,university,1,0.001321003963011889,1
+u:Lehigh University,Lehigh University,university,1,0.001321003963011889,1
+u:Linfield College,Linfield College,university,2,0.002642007926023778,2
+u:Lingnan University,Lingnan University,university,40,0.052840158520475564,50
+u:Louisiana State University,Louisiana State University,university,4,0.005284015852047556,4
+u:Lowell Textile Institute,Lowell Textile Institute,university,1,0.001321003963011889,1
+u:Loyola University,Loyola University,university,3,0.003963011889035667,3
+u:Madison College,Madison College,university,3,0.003963011889035667,3
+u:Manhattan College,Manhattan College,university,1,0.001321003963011889,1
+u:Mapúa Institute of Technology,Mapúa Institute of Technology,university,2,0.002642007926023778,2
+u:Marquette University,Marquette University,university,2,0.002642007926023778,2
+u:Mary Hardin-Baylor College,Mary Hardin-Baylor College,university,4,0.005284015852047556,4
+u:Maryville College,Maryville College,university,3,0.003963011889035667,3
+u:Massachusetts College of Pharmacy,Massachusetts College of Pharmacy,university,2,0.002642007926023778,2
+u:Massachusetts Institute of Technology,Massachusetts Institute of Technology,university,73,0.0964332892998679,115
+u:Master Institute of United Arts,Master Institute of United Arts,university,1,0.001321003963011889,1
+u:McGill University,McGill University,university,3,0.003963011889035667,3
+u:Medical College of Virginia,Medical College of Virginia,university,1,0.001321003963011889,1
+u:Mercer University,Mercer University,university,5,0.0066050198150594455,5
+u:Michigan State College,Michigan State College,university,7,0.009247027741083224,7
+u:Middlesex University,Middlesex University,university,1,0.001321003963011889,1
+u:Mills College,Mills College,university,4,0.005284015852047556,4
+u:Millsaps College,Millsaps College,university,1,0.001321003963011889,1
+u:Missouri School of Mines & Metals,Missouri School of Mines & Metals,university,2,0.002642007926023778,3
+u:Montana School of Mines,Montana School of Mines,university,1,0.001321003963011889,1
+u:Montana State College,Montana State College,university,1,0.001321003963011889,1
+u:Moody Bible Institute,Moody Bible Institute,university,1,0.001321003963011889,1
+u:Mount Holyoke College,Mount Holyoke College,university,4,0.005284015852047556,5
+u:Mount Mary College,Mount Mary College,university,2,0.002642007926023778,2
+u:Mount Union College,Mount Union College,university,2,0.002642007926023778,2
+u:Multnomah University,Multnomah University,university,1,0.001321003963011889,1
+u:Nankai School,Nankai School,university,2,0.002642007926023778,2
+u:Nankai University,Nankai University,university,22,0.02906208718626156,25
+u:Nanking Higher Normal School,Nanking Higher Normal School,university,6,0.007926023778071334,6
+u:National College of Music,National College of Music,university,2,0.002642007926023778,2
+u:Naval school,Naval school,university,2,0.002642007926023778,2
+u:New School For Social Research,New School For Social Research,university,4,0.005284015852047556,4
+u:New York University,New York University,university,65,0.08586525759577279,82
+u:Niagara University,Niagara University,university,2,0.002642007926023778,2
+u:Nihon University,Nihon University,university,3,0.003963011889035667,3
+u:Normal University,Normal University,university,14,0.018494055482166448,15
+u:Northeast University,Northeast University,university,10,0.013210039630118891,10
+u:Northeastern University,Northeastern University,university,8,0.010568031704095112,8
+u:Northwestern University,Northwestern University,university,9,0.011889035667107,9
+u:Oberlin College,Oberlin College,university,11,0.01453104359313078,11
+u:Ohio State University,Ohio State University,university,12,0.015852047556142668,13
+u:Ohio Wesleyan University,Ohio Wesleyan University,university,3,0.003963011889035667,3
+u:Oregon State College,Oregon State College,university,14,0.018494055482166448,18
+u:Oxford University,Oxford University,university,6,0.007926023778071334,7
+u:Pacific School of Religion,Pacific School of Religion,university,1,0.001321003963011889,1
+u:Park College,Park College,university,3,0.003963011889035667,3
+u:Parks Air College,Parks Air College,university,1,0.001321003963011889,1
+u:Peabody Conservatory of Music,Peabody Conservatory of Music,university,1,0.001321003963011889,1
+u:Peiping College of Finance and Commerce,Peiping College of Finance and Commerce,university,5,0.0066050198150594455,5
+u:Peiping Minguo University,Peiping Minguo University,university,1,0.001321003963011889,1
+u:Peking Metropolitan University,Peking Metropolitan University,university,3,0.003963011889035667,3
+u:Peking Union Medical College,Peking Union Medical College,university,8,0.010568031704095112,12
+u:Penn State College,Penn State College,university,13,0.017173051519154558,13
+u:Peter Bent Brigham Hospital,Peter Bent Brigham Hospital,university,1,0.001321003963011889,1
+u:Polytechnic Institute of Brooklyn,Polytechnic Institute of Brooklyn,university,5,0.0066050198150594455,5
+u:Pomona College,Pomona College,university,5,0.0066050198150594455,5
+u:Princeton Seminary,Princeton Seminary,university,2,0.002642007926023778,2
+u:Princeton University,Princeton University,university,11,0.01453104359313078,11
+u:Propaganda Fide,Propaganda Fide,university,3,0.003963011889035667,3
+u:Pughy College,Pughy College,university,1,0.001321003963011889,1
+u:Purdue University,Purdue University,university,47,0.062087186261558784,61
+u:Qilu University,Qilu University,university,11,0.01453104359313078,11
+u:Radcliffe College,Radcliffe College,university,3,0.003963011889035667,3
+u:Radio Corporation of America Institute,Radio Corporation of America Institute,university,1,0.001321003963011889,1
+u:Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,university,6,0.007926023778071334,6
+u:Rice Institute,Rice Institute,university,2,0.002642007926023778,2
+u:Rochester Institute of Technology,Rochester Institute of Technology,university,1,0.001321003963011889,1
+u:Rostock University,Rostock University,university,6,0.007926023778071334,6
+u:Royal Military College,Royal Military College,university,2,0.002642007926023778,2
+u:Royal Polytechnic University of Milan,Royal Polytechnic University of Milan,university,1,0.001321003963011889,1
+u:Rutgers University,Rutgers University,university,2,0.002642007926023778,2
+u:San Francisco State College,San Francisco State College,university,1,0.001321003963011889,1
+u:Seton Hill College,Seton Hill College,university,1,0.001321003963011889,1
+u:Shandong University,Shandong University,university,5,0.0066050198150594455,5
+u:Shanghai Medical College,Shanghai Medical College,university,1,0.001321003963011889,1
+u:Shanghai Sanyu University,Shanghai Sanyu University,university,3,0.003963011889035667,3
+u:Shanghai University,Shanghai University,university,39,0.05151915455746367,44
+u:Shanghai Xinhua University of Art,Shanghai Xinhua University of Art,university,2,0.002642007926023778,2
+u:Simmons College,Simmons College,university,2,0.002642007926023778,2
+u:Sino-French University,Sino-French University,university,3,0.003963011889035667,3
+u:Sino-Russian Industrial University,Sino-Russian Industrial University,university,1,0.001321003963011889,1
+u:Smith College,Smith College,university,2,0.002642007926023778,2
+u:Southeast University,Southeast University,university,28,0.036988110964332896,30
+u:Southern College,Southern College,university,2,0.002642007926023778,2
+u:Southwest Associated University,Southwest Associated University,university,2,0.002642007926023778,2
+u:Southwestern University,Southwestern University,university,1,0.001321003963011889,1
+u:Spartan College of Aeronautics and Technology,Spartan College of Aeronautics and Technology,university,2,0.002642007926023778,2
+u:Springfield College,Springfield College,university,2,0.002642007926023778,2
+u:St. John's Hospital,St. John's Hospital,university,1,0.001321003963011889,1
+u:St. John's University,St. John's University,university,52,0.06869220607661823,62
+u:St. Louis College of Pharmacy,St. Louis College of Pharmacy,university,3,0.003963011889035667,3
+u:St. Paul's Girls' School,St. Paul's Girls' School,university,1,0.001321003963011889,1
+u:Stanford University,Stanford University,university,30,0.03963011889035667,32
+u:State University of Iowa,State University of Iowa,university,30,0.03963011889035667,32
+u:Stevens Institute of Technology,Stevens Institute of Technology,university,1,0.001321003963011889,1
+u:Sweet Briar College,Sweet Briar College,university,1,0.001321003963011889,1
+u:Syracuse University,Syracuse University,university,8,0.010568031704095112,9
+u:Taliesin Fellowship,Taliesin Fellowship,university,2,0.002642007926023778,2
+u:Tangshan Chiao Tung University,Tangshan Chiao Tung University,university,4,0.005284015852047556,4
+u:Taxation College,Taxation College,university,1,0.001321003963011889,1
+u:Technical College of Hanover,Technical College of Hanover,university,2,0.002642007926023778,2
+u:Technical University Berlin,Technical University Berlin,university,2,0.002642007926023778,2
+u:Texas Technical College,Texas Technical College,university,1,0.001321003963011889,1
+u:Tianjin Industrial and Commercial College,Tianjin Industrial and Commercial College,university,4,0.005284015852047556,5
+u:Tientsin Institute of Commerce,Tientsin Institute of Commerce,university,2,0.002642007926023778,2
+u:Tokyo Imperial University,Tokyo Imperial University,university,2,0.002642007926023778,2
+u:Tokyo University of Commerce,Tokyo University of Commerce,university,1,0.001321003963011889,1
+u:Tri-State College,Tri-State College,university,9,0.011889035667107,12
+u:Tsinghua University,Tsinghua University,university,80,0.10568031704095113,130
+u:Tulane University,Tulane University,university,3,0.003963011889035667,3
+u:University de Liege,University de Liege,university,1,0.001321003963011889,1
+u:University de Nancy,University de Nancy,university,2,0.002642007926023778,2
+u:University of Berlin,University of Berlin,university,3,0.003963011889035667,3
+u:University of Bonn,University of Bonn,university,2,0.002642007926023778,2
+u:University of British Columbia,University of British Columbia,university,1,0.001321003963011889,1
+u:University of California,University of California,university,55,0.0726552179656539,70
+u:University of Chicago,University of Chicago,university,60,0.07926023778071334,71
+u:University of Cincinnati,University of Cincinnati,university,5,0.0066050198150594455,5
+u:University of Colorado,University of Colorado,university,7,0.009247027741083224,7
+u:University of Costa Rica,University of Costa Rica,university,1,0.001321003963011889,1
+u:University of Denver,University of Denver,university,2,0.002642007926023778,2
+u:University of Detroit,University of Detroit,university,2,0.002642007926023778,2
+u:University of Dubuque,University of Dubuque,university,2,0.002642007926023778,3
+u:University of Hawaii,University of Hawaii,university,6,0.007926023778071334,6
+u:University of Hong Kong,University of Hong Kong,university,12,0.015852047556142668,12
+u:University of Houston,University of Houston,university,7,0.009247027741083224,7
+u:University of Illinois,University of Illinois,university,47,0.062087186261558784,60
+u:University of Iowa,University of Iowa,university,1,0.001321003963011889,1
+u:University of Kansas,University of Kansas,university,2,0.002642007926023778,2
+u:University of Kentucky,University of Kentucky,university,1,0.001321003963011889,1
+u:University of London,University of London,university,20,0.026420079260237782,22
+u:University of Lyon,University of Lyon,university,1,0.001321003963011889,1
+u:University of Maryland,University of Maryland,university,5,0.0066050198150594455,5
+u:University of Michigan,University of Michigan,university,101,0.1334214002642008,154
+u:University of Minnesota,University of Minnesota,university,45,0.059445178335535004,56
+u:University of Missouri,University of Missouri,university,12,0.015852047556142668,14
+u:University of Notre Dame,University of Notre Dame,university,8,0.010568031704095112,9
+u:University of Oklahoma,University of Oklahoma,university,6,0.007926023778071334,6
+u:University of Paris,University of Paris,university,10,0.013210039630118891,10
+u:University of Pennsylvania,University of Pennsylvania,university,34,0.04491413474240423,37
+u:University of Perugia,University of Perugia,university,2,0.002642007926023778,2
+u:University of Pittsburgh,University of Pittsburgh,university,8,0.010568031704095112,10
+u:University of Richmond,University of Richmond,university,3,0.003963011889035667,3
+u:University of Rochester,University of Rochester,university,1,0.001321003963011889,1
+u:University of San Francisco,University of San Francisco,university,5,0.0066050198150594455,5
+u:University of Santo Tomas,University of Santo Tomas,university,1,0.001321003963011889,1
+u:University of Southern California,University of Southern California,university,29,0.03830911492734478,33
+u:University of Tennessee,University of Tennessee,university,1,0.001321003963011889,1
+u:University of Texas,University of Texas,university,5,0.0066050198150594455,5
+u:University of Toronto,University of Toronto,university,7,0.009247027741083224,12
+u:University of Turin,University of Turin,university,1,0.001321003963011889,1
+u:University of Washington,University of Washington,university,22,0.02906208718626156,25
+u:University of Wisconsin,University of Wisconsin,university,18,0.023778071334214,18
+u:University of the Philippines,University of the Philippines,university,4,0.005284015852047556,4
+u:Washington & Jefferson College,Washington & Jefferson College,university,1,0.001321003963011889,1
+u:Washington Missionary College,Washington Missionary College,university,1,0.001321003963011889,1
+u:Washington State College,Washington State College,university,1,0.001321003963011889,1
+u:Washington University,Washington University,university,4,0.005284015852047556,4
+u:Wayne University,Wayne University,university,1,0.001321003963011889,1
+u:Wellesley College,Wellesley College,university,1,0.001321003963011889,1
+u:Wentworth Institute,Wentworth Institute,university,2,0.002642007926023778,2
+u:West China Union University,West China Union University,university,3,0.003963011889035667,3
+u:West China University,West China University,university,6,0.007926023778071334,6
+u:Western Reserve University,Western Reserve University,university,1,0.001321003963011889,1
+u:Wheaton College,Wheaton College,university,4,0.005284015852047556,4
+u:Williams Hospital,Williams Hospital,university,1,0.001321003963011889,1
+u:Witwatersrand College,Witwatersrand College,university,2,0.002642007926023778,2
+u:Women's Christian Medical College,Women's Christian Medical College,university,1,0.001321003963011889,1
+u:Worcester Polytechnic Institute,Worcester Polytechnic Institute,university,1,0.001321003963011889,1
+u:Wuchang University,Wuchang University,university,1,0.001321003963011889,1
+u:Wuhan University,Wuhan University,university,6,0.007926023778071334,6
+u:Wusong Merchant Shipping School,Wusong Merchant Shipping School,university,5,0.0066050198150594455,5
+u:Xiamen University,Xiamen University,university,12,0.015852047556142668,13
+u:Yale University,Yale University,university,14,0.018494055482166448,15
+u:Yenching University,Yenching University,university,106,0.14002642007926025,155
+u:Yungli Chemical Industries Limited,Yungli Chemical Industries Limited,university,1,0.001321003963011889,1
+u:Zhejiang Provincial Technical College,Zhejiang Provincial Technical College,university,3,0.003963011889035667,3
+u:Zhejiang University,Zhejiang University,university,17,0.022457067371202115,24
+u:Zhijiang University,Zhijiang University,university,14,0.018494055482166448,17
+u:Zhizhi College,Zhizhi College,university,1,0.001321003963011889,1
+u:Zhonghua University,Zhonghua University,university,1,0.001321003963011889,1
+u:Zhongshan University,Zhongshan University,university,32,0.04227212681638045,38
+u:École Libre des Sciences Politiques,École Libre des Sciences Politiques,university,1,0.001321003963011889,1

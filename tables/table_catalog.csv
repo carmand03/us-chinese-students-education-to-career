@@ -1,0 +1,26 @@
+table,rows,fields
+education_normalized.csv,3151,NameID; university; university_country; discipline; degree; education_level; year; city; province; lat; lon; education_id; university_label_source; valid_coordinates
+education_with_person_attributes.csv,3151,NameID; university; university_country; discipline; degree; education_level; year; city; province; lat; lon; education_id; university_label_source; valid_coordinates; gender; birth_year; Birth_province_py_st; study_start; study_end; label; birth_decade; study_start_decade
+education_work_city_flows.csv,972,education_place; work_place; education_lat; education_lon; work_lat; work_lon; individuals; NameIDs; individual_names
+employment_normalized.csv,1689,record_id; NameID; employer; employer_country; sector; level; status; position; city; province; lat; lon; valid_coordinates
+employment_with_person_attributes.csv,1689,record_id; NameID; employer; employer_country; sector; level; status; position; city; province; lat; lon; valid_coordinates; gender; birth_year; Birth_province_py_st; study_start; study_end; label; birth_decade; study_start_decade
+individual_employer_affiliations.csv,1573,NameID; employer
+individual_university_affiliations.csv,1785,NameID; university
+map_coverage.csv,6,metric; value
+person_coverage.csv,1613,NameID; gender; has_known_university; has_known_employer; eligible_for_combined_views
+person_employer_edges.csv,1573,source; target; weight
+person_employer_nodes.csv,1669,id; kind; degree; centrality
+person_university_edges.csv,1785,source; target; weight
+person_university_nodes.csv,1213,id; kind; degree; centrality
+sankey_direct_links.csv,2520,source; target; weight; individuals; NameIDs; individual_names
+source_manifest.csv,3,file; sha256
+students_synthetic.csv,1613,NameID; gender; birth_year; Birth_province_py_st; study_start; study_end; label; birth_decade; study_start_decade
+summary_metrics.csv,17,metric; value
+three_mode_edges.csv,3358,source; target; weight
+three_mode_nodes.csv,1970,id; kind; degree; centrality
+university_employer_edges.csv,2520,university; employer; shared_students; NameIDs
+university_employer_links_by_person.csv,3085,NameID; university; employer; allocated_student_weight
+university_employer_nodes.csv,1058,id; label; kind; degree; centrality; strength
+university_label_fallbacks.csv,17,NameID; university; university_country; discipline; degree; education_level; year; city; province; lat; lon; education_id; university_label_source; valid_coordinates
+unmapped_education_records.csv,11,NameID; university; university_country; discipline; degree; education_level; year; city; province; lat; lon; education_id; university_label_source; valid_coordinates
+unmapped_employment_records.csv,619,record_id; NameID; employer; employer_country; sector; level; status; position; city; province; lat; lon; valid_coordinates
