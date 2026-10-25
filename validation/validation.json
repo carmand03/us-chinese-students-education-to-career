@@ -1,0 +1,11 @@
+{
+  "person_key_unique": true,
+  "education_rows_preserved": true,
+  "appointment_rows_preserved": true,
+  "three_mode_nodes": 1970,
+  "three_mode_edges": 3358,
+  "projection_nodes": 1058,
+  "projection_edges": 2520,
+  "sankey_direct_pairs": 2520,
+  "map_people": 678
+}

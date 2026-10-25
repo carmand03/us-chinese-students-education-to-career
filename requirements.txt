@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==2.3.5
+networkx==3.4.2
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.29.5
+# Open in your existing Jupyter interface, or install jupyterlab.
+# Optional: Node.js for independent browser-engine logic checks.

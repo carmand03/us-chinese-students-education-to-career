@@ -1,0 +1,12 @@
+{
+  "display_order": [
+    "Student",
+    "Junior",
+    "Mid-Level",
+    "Senior",
+    "Executive",
+    "Unknown"
+  ],
+  "original_filter_values_preserved": true,
+  "verified": true
+}

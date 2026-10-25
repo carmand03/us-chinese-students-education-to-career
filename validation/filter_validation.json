@@ -1,0 +1,15 @@
+{
+  "filter_scenarios_passed": 39,
+  "network_modes_compared_with_networkx": 4,
+  "projection_shared_people_and_weights_verified": true,
+  "centrality_threshold_scenarios_passed": 16,
+  "direct_sankey_filter_scenarios_passed": 39,
+  "grouped_sankey_deduplication_scenarios_passed": 78,
+  "map_filter_and_coordinate_scenarios_passed": 39,
+  "endpoint_counts_deduplicate_linked_people": true,
+  "antimeridian_and_zero_vs_missing_coordinate_tests_passed": true,
+  "education_level_row_coupling_fixture_passed": true,
+  "network_tooltips_use_text_elements": true,
+  "physics_pace_pause_and_resume_controls_verified": true,
+  "browser_visual_test": "Not performed; local-file preview was blocked by application security in the prior analysis."
+}

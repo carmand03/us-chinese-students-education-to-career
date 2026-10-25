@@ -1,0 +1,32 @@
+[
+  {
+    "file": "education_career/index.html",
+    "inline_scripts_checked": 5,
+    "external_scripts": 0
+  },
+  {
+    "file": "education_career/university_employer.html",
+    "inline_scripts_checked": 5,
+    "external_scripts": 0
+  },
+  {
+    "file": "education_career/methods.html",
+    "inline_scripts_checked": 0,
+    "external_scripts": 0
+  },
+  {
+    "file": "education_career/individual_institutions.html",
+    "inline_scripts_checked": 5,
+    "external_scripts": 0
+  },
+  {
+    "file": "education_career/education_work_flows.html",
+    "inline_scripts_checked": 6,
+    "external_scripts": 0
+  },
+  {
+    "file": "education_career/education_employment_sankey.html",
+    "inline_scripts_checked": 5,
+    "external_scripts": 0
+  }
+]
